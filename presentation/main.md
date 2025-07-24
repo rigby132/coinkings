@@ -8,6 +8,12 @@ format:
         pdfengine: xelatex
 ---
 
+# Git
+
+Alle Unterlagen, Daten und Code:
+
+[https://github.com/rigby132/coinkings](https://github.com/rigby132/coinkings)
+
 # Inhalt
 
 - Recap
@@ -66,7 +72,7 @@ Daten in neo4j bekommen
 - Vorbereiten und dann einlesen (einfach)
 
 # Neo4j
-  ![](./images/neo4j/feeding.png)
+  ![](./images/neo4j/feeding.jpg)
 
 # Neo4j
   ![](./images/neo4j/csv_coin.png)
@@ -153,11 +159,11 @@ User Interface
 
 # Frontend
 
-![](./images/ui/gesamt.png)
+![](./images/ui/gesamt.jpg)
 
 # Frontend
 
-![](./images/ui/geclustered.png)
+![](./images/ui/geclustered.jpg)
 
 # Frontend
 
@@ -183,11 +189,11 @@ Ostgruppe vs Westgruppe
 
 # Ergebnisse
 
-![](./images/west_ost/bs1-bs5.png)
+![](./images/west_ost/bs1-bs5.jpg)
 
 # Ergebnisse
 
-![](./images/west_ost/bs6-bs9.png)
+![](./images/west_ost/bs6-bs9.jpg)
 
 # Ergebnisse
 
@@ -195,7 +201,7 @@ Visuelle Ähnlichkeit
 
 # Ergebnisse
 
-![](./images/similarity/gesamtbild.png)
+![](./images/similarity/gesamtbild.jpg)
 
 # Ergebnisse
 
@@ -203,7 +209,7 @@ Visuelle Ähnlichkeit
 
 # Ergebnisse
 
-![](./images/similarity/stradonice.png)
+![](./images/similarity/stradonice.jpg)
 
 # Ergebnisse
 
@@ -211,11 +217,11 @@ Visuelle Ähnlichkeit
 
 # Ergebnisse
 
-![](./images/similarity/altenburg_bevor.png)
+![](./images/similarity/altenburg_bevor.jpg)
 
 # Ergebnisse
 
-![](./images/similarity/altenburg_danach.png)
+![](./images/similarity/altenburg_danach.jpg)
 
 # Ergebnisse
 
@@ -231,11 +237,11 @@ Typengleichheit
 
 # Ergebnisse
 
-![](./images/typengleichheit/allen.png)
+![](./images/typengleichheit/allen.jpg)
 
 # Ergebnisse
 
-![](./images/typengleichheit/nick.png)
+![](./images/typengleichheit/nick.jpg)
 
 # Ergebnisse
 
@@ -273,8 +279,3 @@ Grundlegende Verbesserungen:
 - Analyse-Tool
 - Visualisierungs-Tool
 
-# Git
-
-Alle Unterlagen, Daten und Code:
-
-[https://github.com/rigby132/coinkings](https://github.com/rigby132/coinkings)
