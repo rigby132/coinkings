@@ -1,0 +1,81 @@
+LOAD CSV WITH HEADERS FROM 'file:///findspots.csv' AS row FIELDTERMINATOR ';' CREATE (:Findspot {name:row.placename, remark:row.remark})
+
+LOAD CSV WITH HEADERS FROM 'file:///coins.csv' AS row FIELDTERMINATOR ';' CREATE (:Coin {id:row.coin_id, collection: row.collection, inventory:row.inventory_id, hoard:row.hoard, weight:toFloat(row.weight), diameter:toFloat(row.diameter)})
+
+LOAD CSV WITH HEADERS FROM 'file:///found_in.csv' AS row FIELDTERMINATOR ';' MATCH (c:Coin {id:row.coin_id}) MATCH (f:Findspot {name:row.placename}) CREATE (c)-[:FOUND_IN]->(f)
+
+LOAD CSV WITH HEADERS FROM 'file:///types.csv' AS row FIELDTERMINATOR ';' CREATE (:Type {class:row.class, type:row.type, description_obv: row.desc_obv, description_rev: row.desc_rev})
+
+LOAD CSV WITH HEADERS FROM 'file:///classified_as.csv' AS row FIELDTERMINATOR ';' MATCH (c:Coin {id:row.coin_id}) MATCH (t:Type {class:row.class, type:row.type}) CREATE (c)-[:CLASSIFIED_AS]->(t)
+
+LOAD CSV WITH HEADERS FROM 'file:///coordinates.csv' AS row FIELDTERMINATOR ';' MATCH (f:Findspot {name:row.placename}) SET f.coordinates=[toFloat(row.latitude), toFloat(row.longitude)]
+
+LOAD CSV WITH HEADERS FROM 'file:///dies.csv' AS row FIELDTERMINATOR ';' MATCH (c:Coin {id:row.coin_id}) WHERE row.die_obv IS NOT NULL MERGE (do:Die:DieObverse {id:row.die_obv})
+
+LOAD CSV WITH HEADERS FROM 'file:///dies.csv' AS row FIELDTERMINATOR ';' MATCH (c:Coin {id:row.coin_id}) WHERE row.die_obv IS NOT NULL MATCH (d:Die:DieObverse {id:row.die_obv}) MERGE (d)-[:MINTED]->(c)
+
+LOAD CSV WITH HEADERS FROM 'file:///dies.csv' AS row FIELDTERMINATOR ';' MATCH (c:Coin {id:row.coin_id}) WHERE row.die_rev IS NOT NULL MERGE (do:Die:DieReverse {id:row.die_rev})
+
+LOAD CSV WITH HEADERS FROM 'file:///dies.csv' AS row FIELDTERMINATOR ';' MATCH (c:Coin {id:row.coin_id}) WHERE row.die_rev IS NOT NULL MATCH (d:Die:DieReverse {id:row.die_rev}) MERGE (d)-[:MINTED]->(c)
+
+LOAD CSV WITH HEADERS FROM 'file:///similarity.csv' AS row FIELDTERMINATOR ';' MATCH (c0:Coin {id:row.coin_id0}) MATCH (c1:Coin {id:row.coin_id1}) CREATE (c0)-[:RESEMBLES {score_obv: toFloat(row.score_obv), score_rev: toFloat(row.score_rev)}]->(c1)
+
+// up to this point: "base.dump"
+
+// create relations for type metric
+// WITH 83 findspots should create 83*82 / 2 = 3403 relations
+MATCH (f0:Findspot), (f1:Findspot) WHERE f0 <> f1 MERGE (f0)-[:SHARES_TYPES]-(f1)
+
+// set shared types between findspots for each classification (5 classes * 3403 relations = 17015 props set)
+UNWIND COLLECT {MATCH (t:Type) RETURN DISTINCT t.class} AS class
+UNWIND COLLECT {MATCH (f:Findspot) RETURN f} AS f0
+UNWIND COLLECT {MATCH (f:Findspot) RETURN f} AS f1
+CALL(class, f0, f1) {
+    MATCH (f0)<-[:FOUND_IN]-(c0:Coin)-[:CLASSIFIED_AS]->(t:Type {class: class})<-[:CLASSIFIED_AS]-(c1:Coin)-[:FOUND_IN]->(f1)
+    WHERE c0 <> c1 AND f0 <> f1
+    RETURN count(DISTINCT c0) AS shared0, count(DISTINCT c1) AS shared1
+}
+WITH f0 AS f0, f1 AS f1, class AS class,
+CASE shared0 WHEN < shared1 THEN shared0 ELSE shared1 END AS shared // minimum
+MATCH (f0)-[r:SHARES_TYPES]->(f1) // use directed to avoid SETting twice
+SET r[toLower(class)] = shared
+
+// set shared types between findspots for all types of class OCC for selecting timespans
+// 10 OCC types * 3403 relations = 34030 props SET
+UNWIND COLLECT {MATCH (t:Type {class: 'OCC'}) RETURN DISTINCT t.type} AS type
+UNWIND COLLECT {MATCH (f:Findspot) RETURN f} AS f0
+UNWIND COLLECT {MATCH (f:Findspot) RETURN f} AS f1
+CALL(type, f0, f1) {
+    MATCH (f0)<-[:FOUND_IN]-(c0:Coin)-[:CLASSIFIED_AS]->(t:Type {class: 'OCC', type: type})<-[:CLASSIFIED_AS]-(c1:Coin)-[:FOUND_IN]->(f1)
+    WHERE c0 <> c1 AND f0 <> f1
+    RETURN count(DISTINCT c0) AS shared0, count(DISTINCT c1) AS shared1
+}
+WITH f0 AS f0, f1 AS f1, type AS type,
+CASE shared0 WHEN < shared1 THEN shared0 ELSE shared1 END AS shared // minimum
+MATCH (f0)-[r:SHARES_TYPES]->(f1) // use directed to avoid SETting twice
+SET r[toLower(replace(type, ' ', ''))] = shared
+
+
+// set shared dies between findspots
+MATCH (:Die)-->(:Coin)-->(f:Findspot) RETURN count(DISTINCT f)
+// prints 1 -> no need to add shared dies
+// MATCH (f0:Findspot), (f1:Findspot) WHERE f0 <> f1 MERGE (f0)-[:SHARES_DIES]-(f1)
+
+
+// set shared visually similar coins between findspots
+MATCH (f0:Findspot), (f1:Findspot) WHERE f0 <> f1 MERGE (f0)-[:HAS_SIMILAR_COINS]-(f1)
+
+UNWIND COLLECT {MATCH (f:Findspot) RETURN f} AS f0
+UNWIND COLLECT {MATCH (f:Findspot) RETURN f} AS f1
+CALL(f0, f1) {
+    MATCH (f0)<-[:FOUND_IN]-(c0:Coin)-[r:RESEMBLES]-(c1:Coin)-[:FOUND_IN]->(f1)
+    WHERE c0 <> c1 AND f0 <> f1
+    RETURN sum(r.score_obv + r.score_rev) AS score
+}
+WITH f0 AS f0, f1 AS f1, score AS score
+MATCH (f0)-[r:HAS_SIMILAR_COINS]->(f1)
+SET r.score = score
+//WHERE score > 0
+//RETURN f0.name, f1.name, score limit 50
+
+// up to this point: full.dump

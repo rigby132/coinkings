@@ -1,0 +1,5506 @@
+coin_id;class;type
+132;Nick;Nick BS C 4
+132;Kellner;Kellner BS C
+132;Ziegaus;Ziegaus BS C 24
+132;OCC;BS 4
+133;OCC;BS 7
+134;Kellner;Kellner BS C
+134;OCC;BS 4
+135;Nick;Nick BS F 2a
+135;OCC;BS 7
+136;Nick;Nick BS C 4
+136;Ziegaus;Ziegaus BS C 24
+136;Kellner;Kellner BS C
+136;OCC;BS 4
+137;Nick;Nick BS C 4
+137;Ziegaus;Ziegaus BS C 24
+137;Kellner;Kellner BS C
+137;OCC;BS 4
+138;Nick;Nick BS F 1a
+138;OCC;BS 7
+139;Nick;Nick BS C 1
+139;Kellner;Kellner BS C
+139;Ziegaus;Ziegaus BS C 20
+139;OCC;BS 4
+140;Nick;Nick BS D 2
+140;OCC;BS 5
+141;Nick;Nick BS F 2b
+141;OCC;BS 7
+142;Nick;Nick BS D 6
+142;OCC;BS 5
+143;Nick;Nick BS D 6
+143;OCC;BS 5
+144;Nick;Nick BS F 1a
+144;OCC;BS 7
+145;Nick;Nick BS F 2b
+145;OCC;BS 7
+146;Nick;Nick BS F 1b
+146;OCC;BS 7
+147;Allen;Uncertain type
+148;Allen;Uncertain type
+149;Nick;Nick BS C 4
+149;Kellner;Kellner BS C
+149;Ziegaus;Ziegaus BS C 24
+149;OCC;BS 4
+150;OCC;BS 4
+150;Kellner;Kellner BS C
+150;OCC;BS 7
+151;Ziegaus;Ziegaus BS E 27
+151;Kellner;Kellner BS E
+151;OCC;BS 6
+152;Allen;Uncertain type
+153;Allen;Uncertain type
+154;Kellner;Kellner BS C
+154;Ziegaus;Ziegaus BS C 26
+154;OCC;BS 4
+154;Nick;Nick BS C 4
+155;Ziegaus;Ziegaus BS C 24
+155;Kellner;Kellner BS C
+155;OCC;BS 4
+156;Kellner;Kellner BS C
+156;OCC;BS 4
+157;OCC;BS 5
+158;OCC;BS 4
+159;Nick;Nick BS C 1
+159;Kellner;Kellner BS C
+159;Ziegaus;Ziegaus BS C 19
+159;OCC;BS 4
+159;Ziegaus;Ziegaus BS C 20
+160;Nick;Nick BS H 3
+160;OCC;BS 9
+161;Nick;Nick BS H 3
+161;OCC;BS 9
+162;Nick;Nick BS C 11
+162;Ziegaus;Ziegaus BS C 21
+162;Kellner;Kellner BS C
+162;OCC;BS 4
+163;OCC;BS 5
+163;Nick;Nick BS D 7
+164;Kellner;Kellner BS C
+164;OCC;BS 4
+165;Nick;Nick BS F 1a
+165;OCC;BS 7
+166;Nick;Nick BS F 2b
+166;OCC;BS 7
+167;Nick;Nick BS C 8
+167;Ziegaus;Ziegaus BS C 22
+167;Kellner;Kellner BS C
+167;OCC;BS 4
+168;Nick;Nick BS H 1
+168;OCC;BS 9
+169;Nick;Nick BS H 1
+169;OCC;BS 9
+170;Nick;Nick BS H 3
+170;OCC;BS 9
+171;Nick;Nick BS F 1b
+171;OCC;BS 7
+172;Nick;Nick BS F 2b
+172;OCC;BS 7
+173;Allen;Uncertain type
+174;Kellner;Kellner BS C
+174;OCC;BS 4
+175;Nick;Nick BS H 3
+175;OCC;BS 9
+176;Nick;Nick BS H 3
+176;OCC;BS 9
+177;Nick;Nick BS H 3
+177;OCC;BS 9
+178;Nick;Nick BS H 3
+178;OCC;BS 9
+179;Kellner;Kellner BS C
+179;Ziegaus;Ziegaus BS C 21
+179;OCC;BS 4
+179;Ziegaus;Ziegaus BS C 24
+180;Nick;Nick BS F 2a
+180;OCC;BS 7
+181;Nick;Nick BS F 2a
+181;OCC;BS 7
+182;OCC;BS 8
+183;Nick;Nick BS F 1a
+183;OCC;BS 7
+184;Nick;Nick BS H 1
+184;OCC;BS 9
+185;Kellner;Kellner BS C
+185;OCC;BS 4
+186;Nick;Nick BS C 8
+186;Kellner;Kellner BS C
+186;Ziegaus;Ziegaus BS C 22
+186;OCC;BS 4
+187;Kellner;Kellner BS C
+187;OCC;BS 4
+188;Nick;Nick BS F 2a
+188;OCC;BS 7
+189;Nick;Nick BS D 2
+189;OCC;BS 5
+190;Nick;Nick BS D 3
+190;OCC;BS 5
+191;Nick;Nick BS H 2
+191;OCC;BS 9
+192;Nick;Nick BS H 1
+192;OCC;BS 9
+193;Nick;Nick BS D 1
+193;OCC;BS 5
+194;Nick;Nick BS D 2
+194;OCC;BS 5
+195;Nick;Nick BS C 1
+195;Ziegaus;Ziegaus BS C 19
+195;Kellner;Kellner BS C
+195;OCC;BS 4
+196;Nick;Nick BS C 1
+196;Ziegaus;Ziegaus BS C 19
+196;Kellner;Kellner BS C
+196;OCC;BS 4
+197;Nick;Nick BS C 1
+197;Kellner;Kellner BS C
+197;Ziegaus;Ziegaus BS C 19
+197;OCC;BS 4
+197;Ziegaus;Ziegaus BS C 20
+198;Allen;Uncertain type
+199;Allen;Uncertain type
+200;Allen;Uncertain type
+201;Allen;Uncertain type
+202;Nick;Nick BS C 8
+202;Ziegaus;Ziegaus BS C 22
+202;Kellner;Kellner BS C
+202;OCC;BS 4
+203;Nick;Nick BS H 1
+203;OCC;BS 9
+204;Nick;Nick BS C 4
+204;Kellner;Kellner BS C
+204;OCC;BS 4
+204;Ziegaus;Ziegaus BS C 17
+205;Kellner;Kellner BS C
+205;OCC;BS 4
+206;OCC;BS 4
+206;Kellner;Kellner BS C
+207;Nick;Nick BS F 2a
+207;OCC;BS 7
+208;OCC;BS 7
+208;OCC;BS 4
+209;Nick;Nick BS C 8
+209;Ziegaus;Ziegaus BS C 22
+209;Kellner;Kellner BS C
+209;OCC;BS 4
+210;Nick;Nick BS C 4
+210;Kellner;Kellner BS C
+210;OCC;BS 4
+210;Ziegaus;Ziegaus BS C 17
+211;Nick;Nick BS D 5
+211;OCC;BS 5
+212;Nick;Nick BS D 3
+212;OCC;BS 5
+213;Kellner;Kellner BS C
+213;OCC;BS 4
+214;Nick;Nick BS C 4
+214;Kellner;Kellner BS C
+214;OCC;BS 4
+214;Ziegaus;Ziegaus BS C 17
+215;Nick;Nick BS C/F
+216;Nick;Nick BS C 1
+216;Ziegaus;Ziegaus BS C 19
+216;Kellner;Kellner BS C
+216;OCC;BS 4
+216;Ziegaus;Ziegaus BS C 20
+217;Kellner;Kellner BS E
+217;OCC;BS 6
+218;Nick;Nick BS C 4
+218;Kellner;Kellner BS C
+218;Ziegaus;Ziegaus BS C 17
+218;OCC;BS 4
+219;Nick;Nick BS D 5
+219;OCC;BS 5
+220;Nick;Nick BS C 4
+220;Kellner;Kellner BS C
+220;Ziegaus;Ziegaus BS C 17
+220;OCC;BS 4
+221;Nick;Nick BS D 3
+221;OCC;BS 5
+222;Nick;Nick BS C 4
+222;Kellner;Kellner BS C
+222;Ziegaus;Ziegaus BS C 17
+222;OCC;BS 4
+223;Nick;Nick BS C 4
+223;Kellner;Kellner BS C
+223;OCC;BS 4
+223;Ziegaus;Ziegaus BS C 17
+224;Kellner;Kellner BS C
+224;OCC;BS 4
+225;Nick;Nick BS C 4
+225;Kellner;Kellner BS C
+225;Ziegaus;Ziegaus BS C 17
+225;OCC;BS 4
+226;Kellner;Kellner BS C
+226;Ziegaus;Ziegaus BS C 22
+226;Nick;Nick BS C 8
+226;OCC;BS 4
+227;Nick;Nick BS C 4
+227;Ziegaus;Ziegaus BS C 17
+227;Kellner;Kellner BS C
+227;OCC;BS 4
+228;Nick;Nick BS C 8
+228;Ziegaus;Ziegaus BS C 22
+228;Kellner;Kellner BS C
+228;OCC;BS 4
+229;Nick;Nick BS C 9
+229;Kellner;Kellner BS C
+229;Ziegaus;Ziegaus BS C 22
+229;OCC;BS 4
+230;Nick;Nick BS C 4
+230;Ziegaus;Ziegaus BS C 17
+230;Kellner;Kellner BS C
+230;OCC;BS 4
+231;Nick;Nick BS C 4
+231;Ziegaus;Ziegaus BS C 17
+231;Kellner;Kellner BS C
+231;OCC;BS 4
+232;OCC;BS 4
+232;Kellner;Kellner BS C
+232;Nick;Nick BS C 4
+232;Ziegaus;Ziegaus BS C 17
+233;Nick;Nick BS D 1
+233;OCC;BS 5
+234;Nick;Nick BS D 6
+234;OCC;BS 5
+235;OCC;BS 5
+236;OCC;BS 5
+237;OCC;BS 4
+238;Nick;Nick BS C 9
+238;Ziegaus;Ziegaus BS C 22
+238;Kellner;Kellner BS C
+238;OCC;BS 4
+239;OCC;BS 5
+240;Kellner;Kellner BS C
+240;OCC;BS 4
+241;Kellner;Kellner BS C
+241;OCC;BS 4
+242;Nick;Nick BS C 4
+242;Kellner;Kellner BS C
+242;Ziegaus;Ziegaus BS C 17
+242;OCC;BS 4
+243;Nick;Nick BS C 4
+243;Ziegaus;Ziegaus BS C 17
+243;Kellner;Kellner BS C
+243;OCC;BS 4
+244;Nick;Nick BS D 5
+244;OCC;BS 5
+245;Nick;Nick BS C 1
+245;Ziegaus;Ziegaus BS C 19
+245;Kellner;Kellner BS C
+245;OCC;BS 4
+246;Nick;Nick BS D 3
+246;OCC;BS 5
+247;Nick;Nick BS D 6
+247;OCC;BS 5
+248;Allen;Uncertain type
+249;OCC;BS 5
+249;OCC;BS 7
+250;Nick;Nick BS C 9
+250;Ziegaus;Ziegaus BS C 22
+250;Kellner;Kellner BS C
+250;OCC;BS 4
+251;Kellner;Kellner BS C
+251;OCC;BS 4
+252;Nick;Nick BS D 3
+252;OCC;BS 5
+253;Nick;Nick BS D 1
+253;OCC;BS 5
+254;Allen;Uncertain type
+255;Nick;Nick BS D 2
+255;OCC;BS 5
+256;Nick;Nick BS H 3
+256;OCC;BS 9
+258;Ziegaus;Ziegaus BS A/B 10
+258;OCC;BS 3
+258;Kellner;Kellner BS B
+259;Kellner;Kellner BS B
+259;Ziegaus;Ziegaus BS A/B 10
+259;OCC;BS 3
+260;Kellner;Kellner BS A
+260;Ziegaus;Ziegaus BS A/B 13
+260;OCC;BS 2
+261;Kellner;Kellner BS A
+261;Ziegaus;Ziegaus BS A/B 10
+261;OCC;BS 2
+262;Kellner;Kellner BS E
+262;Ziegaus;Ziegaus BS E 29
+262;OCC;BS 6
+263;Kellner;Kellner BS E
+263;Ziegaus;Ziegaus BS E 27
+263;OCC;BS 6
+264;Kellner;Kellner BS E
+264;Ziegaus;Ziegaus BS E 28
+264;OCC;BS 6
+265;OCC;BS 7
+265;Nick;Nick BS F 1a
+266;OCC;BS 7
+266;Nick;Nick BS F 1a
+267;Ziegaus;Ziegaus BS A/B 13
+267;OCC;BS 2
+267;Kellner;Kellner BS A
+268;Ziegaus;Ziegaus BS A/B 10
+268;Kellner;Kellner BS A
+268;OCC;BS 2
+269;Kellner;Kellner BS C
+269;Ziegaus;Ziegaus BS C 19
+269;Nick;Nick BS C 1
+269;OCC;BS 2
+269;Ziegaus;Ziegaus BS C 20
+270;Kellner;Kellner BS B
+270;Ziegaus;Ziegaus BS A/B 9
+270;OCC;BS 3
+271;Kellner;Kellner BS C
+271;Ziegaus;Ziegaus BS C 17
+271;Nick;Nick BS C 4
+271;OCC;BS 4
+272;Kellner;Kellner BS E
+272;OCC;BS 6
+272;OCC;BS E 1
+273;Kellner;Kellner BS C
+273;OCC;BS 4
+274;Nick;Nick BS C/F
+275;OCC;BS 5
+278;OCC;BS 9
+278;Nick;Nick BS H 3
+279;Nick;Nick BS C/F
+280;Nick;Nick BS D 7
+280;OCC;BS 5
+281;Kellner;Kellner BS A
+281;Ziegaus;Ziegaus BS A/B 4
+281;OCC;BS 2
+281;Ziegaus;Ziegaus BS C 19
+281;Ziegaus;Ziegaus BS C 20
+282;Kellner;Kellner BS C
+282;OCC;BS 4
+283;Kellner;Kellner BS E
+283;Ziegaus;Ziegaus BS E 28
+283;OCC;BS 6
+284;OCC;BS 7
+285;Ziegaus;Ziegaus BS C 17
+285;Nick;Nick BS C 4
+285;OCC;BS 4
+285;Kellner;Kellner BS C
+286;Nick;Nick BS D 5
+286;Allen;Allen BS G
+287;Kellner;Kellner BS A
+287;Ziegaus;Ziegaus BS A/B 4
+287;OCC;BS 2
+289;Ziegaus;Ziegaus BS C 18
+289;Kellner;Kellner BS C
+289;OCC;BS 4
+290;OCC;BS 9
+290;Nick;Nick BS H 3
+291;Kellner;Kellner BS C
+291;OCC;BS 4
+292;Nick;Nick BS D 6
+292;OCC;BS 5
+293;OCC;BS 9
+294;Kellner;Kellner BS C
+294;OCC;BS 4
+295;Nick;Nick BS D 6
+295;OCC;BS 5
+296;Nick;Nick BS F 1b
+296;OCC;BS 7
+297;Nick;Nick BS F 1a
+297;OCC;BS 7
+298;Nick;Nick BS C/F
+299;OCC;BS 4
+299;OCC;BS 7
+300;Kellner;Kellner BS E
+300;OCC;BS 6
+301;Ziegaus;Ziegaus BS A/B 10
+301;Kellner;Kellner BS B
+301;OCC;BS 2
+301;Kellner;Kellner BS A
+301;OCC;BS 3
+302;Nick;Nick BS F 2a
+302;OCC;BS 7
+303;Ziegaus;Ziegaus BS A/B 10
+303;Kellner;Kellner BS A
+303;OCC;BS 2
+304;Kellner;Kellner BS C
+304;Ziegaus;Ziegaus BS C 23
+304;OCC;BS 4
+306;Ziegaus;Ziegaus BS Prototype 1
+306;Kellner;Kellner BS Prototype
+306;OCC;BS 1
+307;OCC;BS 4
+307;Kellner;Kellner BS C
+308;Kellner;Kellner BS E
+308;Ziegaus;Ziegaus BS E 28
+308;OCC;BS 6
+309;Kellner;Kellner BS A
+309;Ziegaus;Ziegaus BS A/B 10
+309;OCC;BS 2
+310;Kellner;Kellner BS A
+310;Ziegaus;Ziegaus BS A/B 13
+310;OCC;BS 2
+2212;Ziegaus;Ziegaus BS C 23
+2212;Kellner;Kellner BS C
+2212;OCC;BS 4
+2218;Ziegaus;Ziegaus BS C 20
+2218;Kellner;Kellner BS C
+2218;Ziegaus;Ziegaus BS C 19
+2218;OCC;BS 4
+2219;Kellner;Kellner BS A
+2219;Ziegaus;Ziegaus BS A/B 3
+2219;OCC;BS 2
+2221;Ziegaus;Ziegaus BS A/B 12
+2221;Kellner;Kellner BS A
+2221;OCC;BS 2
+2222;Kellner;Kellner BS E
+2222;OCC;BS 6
+2223;Kellner;Kellner BS C
+2223;Ziegaus;Ziegaus BS C 21
+2223;OCC;BS 4
+2225;Kellner;Kellner BS A
+2225;Ziegaus;Ziegaus BS A/B 10
+2225;OCC;BS 2
+2226;Kellner;Kellner BS C
+2226;Ziegaus;Ziegaus BS C 23
+2226;OCC;BS 4
+2227;Kellner;Kellner BS C
+2227;OCC;BS 4
+2227;Ziegaus;Ziegaus BS C 22
+2228;Ziegaus;Ziegaus BS C 19
+2228;Kellner;Kellner BS C
+2228;Nick;Nick BS C 1
+2228;Ziegaus;Ziegaus BS C 20
+2229;Ziegaus;Ziegaus BS C 19
+2229;Kellner;Kellner BS C
+2229;Nick;Nick BS C 1
+2229;Ziegaus;Ziegaus BS C 20
+2230;Kellner;Kellner BS C
+2230;OCC;BS 4
+2231;Kellner;Kellner BS A
+2231;Ziegaus;Ziegaus BS A/B 7
+2231;OCC;BS 2
+2232;Kellner;Kellner BS A
+2232;Ziegaus;Ziegaus BS A/B 3
+2232;OCC;BS 2
+2233;OCC;BS 1
+2233;Kellner;Kellner BS Prototype
+2233;Ziegaus;Ziegaus BS Prototype 1
+2234;Ziegaus;Ziegaus BS A/B 11
+2234;Kellner;Kellner BS A
+2234;OCC;BS 2
+2235;Kellner;Kellner BS Prototype
+2235;OCC;BS 1
+2235;Ziegaus;Ziegaus BS Prototype 1
+2237;OCC;BS 4
+2237;Kellner;Kellner BS C
+2238;Kellner;Kellner BS C
+2238;Ziegaus;Ziegaus BS C 18
+2238;OCC;BS 4
+2239;Kellner;Kellner BS C
+2239;Ziegaus;Ziegaus BS C 18
+2239;OCC;BS 4
+2240;Kellner;Kellner BS C
+2240;Ziegaus;Ziegaus BS C 19
+2240;Nick;Nick BS C 1
+2240;OCC;BS 4
+2240;Ziegaus;Ziegaus BS C 20
+2241;Kellner;Kellner BS E
+2241;Ziegaus;Ziegaus BS E 27
+2241;OCC;BS 6
+2242;Ziegaus;Ziegaus BS C 18
+2242;Kellner;Kellner BS C
+2242;OCC;BS 4
+2243;Kellner;Kellner BS B
+2243;Ziegaus;Ziegaus BS A/B 9
+2243;OCC;BS 3
+2244;Kellner;Kellner BS C
+2244;Ziegaus;Ziegaus BS C 18
+2244;OCC;BS 4
+2245;Kellner;Kellner BS C
+2245;Ziegaus;Ziegaus BS C 17
+2245;Nick;Nick BS C 4
+2245;OCC;BS 4
+2246;Kellner;Kellner BS E
+2246;OCC;BS 6
+2246;OCC;BS E 1
+2247;Kellner;Kellner BS A
+2247;Ziegaus;Ziegaus BS A/B 3
+2247;OCC;BS 2
+2248;Kellner;Kellner BS C
+2248;Ziegaus;Ziegaus BS C 18
+2248;OCC;BS 4
+2261;Kellner;Kellner BS B
+2261;OCC;BS 3
+2262;Kellner;Kellner BS A
+2262;Ziegaus;Ziegaus BS A/B 9
+2262;OCC;BS 2
+2264;Kellner;Kellner BS A
+2264;Ziegaus;Ziegaus BS A/B 10
+2264;OCC;BS 2
+2266;Kellner;Kellner BS A
+2266;Ziegaus;Ziegaus BS A/B 10
+2266;OCC;BS 2
+2267;Kellner;Kellner BS A
+2267;Ziegaus;Ziegaus BS A/B 9
+2267;OCC;BS 2
+2268;Kellner;Kellner BS A
+2268;Ziegaus;Ziegaus BS A/B 9
+2268;OCC;BS 2
+2269;Kellner;Kellner BS A
+2269;Ziegaus;Ziegaus BS A/B 10
+2269;OCC;BS 2
+2272;Kellner;Kellner BS C
+2272;Ziegaus;Ziegaus BS C 22
+2272;Nick;Nick BS C 8
+2272;OCC;BS 4
+2273;Ziegaus;Ziegaus BS A/B 7
+2273;Kellner;Kellner BS A
+2273;OCC;BS 2
+2274;OCC;BS 7
+2274;Nick;Nick BS F 1a
+2275;Kellner;Kellner BS B
+2275;Ziegaus;Ziegaus BS A/B 9
+2275;OCC;BS 3
+2275;OCC;BS 2
+2275;Kellner;Kellner BS A
+2275;Ziegaus;Ziegaus BS C 19
+2276;Kellner;Kellner BS B
+2276;Ziegaus;Ziegaus BS A/B 9
+2276;OCC;BS 3
+2277;Kellner;Kellner BS A
+2277;Ziegaus;Ziegaus BS A/B 9
+2277;OCC;BS 2
+2278;Kellner;Kellner BS C
+2278;Ziegaus;Ziegaus BS C 24
+2278;OCC;BS 4
+2279;Kellner;Kellner BS A
+2279;Ziegaus;Ziegaus BS A/B 9
+2279;OCC;BS 2
+2280;Kellner;Kellner BS B
+2280;Ziegaus;Ziegaus BS A/B 4
+2280;OCC;BS 2
+2281;Kellner;Kellner BS A
+2281;OCC;BS 2
+2282;Kellner;Kellner BS B
+2282;Ziegaus;Ziegaus BS A/B 10
+2282;OCC;BS 3
+2283;Nick;Nick BS D 6
+2283;OCC;BS 5
+2284;Kellner;Kellner BS A
+2284;Ziegaus;Ziegaus BS A/B 9
+2284;OCC;BS 2
+2285;Kellner;Kellner BS B
+2285;Ziegaus;Ziegaus BS A/B 3
+2285;OCC;BS 3
+2286;Kellner;Kellner BS C
+2286;Ziegaus;Ziegaus BS C 22
+2286;Nick;Nick BS C 8
+2286;OCC;BS 4
+2287;Kellner;Kellner BS C
+2287;Ziegaus;Ziegaus BS C 18
+2287;OCC;BS 4
+2288;Kellner;Kellner BS B
+2288;Ziegaus;Ziegaus BS A/B 10
+2288;OCC;BS 3
+2289;Allen;Uncertain type
+2290;OCC;BS 7
+2290;Nick;Nick BS F 1b
+2291;Nick;Nick BS F 2a
+2291;OCC;BS 7
+2293;OCC;BS 5
+2294;Nick;Nick BS H 3
+2294;OCC;BS 9
+2295;Allen;Uncertain type
+2296;Nick;Nick BS D 5
+2296;OCC;BS 5
+2297;Nick;Nick BS H 1
+2297;OCC;BS 9
+2298;OCC;BS 9
+2298;Nick;Nick BS H 1
+2299;Nick;Nick BS F 1a
+2299;OCC;BS 7
+2300;Nick;Nick BS H 2
+2300;OCC;BS 9
+2301;OCC;BS 5
+2301;OCC;BS 9
+2301;Nick;Nick BS D 6
+2301;Nick;Nick BS H 1
+2302;OCC;BS 4
+2302;Kellner;Kellner BS C
+2302;Nick;Nick BS C 9
+2302;Ziegaus;Ziegaus BS C 22
+2303;Allen;Uncertain type
+2304;Nick;Nick BS C 1
+2304;Kellner;Kellner BS C
+2304;Ziegaus;Ziegaus BS C 19
+2304;OCC;BS 4
+2304;Ziegaus;Ziegaus BS C 20
+2305;Nick;Nick BS C 1
+2305;Kellner;Kellner BS C
+2305;Ziegaus;Ziegaus BS C 19
+2305;Ziegaus;Ziegaus BS C 20
+2305;OCC;BS 4
+2306;Nick;Nick BS D 1
+2306;OCC;BS 5
+2307;Nick;Nick BS C 1
+2307;Ziegaus;Ziegaus BS C 19
+2307;Kellner;Kellner BS C
+2307;OCC;BS 4
+2307;Ziegaus;Ziegaus BS C 20
+2308;OCC;BS 7
+2309;Nick;Nick BS D 3
+2309;OCC;BS 5
+2310;Ziegaus;Ziegaus BS A/B 5
+2310;Kellner;Kellner BS A
+2310;OCC;BS 2
+2311;Allen;Uncertain type
+2312;Nick;Nick BS H 1
+2312;OCC;BS 9
+2313;Kellner;Kellner BS C
+2313;Ziegaus;Ziegaus BS C 18
+2313;OCC;BS 4
+2314;Nick;Nick BS F 2a
+2314;OCC;BS 7
+2315;OCC;BS 4
+2316;Ziegaus;Ziegaus BS C 22
+2316;Nick;Nick BS C 8
+2316;Kellner;Kellner BS C
+2316;OCC;BS 4
+2317;Nick;Nick BS F 1b
+2317;OCC;BS 7
+2318;OCC;BS 7
+2319;OCC;BS 7
+2319;OCC;BS 4
+2319;Nick;Nick BS F 1a
+2319;Ziegaus;Ziegaus BS C 22
+2320;OCC;BS 4
+2320;Kellner;Kellner BS C
+2321;Ziegaus;Ziegaus BS C 17
+2321;Nick;Nick BS C 4
+2321;Kellner;Kellner BS C
+2321;OCC;BS 4
+2322;Nick;Nick BS D 2
+2322;OCC;BS 5
+2323;OCC;BS 4
+2323;Kellner;Kellner BS C
+2323;Ziegaus;Ziegaus BS C 22
+2323;Nick;Nick BS C 8
+2325;OCC;BS 5
+2329;Nick;Nick BS C 1
+2329;Ziegaus;Ziegaus BS C 19
+2329;Kellner;Kellner BS C
+2329;OCC;BS 4
+2329;Ziegaus;Ziegaus BS C 20
+2330;Allen;Uncertain type
+2331;Ziegaus;Ziegaus BS C 22
+2331;Nick;Nick BS C 8
+2331;Kellner;Kellner BS C
+2331;OCC;BS 4
+2332;Ziegaus;Ziegaus BS C 19
+2332;Nick;Nick BS C 1
+2332;Kellner;Kellner BS C
+2332;OCC;BS 4
+2332;Ziegaus;Ziegaus BS C 20
+2333;Kellner;Kellner BS E
+2333;OCC;BS 6
+2333;OCC;BS E 1
+2334;Ziegaus;Ziegaus BS C 19
+2334;Nick;Nick BS C 1
+2334;Kellner;Kellner BS C
+2334;OCC;BS 4
+2334;Ziegaus;Ziegaus BS C 20
+2335;Kellner;Kellner BS C
+2335;Ziegaus;Ziegaus BS C 25
+2335;OCC;BS 4
+2336;OCC;BS 2
+2336;Kellner;Kellner BS A
+2337;Ziegaus;Ziegaus BS C 23
+2337;Kellner;Kellner BS C
+2337;OCC;BS 4
+2338;Ziegaus;Ziegaus BS A/B 9
+2338;Kellner;Kellner BS B
+2338;Ziegaus;Ziegaus BS A/B 4
+2338;OCC;BS 3
+2338;OCC;BS 2
+2338;Kellner;Kellner BS A
+2339;Ziegaus;Ziegaus BS C 17
+2339;Nick;Nick BS C 4
+2339;Kellner;Kellner BS C
+2339;OCC;BS 4
+2340;Kellner;Kellner BS C
+2340;OCC;BS 4
+2341;Kellner;Kellner BS C
+2341;OCC;BS 4
+2341;Ziegaus;Ziegaus BS C 17
+2341;Nick;Nick BS C 4
+2342;Kellner;Kellner BS C
+2342;OCC;BS 4
+2343;Kellner;Kellner BS C
+2343;OCC;BS 4
+2344;Ziegaus;Ziegaus BS C 19
+2344;Nick;Nick BS C 1
+2344;Kellner;Kellner BS C
+2344;OCC;BS 4
+2345;Ziegaus;Ziegaus BS C 22
+2345;Nick;Nick BS C 8
+2345;Kellner;Kellner BS C
+2345;OCC;BS 4
+2346;Nick;Nick BS C 1
+2346;Ziegaus;Ziegaus BS C 19
+2346;Kellner;Kellner BS C
+2346;OCC;BS 4
+2347;Kellner;Kellner BS C
+2347;OCC;BS 4
+2348;Kellner;Kellner BS E
+2348;OCC;BS 6
+2348;OCC;BS E 1
+2349;Kellner;Kellner BS E
+2349;OCC;BS 6
+2349;OCC;BS E 1
+2350;Kellner;Kellner BS E
+2350;OCC;BS 6
+2350;OCC;BS E 1
+2351;Kellner;Kellner BS E
+2351;Ziegaus;Ziegaus BS E 28
+2351;OCC;BS 6
+2352;OCC;BS 4
+2352;OCC;BS 6
+2354;Kellner;Kellner BS B
+2354;Ziegaus;Ziegaus BS A/B 10
+2354;OCC;BS 3
+2355;Kellner;Kellner BS C
+2355;OCC;BS 4
+2356;OCC;BS 4
+2356;Kellner;Kellner BS C
+2356;Ziegaus;Ziegaus BS C 22
+2356;Nick;Nick BS C 9
+2357;OCC;BS 2
+2357;Kellner;Kellner BS A
+2360;OCC;BS 2
+2360;OCC;BS 4
+2363;Ziegaus;Ziegaus BS C 23
+2363;Kellner;Kellner BS C
+2363;OCC;BS 4
+2365;Kellner;Kellner BS E
+2365;OCC;BS 6
+2365;OCC;BS E 1
+2366;OCC;BS 2
+2366;Kellner;Kellner BS A
+2367;Kellner;Kellner BS E
+2367;OCC;BS 6
+2368;Allen;Uncertain type
+2369;Kellner;Kellner BS A
+2369;Ziegaus;Ziegaus BS A/B 10
+2369;OCC;BS 2
+2370;Ziegaus;Ziegaus BS A/B 10
+2370;Kellner;Kellner BS B
+2370;OCC;BS 3
+2370;OCC;BS 4
+2370;Kellner;Kellner BS C
+2370;Ziegaus;Ziegaus BS C 22
+2371;Kellner;Kellner BS A
+2371;Ziegaus;Ziegaus BS A/B 9
+2371;OCC;BS 2
+2371;Ziegaus;Ziegaus BS A/B 4
+2372;Kellner;Kellner BS E
+2372;OCC;BS 6
+2372;OCC;BS E 1
+2373;OCC;BS 6
+2373;Kellner;Kellner BS E
+2374;Kellner;Kellner BS A
+2374;Ziegaus;Ziegaus BS A/B 10
+2374;OCC;BS 2
+2376;Kellner;Kellner BS C
+2376;OCC;BS 4
+2377;Kellner;Kellner BS C
+2377;OCC;BS 4
+2378;Kellner;Kellner BS A
+2378;OCC;BS 2
+2378;Ziegaus;Ziegaus BS A/B 7
+2381;Kellner;Kellner BS C
+2381;OCC;BS 4
+2382;Kellner;Kellner BS C
+2382;Ziegaus;Ziegaus BS C 18
+2382;OCC;BS 4
+2383;Kellner;Kellner BS C
+2383;Ziegaus;Ziegaus BS C 19
+2383;Nick;Nick BS C 1
+2383;OCC;BS 4
+2383;Ziegaus;Ziegaus BS C 20
+2384;Kellner;Kellner BS C
+2384;Ziegaus;Ziegaus BS C 17
+2384;Nick;Nick BS C 4
+2384;OCC;BS 4
+2385;Kellner;Kellner BS C
+2385;Ziegaus;Ziegaus BS C 23
+2385;OCC;BS 4
+2386;Kellner;Kellner BS C
+2386;Ziegaus;Ziegaus BS C 26
+2386;OCC;BS 4
+2387;OCC;BS 4
+2388;Kellner;Kellner BS C
+2388;Ziegaus;Ziegaus BS C 19
+2388;Nick;Nick BS C 1
+2388;OCC;BS 4
+2388;Ziegaus;Ziegaus BS C 20
+2389;OCC;BS 4
+2389;Kellner;Kellner BS C
+2390;Kellner;Kellner BS E
+2390;OCC;BS 6
+2391;Kellner;Kellner BS E
+2391;OCC;BS 6
+2391;OCC;BS E 1
+2392;Allen;Uncertain type
+2393;Kellner;Kellner BS A
+2393;Ziegaus;Ziegaus BS A/B 10
+2393;OCC;BS 2
+2394;Allen;Uncertain type
+2395;OCC;BS 2
+2395;Kellner;Kellner BS A
+2396;Ziegaus;Ziegaus BS Prototype 1
+2396;Kellner;Kellner BS Prototype
+2396;OCC;BS 1
+2397;Ziegaus;Ziegaus BS A/B 4
+2397;Kellner;Kellner BS A
+2397;OCC;BS 2
+2398;Kellner;Kellner BS A
+2398;Ziegaus;Ziegaus BS A/B 10
+2398;OCC;BS 2
+2399;Ziegaus;Ziegaus BS E 28
+2399;Kellner;Kellner BS E
+2399;OCC;BS 6
+2400;Kellner;Kellner BS A
+2400;OCC;BS 2
+2401;Ziegaus;Ziegaus BS A/B 3
+2401;Kellner;Kellner BS A
+2401;OCC;BS 2
+2402;Kellner;Kellner BS A
+2402;Ziegaus;Ziegaus BS A/B 10
+2402;OCC;BS 2
+2403;Kellner;Kellner BS C
+2403;OCC;BS 4
+2404;Ziegaus;Ziegaus BS A/B 12
+2404;Kellner;Kellner BS A
+2404;OCC;BS 2
+2405;Kellner;Kellner BS C
+2405;Ziegaus;Ziegaus BS C 25
+2405;OCC;BS 4
+2406;Ziegaus;Ziegaus BS A/B 4
+2406;Kellner;Kellner BS A
+2406;OCC;BS 2
+2407;Kellner;Kellner BS A
+2407;Ziegaus;Ziegaus BS A/B 12
+2407;OCC;BS 2
+2408;Kellner;Kellner BS C
+2408;Ziegaus;Ziegaus BS C 18
+2408;OCC;BS 4
+2409;Kellner;Kellner BS A
+2409;OCC;BS 2
+2409;Ziegaus;Ziegaus BS A/B 11
+2410;Kellner;Kellner BS A
+2410;OCC;BS 2
+2411;Kellner;Kellner BS C
+2411;Ziegaus;Ziegaus BS C 18
+2411;OCC;BS 4
+2412;Kellner;Kellner BS A
+2412;Ziegaus;Ziegaus BS A/B 10
+2412;OCC;BS 2
+2413;Kellner;Kellner BS E
+2413;OCC;BS 6
+2414;Kellner;Kellner BS A
+2414;Ziegaus;Ziegaus BS A/B 13
+2414;OCC;BS 2
+2415;OCC;BS 4
+2416;Ziegaus;Ziegaus BS A/B 10
+2416;Kellner;Kellner BS A
+2416;OCC;BS 2
+2417;Kellner;Kellner BS A
+2417;Ziegaus;Ziegaus BS A/B 7
+2417;OCC;BS 2
+2418;OCC;BS 1
+2418;Kellner;Kellner BS Prototype
+2418;Ziegaus;Ziegaus BS Prototype 1
+2419;Kellner;Kellner BS C
+2419;Ziegaus;Ziegaus BS C 18
+2419;OCC;BS 4
+2420;Kellner;Kellner BS A
+2420;Ziegaus;Ziegaus BS A/B 7
+2420;OCC;BS 2
+2421;OCC;BS 2
+2421;OCC;BS 3
+2421;Kellner;Kellner BS A
+2421;Kellner;Kellner BS B
+2422;Kellner;Kellner BS A
+2422;Ziegaus;Ziegaus BS A/B 10
+2422;OCC;BS 2
+2423;Kellner;Kellner BS A
+2423;OCC;BS 2
+2424;OCC;BS 1
+2424;Kellner;Kellner BS Prototype
+2424;Ziegaus;Ziegaus BS Prototype 1
+2425;Ziegaus;Ziegaus BS C 17
+2425;Kellner;Kellner BS C
+2425;OCC;BS 4
+2425;Nick;Nick BS C 4
+2426;Kellner;Kellner BS A
+2426;OCC;BS 2
+2427;Ziegaus;Ziegaus BS C 17
+2427;Kellner;Kellner BS C
+2427;OCC;BS 4
+2427;Nick;Nick BS C 4
+2428;Allen;Uncertain type
+2429;Kellner;Kellner BS C
+2429;OCC;BS 4
+2429;Ziegaus;Ziegaus BS C 20
+2430;Nick;Nick BS C 1
+2430;Ziegaus;Ziegaus BS C 20
+2430;Kellner;Kellner BS C
+2430;Ziegaus;Ziegaus BS C 19
+2430;OCC;BS 4
+2431;Ziegaus;Ziegaus BS C 22
+2431;Kellner;Kellner BS C
+2431;Nick;Nick BS C 8
+2431;OCC;BS 4
+2432;Kellner;Kellner BS A
+2432;OCC;BS 2
+2433;Kellner;Kellner BS A
+2433;Ziegaus;Ziegaus BS A/B 10
+2433;OCC;BS 2
+2434;Kellner;Kellner BS B
+2434;OCC;BS 3
+2434;OCC;BS 4
+2434;Kellner;Kellner BS C
+2435;Kellner;Kellner BS A
+2435;Ziegaus;Ziegaus BS A/B 7
+2435;OCC;BS 2
+2436;Kellner;Kellner BS A
+2436;Ziegaus;Ziegaus BS A/B 3
+2436;OCC;BS 2
+2437;Kellner;Kellner BS A
+2437;Ziegaus;Ziegaus BS A/B 10
+2437;OCC;BS 2
+2438;OCC;BS 1
+2438;Kellner;Kellner BS Prototype
+2438;Ziegaus;Ziegaus BS Prototype 1
+2439;Ziegaus;Ziegaus BS A/B 10
+2439;Kellner;Kellner BS A
+2439;OCC;BS 2
+2440;Kellner;Kellner BS A
+2440;OCC;BS 2
+2441;Ziegaus;Ziegaus BS A/B 3
+2441;Kellner;Kellner BS A
+2441;OCC;BS 2
+2441;OCC;BS 1
+2441;Kellner;Kellner BS Prototype
+2441;Ziegaus;Ziegaus BS Prototype 1
+2442;Ziegaus;Ziegaus BS A/B 4
+2442;Kellner;Kellner BS A
+2442;OCC;BS 2
+2443;Kellner;Kellner BS A
+2443;Ziegaus;Ziegaus BS A/B 7
+2443;OCC;BS 2
+2444;Kellner;Kellner BS C
+2444;Ziegaus;Ziegaus BS C 17
+2444;Nick;Nick BS C 4
+2444;OCC;BS 4
+2445;Kellner;Kellner BS B
+2445;Ziegaus;Ziegaus BS A/B 9
+2445;OCC;BS 3
+2445;Ziegaus;Ziegaus BS A/B 10
+2446;Ziegaus;Ziegaus BS A/B 13
+2446;Kellner;Kellner BS A
+2446;OCC;BS 2
+2447;OCC;BS 1
+2447;Kellner;Kellner BS Prototype
+2447;Ziegaus;Ziegaus BS Prototype 2
+2448;OCC;BS 1
+2448;Kellner;Kellner BS Prototype
+2448;Ziegaus;Ziegaus BS Prototype 1
+2449;Kellner;Kellner BS C
+2449;OCC;BS 4
+2450;OCC;BS 1
+2450;Kellner;Kellner BS Prototype
+2450;Ziegaus;Ziegaus BS Prototype 1
+2451;Kellner;Kellner BS A
+2451;Ziegaus;Ziegaus BS A/B 7
+2451;OCC;BS 2
+2452;Kellner;Kellner BS C
+2452;Ziegaus;Ziegaus BS C 17
+2452;Nick;Nick BS C 4
+2452;OCC;BS 4
+2453;Kellner;Kellner BS E
+2453;Ziegaus;Ziegaus BS E 27
+2453;OCC;BS 6
+2454;Kellner;Kellner BS A
+2454;Ziegaus;Ziegaus BS A/B 10
+2454;OCC;BS 2
+2455;Kellner;Kellner BS C
+2455;OCC;BS 4
+2456;Kellner;Kellner BS A
+2456;OCC;BS 1
+2456;OCC;BS 2
+2456;Kellner;Kellner BS Prototype
+2457;Kellner;Kellner BS A
+2457;OCC;BS 2
+2458;Ziegaus;Ziegaus BS A/B 3
+2458;Kellner;Kellner BS A
+2458;OCC;BS 2
+2459;Kellner;Kellner BS C
+2459;OCC;BS 4
+2460;Kellner;Kellner BS C
+2460;OCC;BS 4
+2460;Ziegaus;Ziegaus BS C 23
+2461;Kellner;Kellner BS B
+2461;Ziegaus;Ziegaus BS A/B 14
+2461;OCC;BS 3
+2462;Ziegaus;Ziegaus BS A/B 3
+2462;Kellner;Kellner BS A
+2462;OCC;BS 2
+2463;Kellner;Kellner BS A
+2463;Ziegaus;Ziegaus BS A/B 10
+2463;OCC;BS 2
+2464;Kellner;Kellner BS A
+2464;Ziegaus;Ziegaus BS A/B 9
+2464;OCC;BS 2
+2465;Kellner;Kellner BS B
+2465;Ziegaus;Ziegaus BS A/B 9
+2465;OCC;BS 3
+2466;Ziegaus;Ziegaus BS A/B 3
+2466;Kellner;Kellner BS A
+2466;OCC;BS 2
+2467;OCC;BS 1
+2467;Kellner;Kellner BS Prototype
+2467;Ziegaus;Ziegaus BS Prototype 1
+2468;Ziegaus;Ziegaus BS A/B 3
+2468;Kellner;Kellner BS A
+2468;OCC;BS 2
+2469;OCC;BS 1
+2469;Kellner;Kellner BS Prototype
+2469;Ziegaus;Ziegaus BS Prototype 1
+2469;OCC;BS 2
+2469;Ziegaus;Ziegaus BS A/B 3
+2470;Kellner;Kellner BS C
+2470;Ziegaus;Ziegaus BS C 19
+2470;OCC;BS 4
+2471;Kellner;Kellner BS A
+2471;Ziegaus;Ziegaus BS A/B 4
+2471;OCC;BS 2
+2472;Kellner;Kellner BS A
+2472;Ziegaus;Ziegaus BS A/B 12
+2472;OCC;BS 2
+2473;Ziegaus;Ziegaus BS A/B 10
+2473;Kellner;Kellner BS A
+2473;OCC;BS 2
+2474;OCC;BS 1
+2474;Kellner;Kellner BS Prototype
+2474;Ziegaus;Ziegaus BS Prototype 1
+2475;OCC;BS 1
+2475;Kellner;Kellner BS Prototype
+2475;Ziegaus;Ziegaus BS Prototype 1
+2476;OCC;BS 1
+2476;Kellner;Kellner BS Prototype
+2476;Ziegaus;Ziegaus BS Prototype 1
+2477;Ziegaus;Ziegaus BS A/B 10
+2477;OCC;BS 3
+2477;Kellner;Kellner BS B
+2478;Kellner;Kellner BS C
+2478;Ziegaus;Ziegaus BS C 23
+2478;OCC;BS 4
+2479;Kellner;Kellner BS C
+2479;OCC;BS 4
+2480;Kellner;Kellner BS C
+2480;OCC;BS 4
+2481;Kellner;Kellner BS C
+2481;OCC;BS 4
+2481;Ziegaus;Ziegaus BS C 18
+2482;Kellner;Kellner BS C
+2482;OCC;BS 4
+2483;Kellner;Kellner BS C
+2483;OCC;BS 4
+2483;Ziegaus;Ziegaus BS C 19
+2483;Ziegaus;Ziegaus BS C 20
+2483;Nick;Nick BS C 1
+2486;Kellner;Kellner BS C
+2486;OCC;BS 4
+2487;Kellner;Kellner BS E
+2487;OCC;BS 6
+2488;Ziegaus;Ziegaus BS Prototype 2
+2488;Kellner;Kellner BS Prototype
+2488;OCC;BS 1
+2489;Kellner;Kellner BS C
+2489;Ziegaus;Ziegaus BS C 17
+2489;Nick;Nick BS C 4
+2489;OCC;BS 4
+2490;Ziegaus;Ziegaus BS A/B 5
+2490;Kellner;Kellner BS A
+2490;OCC;BS 2
+2491;Ziegaus;Ziegaus BS A/B 5
+2491;Kellner;Kellner BS A
+2491;OCC;BS 2
+2492;Kellner;Kellner BS A
+2492;Ziegaus;Ziegaus BS A/B 7
+2492;OCC;BS 2
+2493;Kellner;Kellner BS C
+2493;Ziegaus;Ziegaus BS C 17
+2493;Nick;Nick BS C 4
+2493;OCC;BS 4
+2494;Kellner;Kellner BS A
+2494;Ziegaus;Ziegaus BS A/B 10
+2494;OCC;BS 2
+2495;Kellner;Kellner BS A
+2495;Ziegaus;Ziegaus BS A/B 9
+2495;OCC;BS 2
+2495;Ziegaus;Ziegaus BS A/B 4
+2496;Ziegaus;Ziegaus BS A/B 4
+2496;Kellner;Kellner BS A
+2496;OCC;BS 2
+2497;Kellner;Kellner BS C
+2497;OCC;BS 4
+2498;Kellner;Kellner BS C
+2498;OCC;BS 4
+2499;Ziegaus;Ziegaus BS A/B 9
+2499;Kellner;Kellner BS B
+2499;OCC;BS 3
+2500;Kellner;Kellner BS C
+2500;Ziegaus;Ziegaus BS C 18
+2500;OCC;BS 4
+2501;Kellner;Kellner BS C
+2501;Ziegaus;Ziegaus BS C 24
+2501;OCC;BS 4
+2502;Kellner;Kellner BS C
+2502;OCC;BS 4
+2503;Kellner;Kellner BS C
+2503;Ziegaus;Ziegaus BS C 22
+2503;Nick;Nick BS C 8
+2503;OCC;BS 4
+2504;Kellner;Kellner BS C
+2504;OCC;BS 4
+2504;Ziegaus;Ziegaus BS C 19
+2504;Ziegaus;Ziegaus BS C 23
+2505;Kellner;Kellner BS C
+2505;OCC;BS 4
+2506;Kellner;Kellner BS E
+2506;OCC;BS 6
+2507;Kellner;Kellner BS A
+2507;OCC;BS 2
+2508;Kellner;Kellner BS A
+2508;Ziegaus;Ziegaus BS A/B 12
+2508;OCC;BS 2
+2509;Ziegaus;Ziegaus BS C 19
+2509;Kellner;Kellner BS C
+2509;Nick;Nick BS C 4
+2509;OCC;BS 4
+2509;Ziegaus;Ziegaus BS C 17
+2509;Nick;Nick BS C 1
+2510;Kellner;Kellner BS C
+2510;OCC;BS 4
+2511;Kellner;Kellner BS E
+2511;Ziegaus;Ziegaus BS E 27
+2511;OCC;BS 6
+2512;Kellner;Kellner BS E
+2512;OCC;BS 6
+2512;OCC;BS E 1
+2513;Kellner;Kellner BS E
+2513;OCC;BS 6
+2513;OCC;BS E 1
+2514;OCC;BS 9
+2514;Nick;Nick BS H 1
+2515;Nick;Nick BS F 1a
+2515;OCC;BS 7
+2516;Nick;Nick BS F 1b
+2516;OCC;BS 7
+2517;Nick;Nick BS F 1a
+2517;OCC;BS 7
+2518;Kellner;Kellner BS E
+2518;OCC;BS 6
+2518;OCC;BS E 1
+2519;Nick;Nick BS F 2a
+2519;OCC;BS 7
+2520;Nick;Nick BS F 1b
+2520;OCC;BS 7
+2521;Kellner;Kellner BS A
+2521;Ziegaus;Ziegaus BS A/B 10
+2521;OCC;BS 2
+2522;Nick;Nick BS F 1b
+2522;OCC;BS 7
+2523;Nick;Nick BS D 4
+2523;OCC;BS 5
+2524;Nick;Nick BS C 1
+2524;Kellner;Kellner BS C
+2524;Ziegaus;Ziegaus BS C 19
+2524;OCC;BS 4
+2525;Nick;Nick BS D 1
+2525;OCC;BS 5
+2526;Nick;Nick BS C 9
+2526;Kellner;Kellner BS C
+2526;Ziegaus;Ziegaus BS C 22
+2526;OCC;BS 4
+2527;Nick;Nick BS F 1a
+2527;OCC;BS 7
+2528;Nick;Nick BS F 1b
+2528;OCC;BS 7
+2529;Kellner;Kellner BS E
+2529;OCC;BS 6
+2530;Kellner;Kellner BS C
+2530;OCC;BS 4
+2530;Ziegaus;Ziegaus BS C 22
+2531;Kellner;Kellner BS C
+2531;Nick;Nick BS C 1
+2531;Ziegaus;Ziegaus BS C 19
+2531;OCC;BS 4
+2532;Kellner;Kellner BS C
+2532;OCC;BS 4
+2533;OCC;BS 4
+2533;Kellner;Kellner BS C
+2533;Ziegaus;Ziegaus BS C 17
+2533;Nick;Nick BS C 4
+2534;OCC;BS 4
+2534;Kellner;Kellner BS C
+2534;Ziegaus;Ziegaus BS C 19
+2534;Nick;Nick BS C 1
+2535;OCC;BS 4
+2535;Kellner;Kellner BS C
+2536;OCC;BS 5
+2536;Nick;Nick BS D 2
+2537;OCC;BS 5
+2537;Nick;Nick BS D 7
+2538;OCC;BS 7
+2538;Nick;Nick BS F 1b
+2539;OCC;BS 7
+2539;Nick;Nick BS F 2b
+2540;Allen;Uncertain type
+2540;Allen;Prague type
+2541;OCC;BS 4
+2541;Kellner;Kellner BS C
+2541;Nick;Nick BS C 1
+2541;Ziegaus;Ziegaus BS C 19
+2542;OCC;BS 4
+2542;Kellner;Kellner BS C
+2542;Ziegaus;Ziegaus BS C 19
+2542;Nick;Nick BS C 1
+2543;OCC;BS 4
+2543;Kellner;Kellner BS C
+2544;OCC;BS 4
+2544;Kellner;Kellner BS C
+2544;Ziegaus;Ziegaus BS C 19
+2544;Nick;Nick BS C 1
+2545;OCC;BS 4
+2545;Kellner;Kellner BS C
+2546;OCC;BS 4
+2546;Kellner;Kellner BS C
+2546;Nick;Nick BS C 4
+2546;Ziegaus;Ziegaus BS C 17
+2547;OCC;BS 4
+2547;Kellner;Kellner BS C
+2547;Ziegaus;Ziegaus BS C 23
+2548;OCC;BS 6
+2548;Kellner;Kellner BS E
+2548;Ziegaus;Ziegaus BS E 27
+2549;Nick;Nick BS C 4
+2549;OCC;BS 4
+2549;Kellner;Kellner BS C
+2549;Ziegaus;Ziegaus BS C 17
+2550;OCC;BS 4
+2550;Kellner;Kellner BS C
+2551;OCC;BS 4
+2551;Kellner;Kellner BS C
+2551;Nick;Nick BS C 4
+2551;Ziegaus;Ziegaus BS C 17
+2552;OCC;BS 4
+2552;Kellner;Kellner BS C
+2552;Ziegaus;Ziegaus BS C 17
+2552;Nick;Nick BS C 4
+2553;OCC;BS 4
+2553;Kellner;Kellner BS C
+2553;Ziegaus;Ziegaus BS C 17
+2553;Nick;Nick BS C 4
+2554;OCC;BS 4
+2554;Kellner;Kellner BS C
+2554;Ziegaus;Ziegaus BS C 20
+2554;Nick;Nick BS C 1
+2554;Ziegaus;Ziegaus BS C 19
+2555;OCC;BS 4
+2555;Kellner;Kellner BS C
+2555;Nick;Nick BS C 4
+2555;Ziegaus;Ziegaus BS C 17
+2556;OCC;BS 4
+2556;Kellner;Kellner BS C
+2556;Ziegaus;Ziegaus BS C 17
+2556;Nick;Nick BS C 4
+2557;OCC;BS 4
+2557;Kellner;Kellner BS C
+2557;Nick;Nick BS C 1
+2557;Ziegaus;Ziegaus BS C 19
+2557;OCC;BS 6
+2558;Kellner;Kellner BS E
+2558;Ziegaus;Ziegaus BS E 29
+2558;OCC;BS 6
+2559;OCC;BS 4
+2559;Kellner;Kellner BS C
+2560;OCC;BS 4
+2560;Kellner;Kellner BS C
+2560;Ziegaus;Ziegaus BS C 18
+2561;OCC;BS 6
+2561;Kellner;Kellner BS E
+2562;OCC;BS 4
+2562;Kellner;Kellner BS C
+2562;Nick;Nick BS C 1
+2562;Ziegaus;Ziegaus BS C 19
+2562;Ziegaus;Ziegaus BS C 20
+2563;OCC;BS 4
+2563;Kellner;Kellner BS C
+2563;Ziegaus;Ziegaus BS C 17
+2563;Nick;Nick BS C 4
+2564;OCC;BS 4
+2564;Kellner;Kellner BS C
+2565;OCC;BS 4
+2565;Kellner;Kellner BS C
+2565;Ziegaus;Ziegaus BS C 18
+2566;OCC;BS 4
+2566;Ziegaus;Ziegaus BS C 19
+2566;Nick;Nick BS C 1
+2566;Kellner;Kellner BS C
+2567;Kellner;Kellner BS E
+2567;OCC;BS 6
+2567;Ziegaus;Ziegaus BS E 27
+2568;OCC;BS 4
+2568;Kellner;Kellner BS C
+2568;Ziegaus;Ziegaus BS C 18
+2569;Allen;Uncertain type
+2570;OCC;BS 4
+2570;Kellner;Kellner BS C
+2570;Nick;Nick BS C 4
+2570;Ziegaus;Ziegaus BS C 17
+2571;Allen;Uncertain type
+2572;OCC;BS 4
+2572;Kellner;Kellner BS C
+2573;OCC;BS 4
+2573;Kellner;Kellner BS C
+2574;OCC;BS 4
+2574;Kellner;Kellner BS C
+2575;OCC;BS 4
+2575;Kellner;Kellner BS C
+2575;Nick;Nick BS C 4
+2575;Ziegaus;Ziegaus BS C 17
+2576;OCC;BS 4
+2576;Kellner;Kellner BS C
+2576;Ziegaus;Ziegaus BS C 22
+2577;OCC;BS 4
+2577;Kellner;Kellner BS C
+2577;Nick;Nick BS C 4
+2577;Ziegaus;Ziegaus BS C 17
+2578;OCC;BS 4
+2578;Kellner;Kellner BS C
+2579;OCC;BS 4
+2579;Kellner;Kellner BS C
+2580;OCC;BS 4
+2580;Kellner;Kellner BS C
+2581;OCC;BS 4
+2581;Kellner;Kellner BS C
+2581;Nick;Nick BS C 4
+2581;Ziegaus;Ziegaus BS C 17
+2582;OCC;BS 4
+2582;Kellner;Kellner BS C
+2582;Nick;Nick BS C 4
+2582;Ziegaus;Ziegaus BS C 17
+2583;OCC;BS 4
+2583;Kellner;Kellner BS C
+2583;Nick;Nick BS C 1
+2583;Ziegaus;Ziegaus BS C 19
+2584;Kellner;Kellner BS C
+2584;OCC;BS 4
+2585;OCC;BS 4
+2585;Kellner;Kellner BS C
+2586;OCC;BS 4
+2586;Kellner;Kellner BS C
+2586;Nick;Nick BS C 4
+2586;Ziegaus;Ziegaus BS C 17
+2587;OCC;BS 4
+2587;Kellner;Kellner BS C
+2587;Nick;Nick BS C 1
+2587;Ziegaus;Ziegaus BS C 19
+2588;OCC;BS 4
+2588;Kellner;Kellner BS C
+2588;Ziegaus;Ziegaus BS C 17
+2588;Nick;Nick BS C 4
+2589;OCC;BS 4
+2589;Kellner;Kellner BS C
+2589;Ziegaus;Ziegaus BS C 24
+2590;OCC;BS 4
+2590;Kellner;Kellner BS C
+2590;Nick;Nick BS C 4
+2590;Ziegaus;Ziegaus BS C 17
+2591;OCC;BS 5
+2591;Nick;Nick BS D 1
+2592;OCC;BS 4
+2592;Kellner;Kellner BS C
+2593;OCC;BS 4
+2593;Kellner;Kellner BS C
+2594;OCC;BS 4
+2594;Kellner;Kellner BS C
+2595;OCC;BS 4
+2595;Kellner;Kellner BS C
+2596;OCC;BS 4
+2596;Kellner;Kellner BS C
+2597;OCC;BS 4
+2597;Kellner;Kellner BS C
+2598;OCC;BS 4
+2598;Kellner;Kellner BS C
+2599;OCC;BS 4
+2599;Kellner;Kellner BS C
+2600;OCC;BS 4
+2600;Kellner;Kellner BS C
+2600;Nick;Nick BS C 1
+2600;Ziegaus;Ziegaus BS C 19
+2601;OCC;BS 4
+2601;Kellner;Kellner BS C
+2602;OCC;BS 4
+2602;Kellner;Kellner BS C
+2602;Nick;Nick BS C 1
+2602;Ziegaus;Ziegaus BS C 19
+2602;Ziegaus;Ziegaus BS C 20
+2603;OCC;BS 4
+2603;Kellner;Kellner BS C
+2603;Ziegaus;Ziegaus BS C 22
+2603;Nick;Nick BS C 8
+2604;OCC;BS 4
+2604;Kellner;Kellner BS C
+2604;Nick;Nick BS C 4
+2604;Ziegaus;Ziegaus BS C 17
+2605;OCC;BS 4
+2605;Kellner;Kellner BS C
+2606;OCC;BS 6
+2606;Kellner;Kellner BS E
+2606;Ziegaus;Ziegaus BS E 28
+2607;OCC;BS 3
+2607;Kellner;Kellner BS B
+2609;OCC;BS 4
+2609;Kellner;Kellner BS C
+2610;OCC;BS 4
+2610;Kellner;Kellner BS C
+2611;Allen;Uncertain type
+2612;OCC;BS 4
+2612;Kellner;Kellner BS C
+2612;Nick;Nick BS C 1
+2612;Ziegaus;Ziegaus BS C 19
+2612;Ziegaus;Ziegaus BS C 20
+2613;OCC;BS 4
+2613;Kellner;Kellner BS C
+2613;Nick;Nick BS C 1
+2613;Ziegaus;Ziegaus BS C 19
+2613;Ziegaus;Ziegaus BS C 20
+2614;OCC;BS 4
+2614;Kellner;Kellner BS C
+2615;OCC;BS 4
+2615;Kellner;Kellner BS C
+2615;Ziegaus;Ziegaus BS C 18
+2616;OCC;BS 4
+2616;Kellner;Kellner BS C
+2617;OCC;BS 4
+2617;Kellner;Kellner BS C
+2617;Nick;Nick BS C 1
+2617;Ziegaus;Ziegaus BS C 19
+2617;Ziegaus;Ziegaus BS C 20
+2618;OCC;BS 4
+2618;Kellner;Kellner BS C
+2618;Ziegaus;Ziegaus BS C 18
+2619;OCC;BS 4
+2619;Kellner;Kellner BS C
+2620;OCC;BS 4
+2620;Kellner;Kellner BS C
+2620;Nick;Nick BS C 1
+2620;Ziegaus;Ziegaus BS C 19
+2622;OCC;BS 2
+2622;OCC;BS 3
+2622;Kellner;Kellner BS A
+2622;Kellner;Kellner BS B
+2622;OCC;BS 4
+2622;Kellner;Kellner BS C
+2623;OCC;BS 4
+2623;Kellner;Kellner BS C
+2624;OCC;BS 4
+2624;Kellner;Kellner BS C
+2625;OCC;BS 4
+2625;Kellner;Kellner BS C
+2625;Ziegaus;Ziegaus BS C 24
+2626;OCC;BS 4
+2626;Kellner;Kellner BS C
+2627;OCC;BS 4
+2627;Kellner;Kellner BS C
+2628;OCC;BS 4
+2628;Kellner;Kellner BS C
+2629;OCC;BS 4
+2629;Kellner;Kellner BS C
+2629;Nick;Nick BS C 8
+2629;Ziegaus;Ziegaus BS C 22
+2630;OCC;BS 4
+2630;Kellner;Kellner BS C
+2630;Ziegaus;Ziegaus BS C 21
+2630;Ziegaus;Ziegaus BS C 24
+2631;OCC;BS 4
+2631;Kellner;Kellner BS C
+2632;OCC;BS 4
+2632;Kellner;Kellner BS C
+2633;OCC;BS 4
+2633;Kellner;Kellner BS C
+2633;Nick;Nick BS C 9
+2634;OCC;BS 4
+2634;Kellner;Kellner BS C
+2634;Nick;Nick BS C 9
+2635;OCC;BS 4
+2635;Kellner;Kellner BS C
+2635;Ziegaus;Ziegaus BS C 19
+2635;Nick;Nick BS C 1
+2636;OCC;BS 6
+2636;Kellner;Kellner BS E
+2636;Ziegaus;Ziegaus BS E 27
+2637;OCC;BS 3
+2637;Kellner;Kellner BS B
+2638;OCC;BS 4
+2638;Kellner;Kellner BS C
+2638;Ziegaus;Ziegaus BS C 18
+2639;OCC;BS 4
+2639;Kellner;Kellner BS C
+2640;OCC;BS 4
+2640;Kellner;Kellner BS C
+2640;Nick;Nick BS C 9
+2641;OCC;BS 4
+2641;Kellner;Kellner BS C
+2642;OCC;BS 4
+2642;Kellner;Kellner BS C
+2643;OCC;BS 6
+2643;Kellner;Kellner BS E
+2644;OCC;BS 4
+2644;Kellner;Kellner BS C
+2645;OCC;BS 4
+2645;Kellner;Kellner BS C
+2646;OCC;BS 6
+2646;Kellner;Kellner BS E
+2647;OCC;BS 4
+2647;Kellner;Kellner BS C
+2648;OCC;BS 4
+2648;Kellner;Kellner BS C
+2649;OCC;BS 4
+2649;Kellner;Kellner BS C
+2649;Nick;Nick BS C 4
+2649;Ziegaus;Ziegaus BS C 17
+2650;OCC;BS 4
+2650;Kellner;Kellner BS C
+2651;OCC;BS 4
+2651;Kellner;Kellner BS C
+2652;OCC;BS 4
+2652;Kellner;Kellner BS C
+2652;Ziegaus;Ziegaus BS C 23
+2653;OCC;BS 4
+2653;Kellner;Kellner BS C
+2654;OCC;BS 4
+2654;Kellner;Kellner BS C
+2654;Ziegaus;Ziegaus BS C 18
+2655;OCC;BS 4
+2655;Kellner;Kellner BS C
+2655;Nick;Nick BS C 8
+2655;Ziegaus;Ziegaus BS C 22
+2656;OCC;BS 4
+2656;Kellner;Kellner BS C
+2656;Nick;Nick BS C 4
+2656;Ziegaus;Ziegaus BS C 17
+2657;OCC;BS 4
+2657;Kellner;Kellner BS C
+2657;Nick;Nick BS C 8
+2657;Ziegaus;Ziegaus BS C 22
+2658;OCC;BS 5
+2658;Nick;Nick BS D 3
+2659;OCC;BS 4
+2659;Kellner;Kellner BS C
+2659;Nick;Nick BS C 9
+2660;OCC;BS 4
+2660;Kellner;Kellner BS C
+2661;OCC;BS 4
+2661;Kellner;Kellner BS C
+2662;OCC;BS 4
+2662;Kellner;Kellner BS C
+2662;Nick;Nick BS C 4
+2662;Ziegaus;Ziegaus BS C 17
+2664;Allen;Uncertain type
+2665;OCC;BS 4
+2665;Kellner;Kellner BS C
+2665;Nick;Nick BS C 9
+2665;Ziegaus;Ziegaus BS C 22
+2666;OCC;BS 5
+2666;Nick;Nick BS D 2
+2667;OCC;BS 4
+2667;Kellner;Kellner BS C
+2668;OCC;BS 4
+2668;Kellner;Kellner BS C
+2669;OCC;BS 5
+2669;Nick;Nick BS D 2
+2670;OCC;BS 4
+2670;Kellner;Kellner BS C
+2670;Nick;Nick BS C 8
+2670;Ziegaus;Ziegaus BS C 22
+2671;OCC;BS 4
+2671;Kellner;Kellner BS C
+2671;Nick;Nick BS C 1
+2671;Ziegaus;Ziegaus BS C 19
+2672;OCC;BS 4
+2672;Kellner;Kellner BS C
+2673;OCC;BS 4
+2673;Kellner;Kellner BS C
+2673;Nick;Nick BS C 8
+2673;Ziegaus;Ziegaus BS C 22
+2674;OCC;BS 4
+2674;Kellner;Kellner BS C
+2675;OCC;BS 4
+2675;Kellner;Kellner BS C
+2675;Ziegaus;Ziegaus BS C 19
+2675;Nick;Nick BS C 1
+2676;OCC;BS 4
+2676;Kellner;Kellner BS C
+2676;Nick;Nick BS C 1
+2676;Ziegaus;Ziegaus BS C 19
+2677;OCC;BS 4
+2677;Kellner;Kellner BS C
+2677;Ziegaus;Ziegaus BS C 17
+2677;Nick;Nick BS C 4
+2678;OCC;BS 4
+2678;Kellner;Kellner BS C
+2678;Nick;Nick BS C 1
+2678;Ziegaus;Ziegaus BS C 19
+2679;OCC;BS 5
+2679;Nick;Nick BS D 2
+2680;OCC;BS 4
+2680;Kellner;Kellner BS C
+2680;Nick;Nick BS C 1
+2680;Ziegaus;Ziegaus BS C 19
+2681;OCC;BS 4
+2681;Kellner;Kellner BS C
+2682;OCC;BS 4
+2682;Kellner;Kellner BS C
+2682;Ziegaus;Ziegaus BS C 24
+2683;OCC;BS 4
+2683;Kellner;Kellner BS C
+2683;Nick;Nick BS C 1
+2683;Ziegaus;Ziegaus BS C 19
+2684;OCC;BS 4
+2684;Kellner;Kellner BS C
+2684;Nick;Nick BS C 1
+2684;Ziegaus;Ziegaus BS C 19
+2685;OCC;BS 4
+2685;Kellner;Kellner BS C
+2685;Ziegaus;Ziegaus BS C 18
+2686;Nick;Nick BS C 4
+2686;OCC;BS 4
+2686;Kellner;Kellner BS C
+2686;Ziegaus;Ziegaus BS C 17
+2687;OCC;BS 4
+2687;Kellner;Kellner BS C
+2688;OCC;BS 4
+2688;Kellner;Kellner BS C
+2689;OCC;BS 4
+2689;Kellner;Kellner BS C
+2689;Nick;Nick BS C 8
+2689;Ziegaus;Ziegaus BS C 22
+2690;OCC;BS 4
+2690;Ziegaus;Ziegaus BS C 17
+2690;Nick;Nick BS C 4
+2690;Kellner;Kellner BS C
+2691;OCC;BS 4
+2691;Kellner;Kellner BS C
+2692;OCC;BS 4
+2692;Kellner;Kellner BS C
+2692;Nick;Nick BS C 9
+2692;Ziegaus;Ziegaus BS C 22
+2693;OCC;BS 4
+2693;Kellner;Kellner BS C
+2693;Ziegaus;Ziegaus BS C 17
+2693;Nick;Nick BS C 4
+2694;OCC;BS 4
+2694;Kellner;Kellner BS C
+2694;Ziegaus;Ziegaus BS C 18
+2695;OCC;BS 4
+2695;Kellner;Kellner BS C
+2695;Nick;Nick BS C 4
+2695;Ziegaus;Ziegaus BS C 17
+2696;OCC;BS 4
+2696;Kellner;Kellner BS C
+2696;Ziegaus;Ziegaus BS C 18
+2697;OCC;BS 4
+2697;Kellner;Kellner BS C
+2697;Nick;Nick BS C 4
+2697;Ziegaus;Ziegaus BS C 17
+2699;OCC;BS 4
+2699;Kellner;Kellner BS C
+2701;OCC;BS 4
+2701;Kellner;Kellner BS C
+2701;Nick;Nick BS C 1
+2701;Ziegaus;Ziegaus BS C 19
+2702;OCC;BS 4
+2702;Kellner;Kellner BS C
+2703;OCC;BS 4
+2703;Kellner;Kellner BS C
+2704;OCC;BS 4
+2704;Kellner;Kellner BS C
+2704;Ziegaus;Ziegaus BS C 18
+2705;OCC;BS 4
+2705;Kellner;Kellner BS C
+2705;Ziegaus;Ziegaus BS C 17
+2705;Nick;Nick BS C 4
+2706;OCC;BS 4
+2706;Kellner;Kellner BS C
+2706;Ziegaus;Ziegaus BS C 22
+2707;OCC;BS 4
+2707;Kellner;Kellner BS C
+2707;Nick;Nick BS C 4
+2707;Ziegaus;Ziegaus BS C 17
+2708;OCC;BS 4
+2708;Kellner;Kellner BS C
+2708;Ziegaus;Ziegaus BS C 18
+2709;OCC;BS 6
+2709;Kellner;Kellner BS E
+2710;OCC;BS 4
+2710;Kellner;Kellner BS C
+2710;Nick;Nick BS C 1
+2710;Ziegaus;Ziegaus BS C 19
+2711;OCC;BS 4
+2711;Kellner;Kellner BS C
+2712;OCC;BS 4
+2712;Kellner;Kellner BS C
+2712;Ziegaus;Ziegaus BS C 20
+2712;Nick;Nick BS C 1
+2713;OCC;BS 4
+2713;Kellner;Kellner BS C
+2713;Nick;Nick BS C 4
+2713;Ziegaus;Ziegaus BS C 17
+2714;OCC;BS 4
+2714;Kellner;Kellner BS C
+2715;OCC;BS 4
+2715;Kellner;Kellner BS C
+2715;Ziegaus;Ziegaus BS C 19
+2715;Nick;Nick BS C 1
+2716;OCC;BS 4
+2716;Kellner;Kellner BS C
+2716;Nick;Nick BS C 4
+2716;Ziegaus;Ziegaus BS C 17
+2717;OCC;BS 6
+2717;Kellner;Kellner BS E
+2717;OCC;BS E 1
+2718;OCC;BS 4
+2718;Kellner;Kellner BS C
+2719;OCC;BS 4
+2719;Kellner;Kellner BS C
+2719;Nick;Nick BS C 1
+2719;Ziegaus;Ziegaus BS C 19
+2720;OCC;BS 4
+2720;Kellner;Kellner BS C
+2720;Nick;Nick BS C 4
+2720;Ziegaus;Ziegaus BS C 17
+2721;OCC;BS 4
+2721;Kellner;Kellner BS C
+2721;Nick;Nick BS C 1
+2721;Ziegaus;Ziegaus BS C 19
+2722;OCC;BS 4
+2722;Kellner;Kellner BS C
+2722;Nick;Nick BS C 1
+2722;Ziegaus;Ziegaus BS C 19
+2723;OCC;BS 4
+2723;Kellner;Kellner BS C
+2723;Nick;Nick BS C 8
+2723;Ziegaus;Ziegaus BS C 22
+2724;OCC;BS 4
+2724;Kellner;Kellner BS C
+2725;OCC;BS 4
+2725;Kellner;Kellner BS C
+2726;OCC;BS 4
+2726;Kellner;Kellner BS C
+2727;OCC;BS 4
+2727;Kellner;Kellner BS C
+2728;Allen;Uncertain type
+2729;OCC;BS 4
+2729;Kellner;Kellner BS C
+2729;Nick;Nick BS C 1
+2729;Ziegaus;Ziegaus BS C 19
+2730;OCC;BS 4
+2730;Kellner;Kellner BS C
+2732;OCC;BS 3
+2732;Kellner;Kellner BS B
+2734;OCC;BS 4
+2734;Kellner;Kellner BS C
+2735;OCC;BS 4
+2735;Kellner;Kellner BS C
+2736;OCC;BS 4
+2736;Kellner;Kellner BS C
+2736;Nick;Nick BS C 1
+2736;Ziegaus;Ziegaus BS C 19
+2737;OCC;BS 4
+2737;Kellner;Kellner BS C
+2738;OCC;BS 4
+2738;Kellner;Kellner BS C
+2738;Ziegaus;Ziegaus BS C 22
+2738;Nick;Nick BS C 8
+2742;OCC;BS 6
+2742;Kellner;Kellner BS E
+2745;OCC;BS 4
+2745;Kellner;Kellner BS C
+2745;Nick;Nick BS C 4
+2745;Ziegaus;Ziegaus BS C 17
+2746;OCC;BS 4
+2746;Kellner;Kellner BS C
+2746;Nick;Nick BS C 4
+2746;Ziegaus;Ziegaus BS C 17
+2747;OCC;BS 4
+2747;Kellner;Kellner BS C
+2747;Nick;Nick BS C 1
+2747;Ziegaus;Ziegaus BS C 19
+2748;OCC;BS 4
+2748;Kellner;Kellner BS C
+2748;Ziegaus;Ziegaus BS C 23
+2749;OCC;BS 4
+2749;Kellner;Kellner BS C
+2750;Allen;Uncertain type
+2751;OCC;BS 6
+2751;Kellner;Kellner BS E
+2751;OCC;BS E 1
+2758;OCC;BS 4
+2758;Kellner;Kellner BS C
+2758;Nick;Nick BS C 1
+2758;Ziegaus;Ziegaus BS C 20
+2759;OCC;BS 2
+2759;Kellner;Kellner BS A
+2759;Ziegaus;Ziegaus BS A/B 10
+2760;OCC;BS 4
+2760;Kellner;Kellner BS C
+2760;Ziegaus;Ziegaus BS C 18
+2761;OCC;BS 2
+2761;Kellner;Kellner BS A
+2761;Ziegaus;Ziegaus BS A/B 10
+2762;Allen;Uncertain type
+2763;OCC;BS 2
+2763;Kellner;Kellner BS A
+2763;Ziegaus;Ziegaus BS A/B 10
+2764;OCC;BS 4
+2764;Kellner;Kellner BS C
+2765;OCC;BS 3
+2765;Kellner;Kellner BS B
+2765;Ziegaus;Ziegaus BS A/B 10
+2766;OCC;BS 3
+2766;Kellner;Kellner BS B
+2766;Ziegaus;Ziegaus BS A/B 13
+2767;Allen;Uncertain type
+2768;OCC;BS 2
+2768;Kellner;Kellner BS A
+2768;Ziegaus;Ziegaus BS A/B 7
+2769;OCC;BS 2
+2769;Kellner;Kellner BS A
+2769;Ziegaus;Ziegaus BS A/B 10
+2770;OCC;BS 4
+2770;Kellner;Kellner BS C
+2770;Ziegaus;Ziegaus BS C 18
+2771;OCC;BS 3
+2771;Kellner;Kellner BS B
+2772;OCC;BS 2
+2772;Kellner;Kellner BS A
+2772;Ziegaus;Ziegaus BS A/B 10
+2773;OCC;BS 3
+2773;Kellner;Kellner BS B
+2773;Ziegaus;Ziegaus BS A/B 10
+2774;OCC;BS 2
+2774;Kellner;Kellner BS A
+2775;OCC;BS 3
+2775;Kellner;Kellner BS B
+2776;OCC;BS 4
+2776;Kellner;Kellner BS C
+2777;OCC;BS 6
+2777;Kellner;Kellner BS E
+2777;Ziegaus;Ziegaus BS E 28
+2778;OCC;BS 2
+2778;Kellner;Kellner BS A
+2778;Ziegaus;Ziegaus BS A/B 10
+2779;OCC;BS 4
+2779;Kellner;Kellner BS C
+2779;Ziegaus;Ziegaus BS C 23
+2780;OCC;BS 2
+2780;Kellner;Kellner BS A
+2780;Ziegaus;Ziegaus BS A/B 10
+2781;OCC;BS 2
+2781;Kellner;Kellner BS A
+2782;OCC;BS 4
+2782;Kellner;Kellner BS C
+2782;Ziegaus;Ziegaus BS C 20
+2783;OCC;BS 4
+2783;Kellner;Kellner BS C
+2784;OCC;BS 2
+2784;Kellner;Kellner BS A
+2784;Ziegaus;Ziegaus BS A/B 4
+2785;OCC;BS 6
+2785;Kellner;Kellner BS E
+2785;Ziegaus;Ziegaus BS E 28
+2786;OCC;BS 2
+2786;Kellner;Kellner BS A
+2786;Ziegaus;Ziegaus BS A/B 4
+2787;OCC;BS 4
+2787;Kellner;Kellner BS C
+2787;Ziegaus;Ziegaus BS C 21
+2788;OCC;BS 4
+2788;Kellner;Kellner BS C
+2789;OCC;BS 4
+2789;Kellner;Kellner BS C
+2790;OCC;BS 6
+2790;Kellner;Kellner BS E
+2790;Ziegaus;Ziegaus BS E 27
+2791;Allen;Uncertain type
+2792;OCC;BS 4
+2792;Kellner;Kellner BS C
+2793;OCC;BS 3
+2793;Kellner;Kellner BS B
+2793;Ziegaus;Ziegaus BS A/B 4
+2794;OCC;BS 4
+2794;Kellner;Kellner BS C
+2795;OCC;BS 4
+2795;Kellner;Kellner BS C
+2796;OCC;BS 2
+2796;Kellner;Kellner BS A
+2796;Ziegaus;Ziegaus BS A/B 10
+2797;OCC;BS 2
+2798;OCC;BS 3
+2798;Kellner;Kellner BS B
+2798;Ziegaus;Ziegaus BS A/B 9
+2799;OCC;BS 3
+2799;Kellner;Kellner BS B
+2800;OCC;BS 3
+2800;Kellner;Kellner BS B
+2800;Ziegaus;Ziegaus BS A/B 10
+2801;OCC;BS 4
+2801;Kellner;Kellner BS C
+2801;Ziegaus;Ziegaus BS C 17
+2802;OCC;BS 4
+2802;Kellner;Kellner BS C
+2802;Nick;Nick BS C 9
+2802;Ziegaus;Ziegaus BS C 22
+2803;Allen;Uncertain type
+2804;OCC;BS 3
+2804;Kellner;Kellner BS B
+2805;Allen;Uncertain type
+2806;OCC;BS 3
+2806;Kellner;Kellner BS B
+2806;Ziegaus;Ziegaus BS A/B 9
+2807;OCC;BS 4
+2807;Kellner;Kellner BS C
+2808;OCC;BS 2
+2808;Kellner;Kellner BS A
+2808;Ziegaus;Ziegaus BS A/B 10
+2809;OCC;BS 4
+2809;Kellner;Kellner BS C
+2810;OCC;BS 2
+2810;Kellner;Kellner BS A
+2810;Ziegaus;Ziegaus BS A/B 10
+2811;OCC;BS 4
+2811;Kellner;Kellner BS C
+2811;Ziegaus;Ziegaus BS C 19
+2811;Nick;Nick BS C 1
+2812;OCC;BS 2
+2812;Kellner;Kellner BS A
+2813;OCC;BS 4
+2813;Kellner;Kellner BS C
+2814;OCC;BS 2
+2814;Kellner;Kellner BS A
+2814;Ziegaus;Ziegaus BS A/B 13
+2815;OCC;BS 2
+2815;Kellner;Kellner BS A
+2815;Ziegaus;Ziegaus BS A/B 10
+2816;OCC;BS 2
+2816;Kellner;Kellner BS A
+2816;Ziegaus;Ziegaus BS A/B 7
+2817;OCC;BS 2
+2817;Kellner;Kellner BS A
+2817;Ziegaus;Ziegaus BS A/B 10
+2818;OCC;BS 2
+2818;Kellner;Kellner BS A
+2818;Ziegaus;Ziegaus BS A/B 9
+2819;OCC;BS 3
+2819;Kellner;Kellner BS B
+2819;Ziegaus;Ziegaus BS A/B 9
+2820;OCC;BS 2
+2820;Kellner;Kellner BS A
+2820;Ziegaus;Ziegaus BS A/B 10
+2821;Allen;Uncertain type
+2822;OCC;BS 6
+2822;Kellner;Kellner BS E
+2822;Ziegaus;Ziegaus BS E 29
+2823;OCC;BS 2
+2823;Kellner;Kellner BS A
+2823;Ziegaus;Ziegaus BS A/B 10
+2824;OCC;BS 4
+2824;Kellner;Kellner BS C
+2824;Ziegaus;Ziegaus BS C 23
+2825;OCC;BS 3
+2825;Kellner;Kellner BS B
+2825;Ziegaus;Ziegaus BS A/B 9
+2826;OCC;BS 3
+2826;Kellner;Kellner BS B
+2826;Ziegaus;Ziegaus BS A/B 9
+2827;OCC;BS 6
+2827;Kellner;Kellner BS E
+2828;OCC;BS 4
+2828;Kellner;Kellner BS C
+2829;OCC;BS 2
+2829;Kellner;Kellner BS A
+2829;Ziegaus;Ziegaus BS A/B 10
+2830;OCC;BS 4
+2831;OCC;BS 2
+2831;Kellner;Kellner BS A
+2831;Ziegaus;Ziegaus BS A/B 9
+2832;OCC;BS 4
+2832;Kellner;Kellner BS C
+2832;Ziegaus;Ziegaus BS C 23
+2833;OCC;BS 4
+2833;Kellner;Kellner BS C
+2834;OCC;BS 4
+2834;Kellner;Kellner BS C
+2834;Ziegaus;Ziegaus BS C 23
+2835;OCC;BS 4
+2835;Kellner;Kellner BS C
+2835;Ziegaus;Ziegaus BS C 17
+2836;OCC;BS 2
+2836;Kellner;Kellner BS A
+2837;OCC;BS 4
+2837;Kellner;Kellner BS C
+2838;OCC;BS 1
+2838;Kellner;Kellner BS Prototype
+2838;Ziegaus;Ziegaus BS Prototype 1
+2839;OCC;BS 1
+2839;Kellner;Kellner BS Prototype
+2839;Ziegaus;Ziegaus BS Prototype 1
+2840;OCC;BS 3
+2840;Kellner;Kellner BS B
+2840;Ziegaus;Ziegaus BS A/B 7
+2841;OCC;BS 4
+2841;Kellner;Kellner BS C
+2841;Ziegaus;Ziegaus BS C 23
+2842;OCC;BS 3
+2842;Kellner;Kellner BS B
+2843;Kellner;Kellner BS E
+2843;OCC;BS 6
+2843;Ziegaus;Ziegaus BS E 27
+2844;OCC;BS 2
+2844;Kellner;Kellner BS A
+2844;Ziegaus;Ziegaus BS A/B 9
+2845;Kellner;Kellner BS E
+2845;OCC;BS 6
+2845;Ziegaus;Ziegaus BS E 27
+2846;Allen;Uncertain type
+2847;OCC;BS 3
+2847;Kellner;Kellner BS B
+2847;Ziegaus;Ziegaus BS A/B 9
+2848;Kellner;Kellner BS E
+2848;OCC;BS 6
+2848;Ziegaus;Ziegaus BS E 27
+2849;OCC;BS 2
+2849;Kellner;Kellner BS A
+2849;Ziegaus;Ziegaus BS A/B 3
+2850;Kellner;Kellner BS E
+2850;OCC;BS 6
+2850;Ziegaus;Ziegaus BS E 28
+2851;Allen;Uncertain type
+2852;Kellner;Kellner BS C
+2852;OCC;BS 4
+2852;Ziegaus;Ziegaus BS C 22
+2853;OCC;BS 4
+2853;Kellner;Kellner BS C
+2853;Ziegaus;Ziegaus BS C 22
+2854;OCC;BS 3
+2854;Kellner;Kellner BS B
+2854;Ziegaus;Ziegaus BS A/B 9
+2855;OCC;BS 2
+2855;Kellner;Kellner BS A
+2855;Ziegaus;Ziegaus BS A/B 10
+2856;OCC;BS 4
+2856;Kellner;Kellner BS C
+2856;Ziegaus;Ziegaus BS C 19
+2857;OCC;BS 4
+2857;Kellner;Kellner BS C
+2858;OCC;BS 2
+2858;Kellner;Kellner BS A
+2858;Ziegaus;Ziegaus BS A/B 9
+2859;OCC;BS 4
+2859;Kellner;Kellner BS C
+2860;OCC;BS 6
+2860;Kellner;Kellner BS E
+2860;Ziegaus;Ziegaus BS E 27
+2861;OCC;BS 2
+2861;Kellner;Kellner BS A
+2861;Ziegaus;Ziegaus BS A/B 4
+2862;OCC;BS 6
+2862;Kellner;Kellner BS E
+2863;OCC;BS 2
+2863;Kellner;Kellner BS A
+2863;Ziegaus;Ziegaus BS A/B 10
+2864;OCC;BS 3
+2864;Kellner;Kellner BS B
+2864;Ziegaus;Ziegaus BS A/B 10
+2865;OCC;BS 3
+2865;Kellner;Kellner BS B
+2865;Ziegaus;Ziegaus BS A/B 10
+2866;OCC;BS 1
+2866;Kellner;Kellner BS Prototype
+2866;Ziegaus;Ziegaus BS Prototype 2
+2867;OCC;BS 4
+2867;Kellner;Kellner BS C
+2868;OCC;BS 6
+2868;Kellner;Kellner BS E
+2869;OCC;BS 2
+2869;Kellner;Kellner BS A
+2869;Ziegaus;Ziegaus BS A/B 10
+2870;OCC;BS 2
+2870;Kellner;Kellner BS A
+2870;Ziegaus;Ziegaus BS A/B 10
+2871;Allen;Uncertain type
+2872;OCC;BS 3
+2872;Kellner;Kellner BS B
+2873;OCC;BS 4
+2873;Kellner;Kellner BS C
+2873;Ziegaus;Ziegaus BS C 19
+2873;Nick;Nick BS C 1
+2874;OCC;BS 4
+2874;Kellner;Kellner BS C
+2874;Ziegaus;Ziegaus BS C 17
+2874;Nick;Nick BS C 4
+2875;Allen;Uncertain type
+2876;OCC;BS 2
+2876;Kellner;Kellner BS A
+2876;Ziegaus;Ziegaus BS A/B 10
+2877;Allen;Uncertain type
+2878;Allen;Uncertain type
+2879;OCC;BS 2
+2879;Kellner;Kellner BS A
+2879;Ziegaus;Ziegaus BS A/B 9
+2880;OCC;BS 6
+2880;Kellner;Kellner BS E
+2880;Ziegaus;Ziegaus BS E 28
+2881;OCC;BS 1
+2881;Kellner;Kellner BS Prototype
+2881;Ziegaus;Ziegaus BS Prototype 1
+2882;OCC;BS 2
+2882;Kellner;Kellner BS A
+2882;Ziegaus;Ziegaus BS A/B 7
+2883;OCC;BS 2
+2883;Kellner;Kellner BS A
+2883;Ziegaus;Ziegaus BS A/B 10
+2884;OCC;BS 2
+2884;Kellner;Kellner BS A
+2884;Ziegaus;Ziegaus BS A/B 16
+2885;OCC;BS 2
+2885;Kellner;Kellner BS A
+2885;Ziegaus;Ziegaus BS A/B 16
+2886;OCC;BS 4
+2886;Kellner;Kellner BS C
+2886;Ziegaus;Ziegaus BS C 18
+2887;OCC;BS 4
+2887;Kellner;Kellner BS C
+2887;Ziegaus;Ziegaus BS C 18
+2888;OCC;BS 4
+2888;Kellner;Kellner BS C
+2888;Ziegaus;Ziegaus BS C 17
+2888;Nick;Nick BS C 4
+2889;OCC;BS 4
+2889;Kellner;Kellner BS C
+2889;Ziegaus;Ziegaus BS C 19
+2889;Nick;Nick BS C 1
+2890;OCC;BS 4
+2890;Kellner;Kellner BS C
+2890;Ziegaus;Ziegaus BS C 22
+2890;Nick;Nick BS C 9
+2891;OCC;BS 4
+2891;Kellner;Kellner BS C
+2892;OCC;BS 4
+2892;Kellner;Kellner BS C
+2892;Ziegaus;Ziegaus BS C 19
+2892;Nick;Nick BS C 1
+2893;OCC;BS 4
+2893;Kellner;Kellner BS C
+2893;Ziegaus;Ziegaus BS C 19
+2893;Nick;Nick BS C 1
+2894;OCC;BS 6
+2894;Kellner;Kellner BS E
+2894;Ziegaus;Ziegaus BS E 27
+2895;OCC;BS 4
+2895;Kellner;Kellner BS C
+2895;Ziegaus;Ziegaus BS C 25
+2896;OCC;BS 4
+2896;Kellner;Kellner BS C
+2896;Ziegaus;Ziegaus BS C 22
+2897;OCC;BS 4
+2897;Kellner;Kellner BS C
+2898;OCC;BS 4
+2898;Kellner;Kellner BS C
+2898;Ziegaus;Ziegaus BS C 19
+2898;Nick;Nick BS C 1
+2899;OCC;BS 5
+2900;Allen;Uncertain type
+2901;OCC;BS 4
+2901;Kellner;Kellner BS C
+2901;Ziegaus;Ziegaus BS C 19
+2901;Nick;Nick BS C 1
+2902;OCC;BS 2
+2902;OCC;BS 3
+2902;OCC;BS 4
+2903;OCC;BS 3
+2903;Kellner;Kellner BS B
+2903;Ziegaus;Ziegaus BS A/B 9
+2904;OCC;BS 4
+2904;Kellner;Kellner BS C
+2905;OCC;BS 4
+2905;Kellner;Kellner BS C
+2905;Ziegaus;Ziegaus BS C 18
+2906;OCC;BS 4
+2906;Kellner;Kellner BS C
+2906;Ziegaus;Ziegaus BS C 17
+2906;Nick;Nick BS C 4
+2907;OCC;BS 4
+2907;Kellner;Kellner BS C
+2908;OCC;BS 3
+2908;Kellner;Kellner BS B
+2908;Ziegaus;Ziegaus BS A/B 16
+2909;OCC;BS 4
+2909;Kellner;Kellner BS C
+2909;Ziegaus;Ziegaus BS C 19
+2909;Nick;Nick BS C 1
+2910;OCC;BS 4
+2910;Kellner;Kellner BS C
+2911;OCC;BS 4
+2911;Kellner;Kellner BS C
+2911;Ziegaus;Ziegaus BS C 18
+2912;OCC;BS 4
+2913;OCC;BS 6
+2913;Kellner;Kellner BS E
+2914;OCC;BS 6
+2914;Kellner;Kellner BS E
+2915;OCC;BS 6
+2915;Kellner;Kellner BS E
+2915;Ziegaus;Ziegaus BS E 27
+2916;OCC;BS 4
+2916;Kellner;Kellner BS C
+2917;OCC;BS 4
+2917;Kellner;Kellner BS C
+2917;Ziegaus;Ziegaus BS C 26
+2918;OCC;BS 6
+2918;Kellner;Kellner BS E
+2918;Ziegaus;Ziegaus BS E 28
+2919;OCC;BS 6
+2919;Kellner;Kellner BS E
+2919;Ziegaus;Ziegaus BS E 29
+2920;OCC;BS 4
+2920;Kellner;Kellner BS C
+2920;Ziegaus;Ziegaus BS C 19
+2920;Nick;Nick BS C 1
+2921;OCC;BS 1
+2921;Kellner;Kellner BS Prototype
+2921;Ziegaus;Ziegaus BS A/B 3
+2922;OCC;BS 2
+2922;Kellner;Kellner BS A
+2922;Ziegaus;Ziegaus BS C 19
+2923;OCC;BS 1
+2923;Kellner;Kellner BS Prototype
+2923;Ziegaus;Ziegaus BS Prototype 1
+2924;OCC;BS 4
+2924;Kellner;Kellner BS C
+2924;Ziegaus;Ziegaus BS C 19
+2924;Nick;Nick BS C 1
+2925;OCC;BS 4
+2925;Kellner;Kellner BS C
+2925;Nick;Nick BS C 4
+2925;Ziegaus;Ziegaus BS C 17
+2926;OCC;BS 2
+2926;Kellner;Kellner BS A
+2927;OCC;BS 4
+2927;Kellner;Kellner BS C
+2927;Nick;Nick BS C 9
+2927;Ziegaus;Ziegaus BS C 22
+2928;OCC;BS 2
+2928;Kellner;Kellner BS A
+2929;Allen;Uncertain type
+2930;OCC;BS 2
+2930;Kellner;Kellner BS A
+2930;Ziegaus;Ziegaus BS A/B 10
+2932;OCC;BS 6
+2932;Kellner;Kellner BS E
+2933;OCC;BS 2
+2933;Kellner;Kellner BS A
+2933;Ziegaus;Ziegaus BS A/B 9
+2934;OCC;BS 2
+2934;Kellner;Kellner BS A
+2934;Ziegaus;Ziegaus BS A/B 3
+2935;OCC;BS 2
+2935;Kellner;Kellner BS A
+2936;OCC;BS 4
+2936;Kellner;Kellner BS C
+2936;Ziegaus;Ziegaus BS C 17
+2936;Nick;Nick BS C 4
+2937;OCC;BS 4
+2937;Kellner;Kellner BS C
+2938;Allen;Uncertain type
+2939;OCC;BS 2
+2939;Kellner;Kellner BS A
+2939;Ziegaus;Ziegaus BS A/B 3
+2940;OCC;BS 4
+2940;Kellner;Kellner BS C
+2940;Ziegaus;Ziegaus BS C 20
+2940;Nick;Nick BS C 1
+2941;OCC;BS 2
+2941;Kellner;Kellner BS A
+2941;Ziegaus;Ziegaus BS A/B 7
+2942;OCC;BS 1
+2942;Kellner;Kellner BS Prototype
+2942;Ziegaus;Ziegaus BS Prototype 1
+2943;OCC;BS 4
+2943;Kellner;Kellner BS C
+2943;Ziegaus;Ziegaus BS C 19
+2943;Nick;Nick BS C 1
+2944;OCC;BS 1
+2944;Kellner;Kellner BS Prototype
+2944;Ziegaus;Ziegaus BS Prototype 1
+2945;OCC;BS 2
+2945;Kellner;Kellner BS A
+2945;Ziegaus;Ziegaus BS A/B 3
+2946;OCC;BS 2
+2946;Kellner;Kellner BS A
+2946;Ziegaus;Ziegaus BS A/B 4
+2947;OCC;BS 3
+2947;Kellner;Kellner BS B
+2947;Ziegaus;Ziegaus BS A/B 13
+2948;OCC;BS 2
+2948;Kellner;Kellner BS A
+2948;Ziegaus;Ziegaus BS A/B 10
+2949;OCC;BS 2
+2949;Kellner;Kellner BS A
+2949;Ziegaus;Ziegaus BS A/B 3
+2950;OCC;BS 2
+2950;Kellner;Kellner BS A
+2951;Allen;Uncertain type
+2952;OCC;BS 1
+2952;Kellner;Kellner BS Prototype
+2952;Ziegaus;Ziegaus BS Prototype 1
+2953;OCC;BS 2
+2953;Kellner;Kellner BS A
+2953;Ziegaus;Ziegaus BS A/B 13
+2954;Allen;Uncertain type
+2955;OCC;BS 2
+2955;Kellner;Kellner BS A
+2955;Ziegaus;Ziegaus BS A/B 13
+2956;OCC;BS 6
+2956;Kellner;Kellner BS E
+2957;OCC;BS 4
+2957;Kellner;Kellner BS C
+2957;Ziegaus;Ziegaus BS C 20
+2959;OCC;BS 3
+2959;Kellner;Kellner BS B
+2959;Ziegaus;Ziegaus BS A/B 4
+2964;OCC;BS 6
+2964;Kellner;Kellner BS E
+2964;OCC;BS E 1
+2966;OCC;BS 2
+2966;Kellner;Kellner BS A
+2966;Ziegaus;Ziegaus BS A/B 7
+2967;OCC;BS 2
+2967;Kellner;Kellner BS A
+2968;OCC;BS 2
+2968;Kellner;Kellner BS A
+2968;Ziegaus;Ziegaus BS A/B 3
+2969;OCC;BS 1
+2969;Kellner;Kellner BS Prototype
+2969;Ziegaus;Ziegaus BS Prototype 2
+2971;OCC;BS 1
+2971;Kellner;Kellner BS Prototype
+2971;Ziegaus;Ziegaus BS Prototype 2
+2973;OCC;BS 2
+2973;Kellner;Kellner BS A
+2973;Ziegaus;Ziegaus BS A/B 13
+2975;OCC;BS 2
+2975;Kellner;Kellner BS A
+2977;OCC;BS 2
+2977;Kellner;Kellner BS A
+2977;Ziegaus;Ziegaus BS A/B 4
+2978;OCC;BS 2
+2978;Kellner;Kellner BS A
+2978;Ziegaus;Ziegaus BS A/B 9
+2979;OCC;BS 2
+2979;Kellner;Kellner BS A
+2979;Ziegaus;Ziegaus BS A/B 7
+2980;OCC;BS 2
+2980;Kellner;Kellner BS A
+2980;Ziegaus;Ziegaus BS A/B 7
+2981;OCC;BS 2
+2981;Kellner;Kellner BS A
+2981;Ziegaus;Ziegaus BS A/B 7
+2982;OCC;BS 2
+2982;Kellner;Kellner BS A
+2982;Ziegaus;Ziegaus BS A/B 3
+2983;OCC;BS 2
+2983;Kellner;Kellner BS A
+2983;Ziegaus;Ziegaus BS A/B 3
+2984;OCC;BS 2
+2984;Kellner;Kellner BS A
+2985;OCC;BS 2
+2985;Kellner;Kellner BS A
+2985;Ziegaus;Ziegaus BS A/B 9
+2986;OCC;BS 2
+2986;Kellner;Kellner BS A
+2986;Ziegaus;Ziegaus BS A/B 9
+2987;OCC;BS 2
+2987;Kellner;Kellner BS A
+2987;Ziegaus;Ziegaus BS A/B 9
+2988;OCC;BS 3
+2988;Kellner;Kellner BS B
+2988;Ziegaus;Ziegaus BS A/B 13
+2989;OCC;BS 2
+2989;Kellner;Kellner BS A
+2989;Ziegaus;Ziegaus BS A/B 13
+2990;OCC;BS 2
+2990;Kellner;Kellner BS A
+2991;OCC;BS 2
+2991;Kellner;Kellner BS A
+2991;Ziegaus;Ziegaus BS A/B 16
+2992;OCC;BS 2
+2992;Kellner;Kellner BS A
+2992;Ziegaus;Ziegaus BS A/B 10
+2993;OCC;BS 2
+2993;Kellner;Kellner BS A
+2993;Ziegaus;Ziegaus BS A/B 4
+2994;OCC;BS 2
+2994;Kellner;Kellner BS A
+2995;OCC;BS 2
+2995;Kellner;Kellner BS A
+2995;Ziegaus;Ziegaus BS A/B 10
+2996;OCC;BS 2
+2996;Kellner;Kellner BS A
+2996;Ziegaus;Ziegaus BS A/B 9
+2997;OCC;BS 2
+2997;Kellner;Kellner BS A
+2997;Ziegaus;Ziegaus BS A/B 11
+2998;OCC;BS 2
+2998;Kellner;Kellner BS A
+2998;Ziegaus;Ziegaus BS A/B 11
+2999;OCC;BS 2
+2999;Kellner;Kellner BS A
+3000;OCC;BS 2
+3000;Kellner;Kellner BS A
+3001;OCC;BS 2
+3001;Kellner;Kellner BS A
+3001;Ziegaus;Ziegaus BS A/B 9
+3002;Allen;Uncertain type
+3003;OCC;BS 2
+3003;Kellner;Kellner BS A
+3004;OCC;BS 2
+3004;Kellner;Kellner BS A
+3004;Ziegaus;Ziegaus BS A/B 9
+3005;OCC;BS 2
+3005;Kellner;Kellner BS A
+3005;Ziegaus;Ziegaus BS A/B 9
+3006;OCC;BS 2
+3006;Kellner;Kellner BS A
+3006;Ziegaus;Ziegaus BS A/B 10
+3007;OCC;BS 2
+3007;Kellner;Kellner BS A
+3008;OCC;BS 2
+3008;Kellner;Kellner BS A
+3008;Ziegaus;Ziegaus BS A/B 7
+3009;OCC;BS 2
+3009;Kellner;Kellner BS A
+3010;OCC;BS 2
+3010;Kellner;Kellner BS A
+3010;Ziegaus;Ziegaus BS A/B 9
+3011;OCC;BS 2
+3011;Kellner;Kellner BS A
+3011;Ziegaus;Ziegaus BS A/B 10
+3012;OCC;BS 2
+3012;Kellner;Kellner BS A
+3013;OCC;BS 2
+3013;Kellner;Kellner BS A
+3013;Ziegaus;Ziegaus BS A/B 7
+3014;OCC;BS 2
+3014;Kellner;Kellner BS A
+3015;OCC;BS 2
+3015;Kellner;Kellner BS A
+3015;Ziegaus;Ziegaus BS A/B 7
+3016;OCC;BS 2
+3016;Kellner;Kellner BS A
+3017;OCC;BS 2
+3017;Kellner;Kellner BS A
+3019;OCC;BS 3
+3019;Kellner;Kellner BS B
+3019;Ziegaus;Ziegaus BS A/B 13
+3020;OCC;BS 5
+3020;OCC;BS 9
+3021;OCC;BS 4
+3021;Kellner;Kellner BS C
+3021;Ziegaus;Ziegaus BS C 19
+3021;Nick;Nick BS C 1
+3022;OCC;BS 4
+3022;Kellner;Kellner BS C
+3022;Ziegaus;Ziegaus BS C 17
+3022;Nick;Nick BS C 4
+3024;OCC;BS 4
+3024;Kellner;Kellner BS C
+3024;Ziegaus;Ziegaus BS C 23
+3025;OCC;BS 4
+3025;Kellner;Kellner BS C
+3025;Ziegaus;Ziegaus BS C 18
+3026;OCC;BS 7
+3026;Nick;Nick BS F 1a
+3026;OCC;BS 4
+3026;Kellner;Kellner BS C
+3027;OCC;BS 4
+3027;Kellner;Kellner BS C
+3028;Allen;Uncertain type
+3029;OCC;BS 4
+3029;Kellner;Kellner BS C
+3029;Ziegaus;Ziegaus BS C 19
+3029;Nick;Nick BS C 1
+3030;OCC;BS 4
+3030;Kellner;Kellner BS C
+3030;Ziegaus;Ziegaus BS C 22
+3031;OCC;BS 4
+3031;Kellner;Kellner BS C
+3032;OCC;BS 4
+3032;Kellner;Kellner BS C
+3032;Ziegaus;Ziegaus BS C 24
+3033;OCC;BS 4
+3033;Kellner;Kellner BS C
+3034;OCC;BS 4
+3034;Kellner;Kellner BS C
+3035;OCC;BS 4
+3035;Kellner;Kellner BS C
+3035;Ziegaus;Ziegaus BS C 17
+3035;Nick;Nick BS C 4
+3036;OCC;BS 4
+3036;Kellner;Kellner BS C
+3037;OCC;BS 4
+3037;Kellner;Kellner BS C
+3037;Ziegaus;Ziegaus BS C 17
+3037;Nick;Nick BS C 4
+3038;OCC;BS 4
+3038;Kellner;Kellner BS C
+3038;Ziegaus;Ziegaus BS C 19
+3038;Nick;Nick BS C 1
+3039;OCC;BS 4
+3039;Kellner;Kellner BS C
+3040;OCC;BS 4
+3040;Kellner;Kellner BS C
+3041;OCC;BS 4
+3041;Kellner;Kellner BS C
+3042;OCC;BS 4
+3042;Kellner;Kellner BS C
+3042;Nick;Nick BS C 9
+3042;Ziegaus;Ziegaus BS C 22
+3043;OCC;BS 4
+3043;Kellner;Kellner BS C
+3043;Ziegaus;Ziegaus BS C 17
+3043;Nick;Nick BS C 4
+3044;OCC;BS 6
+3044;Kellner;Kellner BS E
+3044;OCC;BS E 1
+3045;OCC;BS 4
+3045;Kellner;Kellner BS C
+3045;Ziegaus;Ziegaus BS C 23
+3046;OCC;BS 4
+3046;Kellner;Kellner BS C
+3046;Ziegaus;Ziegaus BS C 19
+3046;Nick;Nick BS C 1
+3047;OCC;BS 4
+3047;Kellner;Kellner BS C
+3047;Ziegaus;Ziegaus BS C 17
+3047;Nick;Nick BS C 4
+3048;OCC;BS 4
+3048;Kellner;Kellner BS C
+3048;Ziegaus;Ziegaus BS C 26
+3049;OCC;BS 4
+3049;Kellner;Kellner BS C
+3049;Ziegaus;Ziegaus BS C 22
+3049;Nick;Nick BS C 8
+3050;OCC;BS 4
+3050;Kellner;Kellner BS C
+3050;Ziegaus;Ziegaus BS C 19
+3050;Nick;Nick BS C 1
+3051;OCC;BS 4
+3051;Kellner;Kellner BS C
+3052;OCC;BS 4
+3052;Kellner;Kellner BS C
+3052;Ziegaus;Ziegaus BS C 19
+3052;Nick;Nick BS C 1
+3053;OCC;BS 4
+3053;Kellner;Kellner BS C
+3053;Ziegaus;Ziegaus BS C 17
+3053;Nick;Nick BS C 4
+3054;OCC;BS 4
+3054;Kellner;Kellner BS C
+3054;Nick;Nick BS C 9
+3054;Ziegaus;Ziegaus BS C 22
+3055;OCC;BS 4
+3055;Kellner;Kellner BS C
+3055;Ziegaus;Ziegaus BS C 18
+3056;OCC;BS 4
+3056;Kellner;Kellner BS C
+3056;Ziegaus;Ziegaus BS C 19
+3056;Nick;Nick BS C 1
+3057;OCC;BS 4
+3057;Kellner;Kellner BS C
+3057;Ziegaus;Ziegaus BS C 17
+3057;Nick;Nick BS C 4
+3058;OCC;BS 4
+3058;Kellner;Kellner BS C
+3058;Ziegaus;Ziegaus BS C 19
+3058;Nick;Nick BS C 1
+3059;OCC;BS 4
+3059;Kellner;Kellner BS C
+3060;OCC;BS 4
+3060;Kellner;Kellner BS C
+3060;Ziegaus;Ziegaus BS C 23
+3061;OCC;BS 4
+3061;Kellner;Kellner BS C
+3061;Ziegaus;Ziegaus BS C 23
+3062;OCC;BS 4
+3062;Kellner;Kellner BS C
+3062;Ziegaus;Ziegaus BS C 17
+3062;Nick;Nick BS C 4
+3063;OCC;BS 4
+3063;Kellner;Kellner BS C
+3064;OCC;BS 4
+3064;Kellner;Kellner BS C
+3064;Ziegaus;Ziegaus BS C 18
+3065;OCC;BS 4
+3066;OCC;BS 4
+3066;Kellner;Kellner BS C
+3066;Ziegaus;Ziegaus BS C 20
+3066;Nick;Nick BS C 1
+3067;OCC;BS 4
+3067;Kellner;Kellner BS C
+3068;OCC;BS 4
+3068;Kellner;Kellner BS C
+3068;Ziegaus;Ziegaus BS C 19
+3068;Nick;Nick BS C 1
+3069;OCC;BS 4
+3069;Kellner;Kellner BS C
+3070;OCC;BS 4
+3070;Kellner;Kellner BS C
+3071;OCC;BS 4
+3071;Kellner;Kellner BS C
+3072;OCC;BS 4
+3072;Kellner;Kellner BS C
+3072;Ziegaus;Ziegaus BS C 19
+3072;Nick;Nick BS C 1
+3073;OCC;BS 4
+3073;Kellner;Kellner BS C
+3073;Ziegaus;Ziegaus BS C 19
+3073;Nick;Nick BS C 1
+3074;OCC;BS 4
+3074;Kellner;Kellner BS C
+3075;OCC;BS 4
+3075;Kellner;Kellner BS C
+3076;OCC;BS 4
+3076;Kellner;Kellner BS C
+3076;Ziegaus;Ziegaus BS C 17
+3076;Nick;Nick BS C 4
+3077;OCC;BS 4
+3077;Kellner;Kellner BS C
+3077;Nick;Nick BS C 4
+3077;Ziegaus;Ziegaus BS C 17
+3078;OCC;BS 4
+3078;Kellner;Kellner BS C
+3078;Ziegaus;Ziegaus BS C 17
+3078;Nick;Nick BS C 4
+3079;OCC;BS 4
+3079;Kellner;Kellner BS C
+3079;Ziegaus;Ziegaus BS C 17
+3079;Nick;Nick BS C 4
+3080;OCC;BS 4
+3080;Kellner;Kellner BS C
+3080;Ziegaus;Ziegaus BS C 18
+3081;OCC;BS 4
+3081;Kellner;Kellner BS C
+3081;Ziegaus;Ziegaus BS C 18
+3082;OCC;BS 4
+3082;Kellner;Kellner BS C
+3083;OCC;BS 4
+3083;Kellner;Kellner BS C
+3084;OCC;BS 4
+3084;Kellner;Kellner BS C
+3085;OCC;BS 4
+3085;Kellner;Kellner BS C
+3086;OCC;BS 4
+3086;Kellner;Kellner BS C
+3087;OCC;BS 4
+3087;Kellner;Kellner BS C
+3087;Ziegaus;Ziegaus BS C 19
+3087;Nick;Nick BS C 1
+3088;OCC;BS 4
+3088;Kellner;Kellner BS C
+3088;Ziegaus;Ziegaus BS C 18
+3089;OCC;BS 4
+3089;Kellner;Kellner BS C
+3091;Allen;Uncertain type
+3092;Allen;Uncertain type
+3094;OCC;BS 6
+3094;Kellner;Kellner BS E
+3094;OCC;BS E 1
+3095;OCC;BS 6
+3095;Kellner;Kellner BS E
+3095;OCC;BS E 1
+3096;OCC;BS 6
+3096;Kellner;Kellner BS E
+3097;OCC;BS 6
+3097;Kellner;Kellner BS E
+3097;OCC;BS E 1
+3098;OCC;BS 6
+3098;Kellner;Kellner BS E
+3099;OCC;BS 6
+3099;Kellner;Kellner BS E
+3099;Ziegaus;Ziegaus BS E 28
+3100;OCC;BS 6
+3100;Kellner;Kellner BS E
+3102;OCC;BS 6
+3102;Kellner;Kellner BS E
+3102;OCC;BS E 1
+3103;OCC;BS 6
+3103;Kellner;Kellner BS E
+3103;OCC;BS E 1
+3104;OCC;BS 6
+3104;Kellner;Kellner BS E
+3104;OCC;BS E 1
+3105;OCC;BS 6
+3105;Kellner;Kellner BS E
+3105;OCC;BS E 1
+3106;OCC;BS 5
+3106;Nick;Nick BS D 3
+3107;OCC;BS 5
+3107;Nick;Nick BS D 3
+3108;OCC;BS 5
+3108;Nick;Nick BS D 5
+3109;OCC;BS 9
+3109;Nick;Nick BS H 2
+3110;OCC;BS 5
+3110;Nick;Nick BS D 5
+3111;OCC;BS 5
+3111;Nick;Nick BS D 2
+3112;OCC;BS 5
+3112;Nick;Nick BS D 7
+3113;OCC;BS 4
+3113;Kellner;Kellner BS C
+3114;Allen;Uncertain type
+3115;Allen;Uncertain type
+3116;Allen;Uncertain type
+3117;OCC;BS 6
+3117;Kellner;Kellner BS E
+3118;Allen;Uncertain type
+3119;Allen;Uncertain type
+3120;OCC;BS 4
+3120;Kellner;Kellner BS C
+3121;OCC;BS 6
+3121;Kellner;Kellner BS E
+3122;Allen;Uncertain type
+3123;Allen;Uncertain type
+3124;Allen;Uncertain type
+3125;OCC;BS 4
+3125;Kellner;Kellner BS C
+3126;OCC;BS 5
+3126;Nick;Nick BS D 4
+3127;OCC;BS 4
+3127;Kellner;Kellner BS C
+3127;Ziegaus;Ziegaus BS C 23
+3128;OCC;BS 6
+3128;Kellner;Kellner BS E
+3128;OCC;BS E 1
+3129;OCC;BS 6
+3129;Kellner;Kellner BS E
+3129;OCC;BS E 1
+3130;OCC;BS 6
+3130;Kellner;Kellner BS E
+3130;OCC;BS E 1
+3131;OCC;BS 6
+3131;Kellner;Kellner BS E
+3131;OCC;BS E 1
+3132;OCC;BS 5
+3132;Nick;Nick BS D 2
+3133;OCC;BS 1
+3133;Kellner;Kellner BS Prototype
+3133;Ziegaus;Ziegaus BS Prototype 2
+3134;OCC;BS 2
+3134;Kellner;Kellner BS A
+3134;Ziegaus;Ziegaus BS A/B 4
+3135;Allen;Uncertain type
+3136;OCC;BS 2
+3136;Kellner;Kellner BS A
+3136;Ziegaus;Ziegaus BS A/B 10
+3137;OCC;BS 2
+3137;Kellner;Kellner BS A
+3138;Allen;Uncertain type
+3139;OCC;BS 4
+3139;Kellner;Kellner BS C
+3140;OCC;BS 3
+3140;Kellner;Kellner BS B
+3140;Ziegaus;Ziegaus BS A/B 9
+3141;Allen;Uncertain type
+3142;OCC;BS 4
+3142;Kellner;Kellner BS C
+3142;Ziegaus;Ziegaus BS C 19
+3143;OCC;BS 3
+3143;Kellner;Kellner BS B
+3143;Ziegaus;Ziegaus BS A/B 4
+3144;OCC;BS 4
+3144;Kellner;Kellner BS C
+3145;OCC;BS 4
+3145;Kellner;Kellner BS C
+3145;Ziegaus;Ziegaus BS C 19
+3147;OCC;BS 4
+3147;Kellner;Kellner BS C
+3147;Ziegaus;Ziegaus BS C 19
+3148;OCC;BS 4
+3148;Kellner;Kellner BS C
+3148;Ziegaus;Ziegaus BS C 19
+3149;OCC;BS 4
+3149;Kellner;Kellner BS C
+3150;OCC;BS 6
+3150;Kellner;Kellner BS E
+3150;Ziegaus;Ziegaus BS E 29
+3151;OCC;BS 6
+3151;Kellner;Kellner BS E
+3151;OCC;BS E 1
+3152;Nick;Nick BS C/F
+3153;OCC;BS 4
+3153;Kellner;Kellner BS C
+3153;Nick;Nick BS C 9
+3153;Ziegaus;Ziegaus BS C 22
+3154;OCC;BS 4
+3154;Kellner;Kellner BS C
+3154;Nick;Nick BS C 9
+3154;Ziegaus;Ziegaus BS C 22
+3155;OCC;BS 4
+3155;Kellner;Kellner BS C
+3155;Ziegaus;Ziegaus BS C 25
+3156;OCC;BS 2
+3156;Kellner;Kellner BS A
+3156;Ziegaus;Ziegaus BS A/B 9
+3157;OCC;BS 3
+3157;Kellner;Kellner BS B
+3158;OCC;BS 4
+3158;Kellner;Kellner BS C
+3158;Ziegaus;Ziegaus BS C 19
+3158;Nick;Nick BS C 1
+3159;OCC;BS 6
+3159;Kellner;Kellner BS E
+3159;OCC;BS E 1
+3160;OCC;BS 4
+3160;Kellner;Kellner BS C
+3160;Ziegaus;Ziegaus BS C 17
+3160;Nick;Nick BS C 4
+3161;OCC;BS 5
+3162;OCC;BS 4
+3162;Kellner;Kellner BS C
+3163;OCC;BS 6
+3163;Kellner;Kellner BS E
+3164;OCC;BS 4
+3164;Kellner;Kellner BS C
+3165;OCC;BS 3
+3165;Kellner;Kellner BS B
+3165;Ziegaus;Ziegaus BS A/B 13
+3166;OCC;BS 3
+3166;Kellner;Kellner BS B
+3166;Ziegaus;Ziegaus BS A/B 10
+3167;OCC;BS 4
+3167;Kellner;Kellner BS C
+3168;OCC;BS 4
+3168;Kellner;Kellner BS C
+3168;Ziegaus;Ziegaus BS C 18
+3169;OCC;BS 6
+3169;Kellner;Kellner BS E
+3169;Ziegaus;Ziegaus BS E 28
+3170;OCC;BS 4
+3170;Kellner;Kellner BS C
+3170;Ziegaus;Ziegaus BS C 17
+3170;Nick;Nick BS C 4
+3171;OCC;BS 4
+3171;Kellner;Kellner BS C
+3171;Ziegaus;Ziegaus BS C 19
+3171;Nick;Nick BS C 1
+3172;OCC;BS 6
+3172;Kellner;Kellner BS E
+3173;OCC;BS 4
+3173;Kellner;Kellner BS C
+3174;OCC;BS 4
+3174;Kellner;Kellner BS C
+3175;OCC;BS 4
+3175;Kellner;Kellner BS C
+3176;OCC;BS 4
+3176;Kellner;Kellner BS C
+3177;OCC;BS 4
+3177;Kellner;Kellner BS C
+3178;OCC;BS 4
+3178;Kellner;Kellner BS C
+3179;Allen;Uncertain type
+3180;OCC;BS 4
+3180;Kellner;Kellner BS C
+3180;Ziegaus;Ziegaus BS C 22
+3180;Nick;Nick BS C 9
+3181;OCC;BS 4
+3181;Kellner;Kellner BS C
+3182;OCC;BS 4
+3182;Kellner;Kellner BS C
+3182;Ziegaus;Ziegaus BS C 22
+3182;Nick;Nick BS C 8
+3183;Kellner;Kellner BS E
+3183;OCC;BS 6
+3183;OCC;BS E 1
+3184;OCC;BS 4
+3184;Kellner;Kellner BS C
+3184;Ziegaus;Ziegaus BS C 22
+3184;Nick;Nick BS C 8
+3185;OCC;BS 6
+3185;Kellner;Kellner BS E
+3185;OCC;BS E 1
+3186;OCC;BS 6
+3186;Kellner;Kellner BS E
+3187;OCC;BS 4
+3187;Kellner;Kellner BS C
+3187;Nick;Nick BS C 1
+3187;Ziegaus;Ziegaus BS C 19
+3188;OCC;BS 6
+3188;Kellner;Kellner BS E
+3188;Ziegaus;Ziegaus BS E 29
+3189;Allen;Uncertain type
+3190;OCC;BS 2
+3190;Kellner;Kellner BS A
+3191;OCC;BS 3
+3191;Kellner;Kellner BS B
+3191;Ziegaus;Ziegaus BS A/B 9
+3192;OCC;BS 4
+3192;Kellner;Kellner BS C
+3192;Ziegaus;Ziegaus BS C 17
+3192;Nick;Nick BS C 4
+3193;OCC;BS 3
+3193;Kellner;Kellner BS B
+3194;OCC;BS 2
+3194;Kellner;Kellner BS A
+3195;Allen;Uncertain type
+3196;Allen;Uncertain type
+3202;OCC;BS 6
+3202;Kellner;Kellner BS E
+3207;OCC;BS 4
+3207;Kellner;Kellner BS C
+3207;Ziegaus;Ziegaus BS C 19
+3207;Ziegaus;Ziegaus BS C 20
+3207;Nick;Nick BS C 1
+3208;Allen;Uncertain type
+3210;OCC;BS 4
+3210;Kellner;Kellner BS C
+3211;OCC;BS 4
+3211;Kellner;Kellner BS C
+3212;OCC;BS 4
+3212;Kellner;Kellner BS C
+3213;OCC;BS 7
+3213;Nick;Nick BS F 2a
+3214;OCC;BS 7
+3214;Nick;Nick BS F 2a
+3215;OCC;BS 5
+3216;OCC;BS 5
+3216;Nick;Nick BS D 3
+3217;OCC;BS 7
+3217;Nick;Nick BS F 2a
+3218;OCC;BS 5
+3218;OCC;BS 7
+3219;Allen;Uncertain type
+3220;Allen;Uncertain type
+3221;OCC;BS 5
+3221;Nick;Nick BS D 5
+3222;OCC;BS 4
+3222;Kellner;Kellner BS C
+3223;OCC;BS 4
+3223;Kellner;Kellner BS C
+3223;Nick;Nick BS C 1
+3223;Ziegaus;Ziegaus BS C 19
+3223;Ziegaus;Ziegaus BS C 20
+3224;OCC;BS 4
+3224;Kellner;Kellner BS C
+3224;Nick;Nick BS C 1
+3224;Ziegaus;Ziegaus BS C 19
+3224;Ziegaus;Ziegaus BS C 20
+3225;OCC;BS 5
+3225;Nick;Nick BS D 3
+3226;OCC;BS 5
+3226;Nick;Nick BS D 1
+3227;OCC;BS 5
+3227;Nick;Nick BS D 1
+3228;OCC;BS 4
+3228;Kellner;Kellner BS C
+3228;Nick;Nick BS C 8
+3228;Ziegaus;Ziegaus BS C 22
+3229;OCC;BS 4
+3229;Kellner;Kellner BS C
+3230;OCC;BS 4
+3230;Kellner;Kellner BS C
+3230;Nick;Nick BS C 9
+3230;Ziegaus;Ziegaus BS C 22
+3231;OCC;BS 5
+3231;Nick;Nick BS D 7
+3232;OCC;BS 4
+3232;Kellner;Kellner BS C
+3232;Nick;Nick BS C 1
+3232;Ziegaus;Ziegaus BS C 19
+3233;OCC;BS 5
+3233;Nick;Nick BS D 5
+3234;OCC;BS 4
+3234;Kellner;Kellner BS C
+3234;Nick;Nick BS C 9
+3235;OCC;BS 5
+3235;Nick;Nick BS D 3
+3236;OCC;BS 4
+3236;Kellner;Kellner BS C
+3236;Nick;Nick BS C 4
+3236;Ziegaus;Ziegaus BS C 17
+3237;OCC;BS 9
+3237;Nick;Nick BS H 1
+3238;OCC;BS 5
+3238;Nick;Nick BS D 3
+3239;OCC;BS 4
+3239;Kellner;Kellner BS C
+3239;Nick;Nick BS C 4
+3239;Ziegaus;Ziegaus BS C 17
+3240;OCC;BS 4
+3240;Kellner;Kellner BS C
+3240;Nick;Nick BS C 9
+3240;Ziegaus;Ziegaus BS C 22
+3241;OCC;BS 5
+3241;Nick;Nick BS D 1
+3242;OCC;BS 4
+3242;Kellner;Kellner BS C
+3242;Nick;Nick BS C 8
+3243;OCC;BS 5
+3243;Nick;Nick BS D 4
+3244;Nick;Nick BS C/F
+3245;OCC;BS 5
+3245;Nick;Nick BS D 3
+3246;OCC;BS 9
+3246;Nick;Nick BS H 1
+3247;OCC;BS 5
+3247;Nick;Nick BS D 1
+3248;OCC;BS 5
+3248;Nick;Nick BS D 2
+3249;OCC;BS 5
+3249;Nick;Nick BS D 2
+3250;OCC;BS 5
+3250;Nick;Nick BS D 6
+3251;OCC;BS 7
+3251;Nick;Nick BS F 2b
+3252;OCC;BS 7
+3252;Nick;Nick BS F 2a
+3253;OCC;BS 4
+3253;Kellner;Kellner BS C
+3253;Nick;Nick BS C 1
+3253;Ziegaus;Ziegaus BS C 19
+3253;Ziegaus;Ziegaus BS C 20
+3254;OCC;BS 6
+3254;Kellner;Kellner BS E
+3254;OCC;BS E 1
+3255;OCC;BS 5
+3255;Nick;Nick BS D 3
+3256;OCC;BS 4
+3256;Kellner;Kellner BS C
+3256;Nick;Nick BS C 4
+3256;Ziegaus;Ziegaus BS C 17
+3257;OCC;BS 4
+3257;Kellner;Kellner BS C
+3257;OCC;BS 8
+3258;OCC;BS 7
+3258;Nick;Nick BS F 1b
+3259;OCC;BS 4
+3259;Kellner;Kellner BS C
+3260;OCC;BS 4
+3260;Kellner;Kellner BS C
+3260;Nick;Nick BS C 4
+3260;Ziegaus;Ziegaus BS C 17
+3261;Allen;Uncertain type
+3262;OCC;BS 7
+3262;Nick;Nick BS F 1a
+3263;OCC;BS 5
+3263;Nick;Nick BS D 4
+3264;OCC;BS 4
+3264;Kellner;Kellner BS C
+3265;OCC;BS 5
+3265;Nick;Nick BS D 1
+3266;OCC;BS 5
+3266;Nick;Nick BS D 4
+3267;OCC;BS 4
+3267;Kellner;Kellner BS C
+3268;Nick;Nick BS C/F
+3269;OCC;BS 9
+3269;Nick;Nick BS H 1
+3270;OCC;BS 4
+3270;Kellner;Kellner BS C
+3270;Nick;Nick BS C 9
+3270;Ziegaus;Ziegaus BS C 22
+3271;OCC;BS 5
+3271;Nick;Nick BS D 1
+3272;OCC;BS 5
+3272;Nick;Nick BS D 2
+3273;OCC;BS 5
+3273;Nick;Nick BS D 1
+3274;OCC;BS 5
+3274;Nick;Nick BS D 6
+3275;OCC;BS 8
+3275;OCC;BS 9
+3276;OCC;BS 4
+3276;Kellner;Kellner BS C
+3276;Nick;Nick BS C 9
+3276;Ziegaus;Ziegaus BS C 22
+3277;OCC;BS 4
+3277;Kellner;Kellner BS C
+3277;Nick;Nick BS C 9
+3277;Ziegaus;Ziegaus BS C 22
+3278;OCC;BS 5
+3278;Nick;Nick BS D 4
+3279;OCC;BS 4
+3279;Nick;Nick BS C 4
+3280;OCC;BS 4
+3280;Kellner;Kellner BS C
+3281;OCC;BS 7
+3281;Nick;Nick BS F 1a
+3282;OCC;BS 5
+3282;Nick;Nick BS D 1
+3283;OCC;BS 4
+3283;Kellner;Kellner BS C
+3283;Nick;Nick BS C 4
+3283;Ziegaus;Ziegaus BS C 17
+3284;OCC;BS 4
+3284;Kellner;Kellner BS C
+3284;Nick;Nick BS C 9
+3284;Ziegaus;Ziegaus BS C 22
+3285;OCC;BS 4
+3285;Kellner;Kellner BS C
+3285;Ziegaus;Ziegaus BS C 19
+3285;Ziegaus;Ziegaus BS C 20
+3285;Nick;Nick BS C 1
+3286;OCC;BS 4
+3286;Kellner;Kellner BS C
+3286;Nick;Nick BS C 4
+3286;Ziegaus;Ziegaus BS C 17
+3287;OCC;BS 4
+3287;Kellner;Kellner BS C
+3287;Nick;Nick BS C 4
+3287;Ziegaus;Ziegaus BS C 17
+3288;OCC;BS 4
+3288;Kellner;Kellner BS C
+3289;OCC;BS 5
+3289;Nick;Nick BS D 1
+3290;OCC;BS 5
+3291;OCC;BS 5
+3292;OCC;BS 5
+3292;Nick;Nick BS D 1
+3293;OCC;BS 4
+3294;OCC;BS 4
+3295;OCC;BS 5
+3295;Nick;Nick BS D 6
+3296;OCC;BS 7
+3296;Nick;Nick BS F 2a
+3296;Nick;Nick BS F 2b
+3297;OCC;BS 4
+3297;Kellner;Kellner BS C
+3297;Nick;Nick BS C 1
+3297;Ziegaus;Ziegaus BS C 19
+3297;Ziegaus;Ziegaus BS C 20
+3298;OCC;BS 4
+3298;Kellner;Kellner BS C
+3298;Nick;Nick BS C 4
+3298;Ziegaus;Ziegaus BS C 17
+3299;OCC;BS 4
+3299;Kellner;Kellner BS C
+3299;Nick;Nick BS C 4
+3299;Ziegaus;Ziegaus BS C 17
+3300;OCC;BS 5
+3301;OCC;BS 5
+3301;Nick;Nick BS D 1
+3302;OCC;BS 5
+3302;Nick;Nick BS D 1
+3303;OCC;BS 4
+3303;Kellner;Kellner BS C
+3303;Nick;Nick BS C 4
+3303;Ziegaus;Ziegaus BS C 17
+3304;OCC;BS 5
+3304;Nick;Nick BS D 1
+3305;OCC;BS 7
+3305;Nick;Nick BS F 1b
+3306;OCC;BS 5
+3306;Nick;Nick BS D 1
+3307;OCC;BS 4
+3307;Kellner;Kellner BS C
+3307;Nick;Nick BS C 4
+3307;Ziegaus;Ziegaus BS C 17
+3308;OCC;BS 4
+3308;Kellner;Kellner BS C
+3308;Nick;Nick BS C 1
+3308;Ziegaus;Ziegaus BS C 19
+3308;Ziegaus;Ziegaus BS C 20
+3309;OCC;BS 7
+3309;Nick;Nick BS F 2a
+3310;Allen;Uncertain type
+3311;OCC;BS 5
+3311;Nick;Nick BS D 1
+3312;OCC;BS 4
+3312;Kellner;Kellner BS C
+3312;Ziegaus;Ziegaus BS C 21
+3313;OCC;BS 9
+3313;Nick;Nick BS H 1
+3314;OCC;BS 4
+3314;Kellner;Kellner BS C
+3314;Nick;Nick BS C 9
+3314;Ziegaus;Ziegaus BS C 22
+3315;OCC;BS 5
+3315;Nick;Nick BS D 1
+3316;OCC;BS 7
+3316;Nick;Nick BS F 1b
+3317;OCC;BS 4
+3317;Kellner;Kellner BS C
+3317;Nick;Nick BS C 9
+3317;Ziegaus;Ziegaus BS C 22
+3318;OCC;BS 5
+3318;Nick;Nick BS D 1
+3319;OCC;BS 5
+3319;Nick;Nick BS D 1
+3320;OCC;BS 4
+3320;Kellner;Kellner BS C
+3320;Nick;Nick BS C 9
+3320;Ziegaus;Ziegaus BS C 22
+3321;OCC;BS 5
+3321;Nick;Nick BS D 1
+3322;OCC;BS 5
+3322;Nick;Nick BS D 1
+3323;OCC;BS 7
+3323;Nick;Nick BS F 1b
+3324;OCC;BS 4
+3324;Kellner;Kellner BS C
+3324;Nick;Nick BS C 1
+3324;Ziegaus;Ziegaus BS C 19
+3324;Ziegaus;Ziegaus BS C 20
+3325;OCC;BS 4
+3325;Kellner;Kellner BS C
+3325;Ziegaus;Ziegaus BS C 24
+3326;OCC;BS 4
+3326;Kellner;Kellner BS C
+3326;Nick;Nick BS C 4
+3326;Ziegaus;Ziegaus BS C 17
+3326;Nick;Nick BS C 1
+3326;Ziegaus;Ziegaus BS C 19
+3327;OCC;BS 4
+3327;Kellner;Kellner BS C
+3327;Ziegaus;Ziegaus BS C 24
+3328;OCC;BS 4
+3328;Kellner;Kellner BS C
+3328;Nick;Nick BS C 9
+3328;Ziegaus;Ziegaus BS C 22
+3329;OCC;BS 4
+3329;Kellner;Kellner BS C
+3329;Nick;Nick BS C 4
+3329;Ziegaus;Ziegaus BS C 17
+3330;OCC;BS 4
+3330;Kellner;Kellner BS C
+3330;Nick;Nick BS C 4
+3330;Ziegaus;Ziegaus BS C 17
+3331;OCC;BS 4
+3331;Kellner;Kellner BS C
+3332;OCC;BS 4
+3332;Kellner;Kellner BS C
+3332;Nick;Nick BS C 1
+3332;Ziegaus;Ziegaus BS C 19
+3332;Ziegaus;Ziegaus BS C 20
+3333;OCC;BS 4
+3333;Kellner;Kellner BS C
+3334;OCC;BS 4
+3334;Kellner;Kellner BS C
+3334;Nick;Nick BS C 4
+3334;Ziegaus;Ziegaus BS C 17
+3335;OCC;BS 4
+3335;Kellner;Kellner BS C
+3335;Nick;Nick BS C 1
+3335;Ziegaus;Ziegaus BS C 19
+3335;Ziegaus;Ziegaus BS C 20
+3336;OCC;BS 4
+3336;Kellner;Kellner BS C
+3337;OCC;BS 9
+3337;Nick;Nick BS H 1
+3338;OCC;BS 4
+3338;Kellner;Kellner BS C
+3338;Ziegaus;Ziegaus BS C 24
+3339;OCC;BS 4
+3339;Kellner;Kellner BS C
+3339;Nick;Nick BS C 4
+3339;Ziegaus;Ziegaus BS C 17
+3340;OCC;BS 5
+3340;Nick;Nick BS D 1
+3341;OCC;BS 4
+3341;Kellner;Kellner BS C
+3341;Nick;Nick BS C 1
+3341;Ziegaus;Ziegaus BS C 19
+3341;Ziegaus;Ziegaus BS C 20
+3342;OCC;BS 7
+3342;Nick;Nick BS F 1b
+3343;OCC;BS 5
+3343;Nick;Nick BS D 4
+3344;OCC;BS 5
+3344;Nick;Nick BS D 2
+3345;OCC;BS 7
+3345;Nick;Nick BS F 1b
+3346;OCC;BS 5
+3346;Nick;Nick BS D 3
+3347;OCC;BS 5
+3347;Nick;Nick BS D 3
+3348;OCC;BS 7
+3348;Nick;Nick BS F 2a
+3349;OCC;BS 5
+3349;Nick;Nick BS D 3
+3350;OCC;BS 4
+3350;Kellner;Kellner BS C
+3351;OCC;BS 5
+3351;Nick;Nick BS D 1
+3352;OCC;BS 4
+3352;Kellner;Kellner BS C
+3352;Nick;Nick BS C 8
+3352;Ziegaus;Ziegaus BS C 22
+3353;OCC;BS 7
+3353;Nick;Nick BS F 1a
+3354;OCC;BS 5
+3354;Nick;Nick BS D 7
+3355;OCC;BS 4
+3355;Kellner;Kellner BS C
+3355;Nick;Nick BS C 9
+3355;Ziegaus;Ziegaus BS C 22
+3356;OCC;BS 5
+3356;Nick;Nick BS D 3
+3357;OCC;BS 5
+3357;Nick;Nick BS D 1
+3358;OCC;BS 7
+3358;Nick;Nick BS F 2b
+3359;OCC;BS 4
+3359;Kellner;Kellner BS C
+3359;Nick;Nick BS C 4
+3359;Ziegaus;Ziegaus BS C 17
+3360;OCC;BS 3
+3360;Kellner;Kellner BS B
+3360;Ziegaus;Ziegaus BS A/B 9
+3361;OCC;BS 6
+3361;Kellner;Kellner BS E
+3361;OCC;BS E 1
+3363;OCC;BS 6
+3363;Kellner;Kellner BS E
+3363;OCC;BS E 1
+3364;OCC;BS 6
+3364;Kellner;Kellner BS E
+3365;OCC;BS 6
+3365;Kellner;Kellner BS E
+3365;OCC;BS E 1
+3366;Allen;Uncertain type
+3367;OCC;BS 6
+3367;Kellner;Kellner BS E
+3367;OCC;BS E 1
+3368;OCC;BS 4
+3368;Kellner;Kellner BS C
+3368;Ziegaus;Ziegaus BS C 17
+3368;Nick;Nick BS C 4
+3369;OCC;BS 4
+3369;Kellner;Kellner BS C
+3371;OCC;BS 6
+3371;Kellner;Kellner BS E
+3371;OCC;BS E 1
+3372;OCC;BS 6
+3372;Kellner;Kellner BS E
+3372;OCC;BS E 1
+3373;OCC;BS 6
+3373;Kellner;Kellner BS E
+3373;OCC;BS E 1
+3374;OCC;BS 6
+3374;Kellner;Kellner BS E
+3374;OCC;BS E 1
+3375;OCC;BS 6
+3375;Kellner;Kellner BS E
+3375;OCC;BS E 1
+3376;OCC;BS 6
+3376;Kellner;Kellner BS E
+3376;OCC;BS E 1
+3377;OCC;BS 6
+3377;Kellner;Kellner BS E
+3377;OCC;BS E 1
+3378;OCC;BS 6
+3378;Kellner;Kellner BS E
+3378;OCC;BS E 1
+3380;OCC;BS 6
+3380;Kellner;Kellner BS E
+3380;OCC;BS E 1
+3381;OCC;BS 6
+3381;Kellner;Kellner BS E
+3381;OCC;BS E 1
+3382;OCC;BS 6
+3382;Kellner;Kellner BS E
+3382;OCC;BS E 1
+3383;OCC;BS 6
+3383;Kellner;Kellner BS E
+3383;OCC;BS E 1
+3384;OCC;BS 6
+3384;Kellner;Kellner BS E
+3384;OCC;BS E 1
+3385;OCC;BS 6
+3385;Kellner;Kellner BS E
+3386;OCC;BS 6
+3386;Kellner;Kellner BS E
+3386;OCC;BS E 1
+3387;OCC;BS 6
+3387;Kellner;Kellner BS E
+3388;OCC;BS 6
+3388;Kellner;Kellner BS E
+3388;OCC;BS E 1
+3389;OCC;BS 6
+3389;Kellner;Kellner BS E
+3389;OCC;BS E 1
+3390;OCC;BS 6
+3390;Kellner;Kellner BS E
+3391;OCC;BS 6
+3391;Kellner;Kellner BS E
+3391;OCC;BS E 1
+3392;OCC;BS 6
+3392;Kellner;Kellner BS E
+3392;OCC;BS E 1
+3393;OCC;BS 6
+3393;Kellner;Kellner BS E
+3394;OCC;BS 6
+3394;Kellner;Kellner BS E
+3394;OCC;BS E 1
+3395;OCC;BS 6
+3395;Kellner;Kellner BS E
+3395;OCC;BS E 1
+3396;OCC;BS 5
+3396;OCC;BS 9
+3397;OCC;BS 6
+3397;Kellner;Kellner BS E
+3398;OCC;BS 6
+3398;Kellner;Kellner BS E
+3398;OCC;BS E 1
+3399;OCC;BS 6
+3399;Kellner;Kellner BS E
+3399;OCC;BS E 1
+3400;OCC;BS 6
+3400;Kellner;Kellner BS E
+3402;OCC;BS 6
+3402;Kellner;Kellner BS E
+3402;OCC;BS E 1
+3403;OCC;BS 6
+3403;Kellner;Kellner BS E
+3403;OCC;BS E 1
+3404;OCC;BS 6
+3404;Kellner;Kellner BS E
+3404;OCC;BS E 1
+3405;OCC;BS 6
+3405;Kellner;Kellner BS E
+3405;OCC;BS E 1
+3406;OCC;BS 6
+3406;Kellner;Kellner BS E
+3406;OCC;BS E 1
+3407;OCC;BS 6
+3407;Kellner;Kellner BS E
+3407;OCC;BS E 1
+3408;OCC;BS 6
+3408;Kellner;Kellner BS E
+3408;OCC;BS E 1
+3409;OCC;BS 6
+3409;Kellner;Kellner BS E
+3409;OCC;BS E 1
+3410;OCC;BS 6
+3410;Kellner;Kellner BS E
+3410;OCC;BS E 1
+3411;OCC;BS 4
+3411;Kellner;Kellner BS C
+3411;Nick;Nick BS C 4
+3411;Ziegaus;Ziegaus BS C 24
+3412;OCC;BS 6
+3412;Kellner;Kellner BS E
+3412;OCC;BS E 1
+3413;OCC;BS 6
+3413;Kellner;Kellner BS E
+3414;OCC;BS 4
+3414;Kellner;Kellner BS C
+3415;OCC;BS 1
+3415;Kellner;Kellner BS Prototype
+3415;Ziegaus;Ziegaus BS Prototype 1
+3416;OCC;BS 6
+3416;Kellner;Kellner BS E
+3416;OCC;BS E 1
+3417;OCC;BS 6
+3417;Kellner;Kellner BS E
+3417;OCC;BS E 1
+3418;OCC;BS 6
+3418;Kellner;Kellner BS E
+3418;OCC;BS E 1
+3419;OCC;BS 6
+3419;Kellner;Kellner BS E
+3419;OCC;BS E 1
+3420;OCC;BS 2
+3420;Kellner;Kellner BS A
+3420;Ziegaus;Ziegaus BS A/B 7
+3421;OCC;BS 6
+3421;Kellner;Kellner BS E
+3421;OCC;BS E 1
+3422;OCC;BS 2
+3422;Kellner;Kellner BS A
+3422;Ziegaus;Ziegaus BS A/B 5
+3423;OCC;BS 1
+3423;Kellner;Kellner BS Prototype
+3423;Ziegaus;Ziegaus BS Prototype 2
+3424;OCC;BS 3
+3424;Kellner;Kellner BS B
+3424;Ziegaus;Ziegaus BS A/B 9
+3425;OCC;BS 1
+3425;Kellner;Kellner BS Prototype
+3425;Ziegaus;Ziegaus BS Prototype 1
+3426;OCC;BS 6
+3426;Kellner;Kellner BS E
+3426;OCC;BS E 1
+3427;OCC;BS 6
+3427;Kellner;Kellner BS E
+3427;OCC;BS E 1
+3428;OCC;BS 3
+3428;OCC;BS 4
+3428;Kellner;Kellner BS C
+3428;Kellner;Kellner BS B
+3429;OCC;BS 2
+3429;Kellner;Kellner BS A
+3429;Ziegaus;Ziegaus BS A/B 3
+3431;OCC;BS 3
+3431;Kellner;Kellner BS B
+3431;Ziegaus;Ziegaus BS A/B 4
+3432;Allen;Uncertain type
+3433;OCC;BS 6
+3433;Kellner;Kellner BS E
+3433;OCC;BS E 1
+3434;OCC;BS 3
+3434;Kellner;Kellner BS B
+3435;OCC;BS 3
+3435;Kellner;Kellner BS B
+3435;Ziegaus;Ziegaus BS A/B 5
+3435;Ziegaus;Ziegaus BS A/B 13
+3436;OCC;BS 6
+3436;Kellner;Kellner BS E
+3436;OCC;BS E 1
+3437;OCC;BS 6
+3437;Kellner;Kellner BS E
+3437;OCC;BS E 1
+3438;Allen;Uncertain type
+3439;OCC;BS 4
+3439;Kellner;Kellner BS C
+3439;Nick;Nick BS C 1
+3439;Ziegaus;Ziegaus BS C 19
+3439;Ziegaus;Ziegaus BS C 20
+3440;OCC;BS 4
+3440;Kellner;Kellner BS C
+3440;Ziegaus;Ziegaus BS C 17
+3440;Nick;Nick BS C 4
+3441;OCC;BS 4
+3441;Kellner;Kellner BS C
+3441;Ziegaus;Ziegaus BS C 19
+3441;Ziegaus;Ziegaus BS C 20
+3441;Ziegaus;Ziegaus BS C 22
+3442;OCC;BS 4
+3442;Kellner;Kellner BS C
+3442;Nick;Nick BS C 1
+3442;Ziegaus;Ziegaus BS C 19
+3442;Ziegaus;Ziegaus BS C 20
+3443;OCC;BS 2
+3443;Kellner;Kellner BS A
+3443;Ziegaus;Ziegaus BS A/B 5
+3443;Ziegaus;Ziegaus BS A/B 13
+3444;OCC;BS 1
+3444;Kellner;Kellner BS Prototype
+3445;OCC;BS 4
+3445;Kellner;Kellner BS C
+3445;Ziegaus;Ziegaus BS C 23
+3447;OCC;BS 1
+3447;Kellner;Kellner BS Prototype
+3447;Ziegaus;Ziegaus BS Prototype 1
+3447;Ziegaus;Ziegaus BS Prototype 2
+3448;OCC;BS 1
+3448;Kellner;Kellner BS Prototype
+3448;Ziegaus;Ziegaus BS Prototype 1
+3449;OCC;BS 2
+3449;Kellner;Kellner BS A
+3449;Ziegaus;Ziegaus BS A/B 5
+3450;OCC;BS 6
+3450;Kellner;Kellner BS E
+3450;OCC;BS E 1
+3451;OCC;BS 6
+3451;Kellner;Kellner BS E
+3452;OCC;BS 6
+3452;Kellner;Kellner BS E
+3452;OCC;BS E 1
+3453;OCC;BS 6
+3453;Kellner;Kellner BS E
+3453;OCC;BS E 1
+3454;OCC;BS 6
+3454;Kellner;Kellner BS E
+3454;OCC;BS E 1
+3455;OCC;BS 6
+3455;Kellner;Kellner BS E
+3456;OCC;BS 6
+3456;Kellner;Kellner BS E
+3456;OCC;BS E 1
+3457;OCC;BS 6
+3457;Kellner;Kellner BS E
+3457;OCC;BS E 1
+3458;OCC;BS 6
+3458;Kellner;Kellner BS E
+3459;OCC;BS 4
+3459;Kellner;Kellner BS C
+3459;Nick;Nick BS C 4
+3459;Ziegaus;Ziegaus BS C 17
+3460;OCC;BS 6
+3460;Kellner;Kellner BS E
+3461;OCC;BS 2
+3461;Kellner;Kellner BS A
+3461;Ziegaus;Ziegaus BS A/B 7
+3462;OCC;BS 6
+3462;Kellner;Kellner BS E
+3462;OCC;BS E 1
+3463;OCC;BS 6
+3463;Kellner;Kellner BS E
+3463;OCC;BS E 1
+3464;OCC;BS 6
+3464;Kellner;Kellner BS E
+3464;OCC;BS E 1
+3465;OCC;BS 6
+3465;Kellner;Kellner BS E
+3465;OCC;BS E 1
+3466;OCC;BS 4
+3466;Kellner;Kellner BS C
+3466;Ziegaus;Ziegaus BS C 18
+3467;OCC;BS 4
+3467;Kellner;Kellner BS C
+3467;Nick;Nick BS C 1
+3467;Ziegaus;Ziegaus BS C 19
+3467;Ziegaus;Ziegaus BS C 20
+3468;OCC;BS 4
+3468;Kellner;Kellner BS C
+3468;Ziegaus;Ziegaus BS C 18
+3469;OCC;BS 4
+3469;Kellner;Kellner BS C
+3469;Nick;Nick BS C 1
+3469;Ziegaus;Ziegaus BS C 19
+3469;Ziegaus;Ziegaus BS C 20
+3470;OCC;BS 4
+3470;Kellner;Kellner BS C
+3471;OCC;BS 6
+3471;Kellner;Kellner BS E
+3471;OCC;BS E 1
+3472;OCC;BS 6
+3472;Kellner;Kellner BS E
+3472;OCC;BS E 1
+3473;OCC;BS 6
+3473;Kellner;Kellner BS E
+3473;OCC;BS E 1
+3474;OCC;BS 6
+3474;Kellner;Kellner BS E
+3474;OCC;BS E 1
+3476;OCC;BS 6
+3476;Kellner;Kellner BS E
+3476;OCC;BS E 1
+3477;OCC;BS 6
+3477;Kellner;Kellner BS E
+3477;Ziegaus;Ziegaus BS E 27
+3478;Kellner;Kellner BS C
+3478;OCC;BS 4
+3478;Nick;Nick BS C 8
+3478;Ziegaus;Ziegaus BS C 22
+3479;OCC;BS 6
+3479;Kellner;Kellner BS E
+3479;Ziegaus;Ziegaus BS E 27
+3480;OCC;BS 6
+3480;Kellner;Kellner BS E
+3480;Ziegaus;Ziegaus BS E 28
+3481;OCC;BS 6
+3481;Kellner;Kellner BS E
+3481;Ziegaus;Ziegaus BS E 27
+3485;OCC;BS 4
+3485;Kellner;Kellner BS C
+3485;Ziegaus;Ziegaus BS C 18
+3486;OCC;BS 4
+3486;Kellner;Kellner BS C
+3486;Ziegaus;Ziegaus BS C 18
+3487;OCC;BS 4
+3487;Kellner;Kellner BS C
+3487;Ziegaus;Ziegaus BS C 22
+3487;Nick;Nick BS C 8
+3488;OCC;BS 4
+3488;Kellner;Kellner BS C
+3489;OCC;BS 4
+3489;Kellner;Kellner BS C
+3489;Nick;Nick BS C 9
+3489;Ziegaus;Ziegaus BS C 22
+3490;OCC;BS 4
+3490;Kellner;Kellner BS C
+3490;Nick;Nick BS C 8
+3490;Ziegaus;Ziegaus BS C 22
+3491;OCC;BS 4
+3491;Kellner;Kellner BS C
+3492;OCC;BS 4
+3492;Kellner;Kellner BS C
+3493;OCC;BS 4
+3493;Kellner;Kellner BS C
+3493;Ziegaus;Ziegaus BS C 17
+3493;Ziegaus;Ziegaus BS C 18
+3493;Ziegaus;Ziegaus BS C 19
+3494;OCC;BS 4
+3494;Kellner;Kellner BS C
+3494;Ziegaus;Ziegaus BS C 20
+3495;OCC;BS 4
+3495;Kellner;Kellner BS C
+3495;Ziegaus;Ziegaus BS C 19
+3496;OCC;BS 4
+3496;Kellner;Kellner BS C
+3496;Ziegaus;Ziegaus BS C 19
+3497;OCC;BS 4
+3497;Kellner;Kellner BS C
+3497;Ziegaus;Ziegaus BS C 22
+3498;OCC;BS 4
+3498;Kellner;Kellner BS C
+3498;Ziegaus;Ziegaus BS C 23
+3499;OCC;BS 4
+3499;Kellner;Kellner BS C
+3499;Ziegaus;Ziegaus BS C 24
+3500;OCC;BS 4
+3500;Kellner;Kellner BS C
+3500;Ziegaus;Ziegaus BS C 24
+3501;OCC;BS 4
+3501;Kellner;Kellner BS C
+3501;Ziegaus;Ziegaus BS C 24
+3502;OCC;BS 4
+3502;Kellner;Kellner BS C
+3502;Ziegaus;Ziegaus BS C 21
+3502;Ziegaus;Ziegaus BS C 24
+3503;OCC;BS 6
+3503;Kellner;Kellner BS E
+3503;Ziegaus;Ziegaus BS E 28
+3504;OCC;BS 4
+3504;Kellner;Kellner BS C
+3504;Nick;Nick BS C 1
+3504;Ziegaus;Ziegaus BS C 19
+3505;OCC;BS 4
+3505;Kellner;Kellner BS C
+3505;Ziegaus;Ziegaus BS C 19
+3505;Ziegaus;Ziegaus BS C 20
+3505;Nick;Nick BS C 1
+3506;OCC;BS 4
+3506;Kellner;Kellner BS C
+3506;Ziegaus;Ziegaus BS C 19
+3506;Nick;Nick BS C 1
+3507;OCC;BS 4
+3507;Kellner;Kellner BS C
+3507;Ziegaus;Ziegaus BS C 19
+3507;Nick;Nick BS C 1
+3508;OCC;BS 4
+3508;Kellner;Kellner BS C
+3508;Ziegaus;Ziegaus BS C 19
+3508;Ziegaus;Ziegaus BS C 20
+3508;Nick;Nick BS C 1
+3509;OCC;BS 4
+3509;Kellner;Kellner BS C
+3509;Ziegaus;Ziegaus BS C 19
+3509;Ziegaus;Ziegaus BS C 20
+3509;Nick;Nick BS C 1
+3510;OCC;BS 4
+3510;Kellner;Kellner BS C
+3510;Ziegaus;Ziegaus BS C 19
+3510;Ziegaus;Ziegaus BS C 20
+3510;Nick;Nick BS C 1
+3511;OCC;BS 4
+3511;Kellner;Kellner BS C
+3511;Ziegaus;Ziegaus BS C 19
+3511;Nick;Nick BS C 1
+3512;OCC;BS 4
+3512;Kellner;Kellner BS C
+3512;Nick;Nick BS C 1
+3512;Ziegaus;Ziegaus BS C 19
+3512;Ziegaus;Ziegaus BS C 20
+3513;OCC;BS 4
+3513;Kellner;Kellner BS C
+3513;Nick;Nick BS C 1
+3513;Ziegaus;Ziegaus BS C 19
+3514;OCC;BS 4
+3514;Kellner;Kellner BS C
+3514;Ziegaus;Ziegaus BS C 19
+3514;Ziegaus;Ziegaus BS C 20
+3515;OCC;BS 4
+3515;Kellner;Kellner BS C
+3515;Nick;Nick BS C 1
+3515;Ziegaus;Ziegaus BS C 19
+3515;Ziegaus;Ziegaus BS C 20
+3516;OCC;BS 4
+3516;Kellner;Kellner BS C
+3516;Nick;Nick BS C 4
+3516;Ziegaus;Ziegaus BS C 17
+3517;OCC;BS 4
+3517;Kellner;Kellner BS C
+3517;Nick;Nick BS C 1
+3517;Ziegaus;Ziegaus BS C 19
+3517;Ziegaus;Ziegaus BS C 20
+3518;OCC;BS 4
+3518;Kellner;Kellner BS C
+3519;OCC;BS 4
+3519;Kellner;Kellner BS C
+3519;Nick;Nick BS C 4
+3519;Ziegaus;Ziegaus BS C 17
+3520;OCC;BS 4
+3520;Kellner;Kellner BS C
+3521;OCC;BS 4
+3521;Kellner;Kellner BS C
+3522;OCC;BS 4
+3522;Kellner;Kellner BS C
+3523;OCC;BS 4
+3523;Kellner;Kellner BS C
+3523;Nick;Nick BS C 1
+3523;Ziegaus;Ziegaus BS C 18
+3524;OCC;BS 4
+3524;Kellner;Kellner BS C
+3524;Nick;Nick BS C 1
+3524;Nick;Nick BS C 4
+3524;Ziegaus;Ziegaus BS C 17
+3524;Ziegaus;Ziegaus BS C 19
+3525;OCC;BS 4
+3525;Kellner;Kellner BS C
+3526;OCC;BS 4
+3526;Kellner;Kellner BS C
+3527;OCC;BS 4
+3527;Kellner;Kellner BS C
+3527;Nick;Nick BS C 1
+3527;Nick;Nick BS C 4
+3527;Ziegaus;Ziegaus BS C 17
+3527;Ziegaus;Ziegaus BS C 19
+3528;OCC;BS 4
+3528;Kellner;Kellner BS C
+3529;OCC;BS 4
+3529;Kellner;Kellner BS C
+3530;OCC;BS 4
+3530;Kellner;Kellner BS C
+3531;OCC;BS 4
+3531;Kellner;Kellner BS C
+3532;OCC;BS 4
+3532;Kellner;Kellner BS C
+3532;Nick;Nick BS C 4
+3532;Ziegaus;Ziegaus BS C 17
+3533;OCC;BS 4
+3533;Kellner;Kellner BS C
+3534;OCC;BS 4
+3534;Kellner;Kellner BS C
+3535;OCC;BS 4
+3535;Kellner;Kellner BS C
+3535;Ziegaus;Ziegaus BS C 18
+3536;OCC;BS 4
+3536;Kellner;Kellner BS C
+3537;OCC;BS 4
+3537;Kellner;Kellner BS C
+3538;OCC;BS 4
+3538;Kellner;Kellner BS C
+3539;OCC;BS 4
+3539;Kellner;Kellner BS C
+3540;OCC;BS 4
+3540;Kellner;Kellner BS C
+3541;OCC;BS 4
+3541;Kellner;Kellner BS C
+3541;Ziegaus;Ziegaus BS C 17
+3541;Nick;Nick BS C 4
+3542;OCC;BS 4
+3542;Kellner;Kellner BS C
+3543;OCC;BS 4
+3543;Kellner;Kellner BS C
+3544;OCC;BS 4
+3544;Kellner;Kellner BS C
+3544;Ziegaus;Ziegaus BS C 17
+3544;Nick;Nick BS C 4
+3545;OCC;BS 4
+3545;Kellner;Kellner BS C
+3545;Nick;Nick BS C 1
+3545;Ziegaus;Ziegaus BS C 19
+3545;Ziegaus;Ziegaus BS C 20
+3546;OCC;BS 4
+3546;Kellner;Kellner BS C
+3546;Ziegaus;Ziegaus BS C 23
+3547;OCC;BS 4
+3547;Kellner;Kellner BS C
+3547;Nick;Nick BS C 4
+3547;Ziegaus;Ziegaus BS C 17
+3548;OCC;BS 4
+3548;Kellner;Kellner BS C
+3548;Ziegaus;Ziegaus BS C 17
+3548;Nick;Nick BS C 4
+3549;OCC;BS 4
+3549;Kellner;Kellner BS C
+3549;Nick;Nick BS C 4
+3549;Ziegaus;Ziegaus BS C 17
+3550;OCC;BS 4
+3550;Kellner;Kellner BS C
+3550;Nick;Nick BS C 4
+3550;Ziegaus;Ziegaus BS C 17
+3551;OCC;BS 6
+3551;Kellner;Kellner BS E
+3551;OCC;BS E 1
+3552;OCC;BS 6
+3552;Kellner;Kellner BS E
+3552;OCC;BS E 1
+3553;OCC;BS 6
+3553;Kellner;Kellner BS E
+3553;OCC;BS E 1
+3554;OCC;BS 6
+3554;Kellner;Kellner BS E
+3555;OCC;BS 6
+3555;Kellner;Kellner BS E
+3555;Ziegaus;Ziegaus BS E 27
+3556;OCC;BS 6
+3556;Kellner;Kellner BS E
+3556;Ziegaus;Ziegaus BS E 27
+3557;OCC;BS 6
+3557;Kellner;Kellner BS E
+3558;OCC;BS 6
+3558;Kellner;Kellner BS E
+3558;Ziegaus;Ziegaus BS E 27
+3559;OCC;BS 6
+3559;Kellner;Kellner BS E
+3559;Ziegaus;Ziegaus BS E 27
+3560;OCC;BS 6
+3560;Kellner;Kellner BS E
+3560;Ziegaus;Ziegaus BS C 17
+3561;OCC;BS 6
+3561;Kellner;Kellner BS E
+3561;Ziegaus;Ziegaus BS E 28
+3562;OCC;BS 6
+3562;Kellner;Kellner BS E
+3563;OCC;BS 6
+3563;Kellner;Kellner BS E
+3564;OCC;BS 6
+3564;Kellner;Kellner BS E
+3565;OCC;BS 6
+3565;Kellner;Kellner BS E
+3565;Ziegaus;Ziegaus BS E 29
+3566;OCC;BS 6
+3566;Kellner;Kellner BS E
+3566;Ziegaus;Ziegaus BS E 29
+3567;OCC;BS 6
+3567;Kellner;Kellner BS E
+3567;Ziegaus;Ziegaus BS E 29
+3568;OCC;BS 6
+3568;Kellner;Kellner BS E
+3568;Ziegaus;Ziegaus BS E 29
+3569;OCC;BS 6
+3569;OCC;BS 3
+3570;OCC;BS 6
+3570;Kellner;Kellner BS E
+3570;Ziegaus;Ziegaus BS E 28
+3571;OCC;BS 6
+3571;Kellner;Kellner BS E
+3571;Ziegaus;Ziegaus BS E 27
+3572;OCC;BS 6
+3572;Kellner;Kellner BS E
+3573;OCC;BS 6
+3573;OCC;BS 3
+3574;OCC;BS 4
+3574;Kellner;Kellner BS C
+3575;OCC;BS 4
+3575;Kellner;Kellner BS C
+3576;OCC;BS 6
+3576;Kellner;Kellner BS E
+3577;OCC;BS 6
+3577;Kellner;Kellner BS E
+3578;OCC;BS 6
+3578;Kellner;Kellner BS E
+3578;Ziegaus;Ziegaus BS E 27
+3579;OCC;BS 2
+3579;Kellner;Kellner BS A
+3580;OCC;BS 2
+3580;Kellner;Kellner BS A
+3580;Ziegaus;Ziegaus BS C 23
+3581;OCC;BS 4
+3581;Kellner;Kellner BS C
+3581;Ziegaus;Ziegaus BS C 23
+3582;OCC;BS 3
+3582;Kellner;Kellner BS B
+3582;Ziegaus;Ziegaus BS A/B 11
+3583;OCC;BS 2
+3583;Kellner;Kellner BS A
+3583;Ziegaus;Ziegaus BS A/B 4
+3584;OCC;BS 2
+3584;Kellner;Kellner BS A
+3584;Ziegaus;Ziegaus BS A/B 10
+3585;OCC;BS 3
+3585;Kellner;Kellner BS B
+3585;Ziegaus;Ziegaus BS A/B 4
+3586;OCC;BS 3
+3586;Kellner;Kellner BS B
+3586;Ziegaus;Ziegaus BS A/B 10
+3587;OCC;BS 2
+3587;Kellner;Kellner BS A
+3587;Ziegaus;Ziegaus BS A/B 5
+3588;OCC;BS 3
+3588;Kellner;Kellner BS B
+3589;OCC;BS 2
+3589;Kellner;Kellner BS A
+3589;Ziegaus;Ziegaus BS A/B 4
+3590;OCC;BS 2
+3590;Kellner;Kellner BS A
+3591;OCC;BS 2
+3591;Kellner;Kellner BS A
+3592;OCC;BS 2
+3592;Kellner;Kellner BS A
+3592;Ziegaus;Ziegaus BS A/B 10
+3593;OCC;BS 2
+3593;Kellner;Kellner BS A
+3593;Ziegaus;Ziegaus BS A/B 10
+3594;OCC;BS 4
+3594;Kellner;Kellner BS C
+3594;Nick;Nick BS C 4
+3594;Ziegaus;Ziegaus BS C 17
+3594;Ziegaus;Ziegaus BS A/B 10
+3595;OCC;BS 2
+3595;Kellner;Kellner BS A
+3595;Ziegaus;Ziegaus BS A/B 9
+3595;Ziegaus;Ziegaus BS A/B 10
+3596;OCC;BS 2
+3596;Kellner;Kellner BS A
+3596;Ziegaus;Ziegaus BS A/B 4
+3597;OCC;BS 2
+3597;Kellner;Kellner BS A
+3597;Ziegaus;Ziegaus BS A/B 4
+3597;Ziegaus;Ziegaus BS A/B 9
+3598;OCC;BS 2
+3598;Kellner;Kellner BS A
+3598;Ziegaus;Ziegaus BS A/B 7
+3599;OCC;BS 2
+3599;Kellner;Kellner BS A
+3599;Ziegaus;Ziegaus BS A/B 7
+3600;OCC;BS 2
+3600;Kellner;Kellner BS A
+3601;OCC;BS 2
+3601;Kellner;Kellner BS A
+3601;Ziegaus;Ziegaus BS A/B 7
+3602;OCC;BS 3
+3602;Kellner;Kellner BS B
+3602;Ziegaus;Ziegaus BS A/B 10
+3603;OCC;BS 2
+3603;Kellner;Kellner BS A
+3603;Ziegaus;Ziegaus BS A/B 5
+3604;OCC;BS 2
+3604;Kellner;Kellner BS A
+3604;Ziegaus;Ziegaus BS A/B 9
+3605;OCC;BS 2
+3605;Kellner;Kellner BS A
+3605;Ziegaus;Ziegaus BS A/B 4
+3606;OCC;BS 3
+3606;Kellner;Kellner BS B
+3606;Ziegaus;Ziegaus BS A/B 9
+3607;OCC;BS 3
+3607;Kellner;Kellner BS B
+3607;Ziegaus;Ziegaus BS A/B 10
+3608;OCC;BS 3
+3608;Kellner;Kellner BS B
+3608;Ziegaus;Ziegaus BS A/B 10
+3609;OCC;BS 2
+3609;Kellner;Kellner BS A
+3609;Ziegaus;Ziegaus BS A/B 9
+3609;Ziegaus;Ziegaus BS A/B 4
+3610;OCC;BS 2
+3610;Kellner;Kellner BS A
+3610;Ziegaus;Ziegaus BS A/B 7
+3611;OCC;BS 2
+3611;Kellner;Kellner BS A
+3611;Ziegaus;Ziegaus BS A/B 9
+3612;OCC;BS 2
+3612;Kellner;Kellner BS A
+3612;Ziegaus;Ziegaus BS A/B 4
+3613;OCC;BS 2
+3613;Kellner;Kellner BS A
+3614;OCC;BS 2
+3614;Kellner;Kellner BS A
+3614;Ziegaus;Ziegaus BS A/B 10
+3615;OCC;BS 3
+3615;Kellner;Kellner BS B
+3615;Ziegaus;Ziegaus BS A/B 10
+3616;OCC;BS 2
+3616;Kellner;Kellner BS A
+3616;Ziegaus;Ziegaus BS A/B 10
+3617;OCC;BS 2
+3617;Kellner;Kellner BS A
+3617;Ziegaus;Ziegaus BS A/B 10
+3618;OCC;BS 2
+3618;Kellner;Kellner BS A
+3619;OCC;BS 3
+3619;OCC;BS 4
+3620;OCC;BS 2
+3620;Kellner;Kellner BS A
+3620;Ziegaus;Ziegaus BS A/B 11
+3621;OCC;BS 2
+3621;Kellner;Kellner BS A
+3621;Ziegaus;Ziegaus BS A/B 9
+3622;OCC;BS 2
+3622;Kellner;Kellner BS A
+3622;Ziegaus;Ziegaus BS A/B 4
+3623;OCC;BS 2
+3623;Kellner;Kellner BS A
+3623;Ziegaus;Ziegaus BS A/B 10
+3624;OCC;BS 2
+3624;Kellner;Kellner BS A
+3624;Ziegaus;Ziegaus BS A/B 8
+3625;OCC;BS 4
+3625;Kellner;Kellner BS C
+3625;Ziegaus;Ziegaus BS C 23
+3626;OCC;BS 2
+3626;Kellner;Kellner BS A
+3626;Ziegaus;Ziegaus BS A/B 7
+3627;OCC;BS 2
+3627;Kellner;Kellner BS A
+3628;OCC;BS 2
+3628;Kellner;Kellner BS A
+3629;OCC;BS 2
+3629;Kellner;Kellner BS A
+3630;OCC;BS 2
+3630;Kellner;Kellner BS A
+3631;OCC;BS 2
+3631;Kellner;Kellner BS A
+3632;OCC;BS 2
+3632;Kellner;Kellner BS A
+3633;OCC;BS 2
+3633;Kellner;Kellner BS A
+3634;OCC;BS 2
+3634;Kellner;Kellner BS A
+3635;OCC;BS 2
+3635;Kellner;Kellner BS A
+3636;OCC;BS 2
+3636;Kellner;Kellner BS A
+3637;OCC;BS 2
+3637;Kellner;Kellner BS A
+3638;OCC;BS 2
+3638;Kellner;Kellner BS A
+3639;OCC;BS 2
+3639;Kellner;Kellner BS A
+3639;Ziegaus;Ziegaus BS A/B 9
+3640;OCC;BS 2
+3640;Kellner;Kellner BS A
+3641;OCC;BS 2
+3641;Kellner;Kellner BS A
+3642;OCC;BS 2
+3642;Kellner;Kellner BS A
+3643;OCC;BS 2
+3643;Kellner;Kellner BS A
+3644;OCC;BS 2
+3644;Kellner;Kellner BS A
+3644;Ziegaus;Ziegaus BS A/B 4
+3644;Ziegaus;Ziegaus BS A/B 5
+3644;Ziegaus;Ziegaus BS A/B 6
+3645;OCC;BS 2
+3645;Kellner;Kellner BS A
+3646;OCC;BS 2
+3646;Kellner;Kellner BS A
+3647;OCC;BS 2
+3647;Kellner;Kellner BS A
+3648;OCC;BS 2
+3648;Kellner;Kellner BS A
+3649;OCC;BS 2
+3649;Kellner;Kellner BS A
+3650;OCC;BS 2
+3650;Kellner;Kellner BS A
+3651;OCC;BS 2
+3651;Kellner;Kellner BS A
+3651;Ziegaus;Ziegaus BS A/B 4
+3651;Ziegaus;Ziegaus BS A/B 9
+3652;OCC;BS 2
+3652;Kellner;Kellner BS A
+3653;OCC;BS 2
+3653;Kellner;Kellner BS A
+3654;OCC;BS 2
+3654;Kellner;Kellner BS A
+3654;Ziegaus;Ziegaus BS A/B 4
+3655;OCC;BS 2
+3655;Kellner;Kellner BS A
+3655;Ziegaus;Ziegaus BS A/B 4
+3656;OCC;BS 2
+3656;Kellner;Kellner BS A
+3656;Ziegaus;Ziegaus BS A/B 4
+3657;OCC;BS 2
+3657;Kellner;Kellner BS A
+3657;Ziegaus;Ziegaus BS A/B 4
+3658;OCC;BS 2
+3658;Kellner;Kellner BS A
+3658;Ziegaus;Ziegaus BS A/B 4
+3659;OCC;BS 2
+3659;Kellner;Kellner BS A
+3659;Ziegaus;Ziegaus BS A/B 4
+3660;OCC;BS 2
+3660;Kellner;Kellner BS A
+3660;Ziegaus;Ziegaus BS A/B 4
+3661;OCC;BS 2
+3661;Kellner;Kellner BS A
+3661;Ziegaus;Ziegaus BS A/B 4
+3662;OCC;BS 2
+3662;Kellner;Kellner BS A
+3662;Ziegaus;Ziegaus BS A/B 4
+3663;OCC;BS 2
+3663;Kellner;Kellner BS A
+3663;Ziegaus;Ziegaus BS A/B 4
+3663;Ziegaus;Ziegaus BS A/B 9
+3664;OCC;BS 2
+3664;Kellner;Kellner BS A
+3664;Ziegaus;Ziegaus BS A/B 4
+3664;Ziegaus;Ziegaus BS A/B 9
+3665;OCC;BS 2
+3665;Kellner;Kellner BS A
+3665;Ziegaus;Ziegaus BS A/B 4
+3666;OCC;BS 2
+3666;Kellner;Kellner BS A
+3666;Ziegaus;Ziegaus BS A/B 4
+3666;Ziegaus;Ziegaus BS A/B 9
+3667;OCC;BS 2
+3667;Kellner;Kellner BS A
+3667;Ziegaus;Ziegaus BS A/B 4
+3667;Ziegaus;Ziegaus BS A/B 9
+3668;OCC;BS 2
+3668;Kellner;Kellner BS A
+3668;Ziegaus;Ziegaus BS A/B 4
+3668;Ziegaus;Ziegaus BS A/B 9
+3669;OCC;BS 2
+3669;Kellner;Kellner BS A
+3670;OCC;BS 2
+3670;Kellner;Kellner BS A
+3670;Ziegaus;Ziegaus BS A/B 4
+3671;OCC;BS 2
+3671;Kellner;Kellner BS B
+3672;OCC;BS 2
+3672;Kellner;Kellner BS A
+3672;Ziegaus;Ziegaus BS A/B 4
+3673;OCC;BS 2
+3673;Kellner;Kellner BS A
+3673;Ziegaus;Ziegaus BS A/B 4
+3673;Ziegaus;Ziegaus BS A/B 9
+3674;OCC;BS 2
+3674;Kellner;Kellner BS A
+3674;Ziegaus;Ziegaus BS A/B 4
+3675;OCC;BS 2
+3675;Kellner;Kellner BS A
+3675;Ziegaus;Ziegaus BS A/B 4
+3676;OCC;BS 2
+3676;Kellner;Kellner BS A
+3676;Ziegaus;Ziegaus BS A/B 4
+3677;OCC;BS 2
+3677;Kellner;Kellner BS A
+3677;Ziegaus;Ziegaus BS A/B 4
+3677;Ziegaus;Ziegaus BS A/B 9
+3678;OCC;BS 2
+3678;Kellner;Kellner BS A
+3678;Ziegaus;Ziegaus BS A/B 4
+3679;OCC;BS 2
+3679;Kellner;Kellner BS A
+3680;OCC;BS 2
+3680;Kellner;Kellner BS A
+3680;Ziegaus;Ziegaus BS A/B 4
+3681;OCC;BS 2
+3681;Kellner;Kellner BS A
+3681;Ziegaus;Ziegaus BS A/B 4
+3681;Ziegaus;Ziegaus BS A/B 9
+3682;OCC;BS 2
+3682;OCC;BS 3
+3682;Kellner;Kellner BS A
+3682;Kellner;Kellner BS B
+3682;Ziegaus;Ziegaus BS A/B 4
+3682;Ziegaus;Ziegaus BS A/B 9
+3683;OCC;BS 2
+3683;Kellner;Kellner BS A
+3683;Ziegaus;Ziegaus BS A/B 4
+3683;Ziegaus;Ziegaus BS A/B 9
+3684;OCC;BS 2
+3684;Kellner;Kellner BS A
+3684;Ziegaus;Ziegaus BS A/B 4
+3684;Ziegaus;Ziegaus BS A/B 9
+3685;OCC;BS 2
+3685;Kellner;Kellner BS A
+3685;Ziegaus;Ziegaus BS A/B 4
+3685;Ziegaus;Ziegaus BS A/B 9
+3686;OCC;BS 3
+3686;Kellner;Kellner BS B
+3686;Ziegaus;Ziegaus BS A/B 4
+3686;Ziegaus;Ziegaus BS A/B 9
+3687;OCC;BS 2
+3687;Kellner;Kellner BS A
+3687;Ziegaus;Ziegaus BS A/B 4
+3688;OCC;BS 2
+3688;Kellner;Kellner BS A
+3688;Ziegaus;Ziegaus BS A/B 4
+3688;Ziegaus;Ziegaus BS A/B 9
+3689;OCC;BS 2
+3689;Kellner;Kellner BS A
+3689;Ziegaus;Ziegaus BS A/B 4
+3689;Ziegaus;Ziegaus BS A/B 9
+3690;OCC;BS 2
+3690;Kellner;Kellner BS A
+3690;Ziegaus;Ziegaus BS A/B 9
+3691;OCC;BS 2
+3691;Kellner;Kellner BS A
+3691;Ziegaus;Ziegaus BS A/B 4
+3691;Ziegaus;Ziegaus BS A/B 9
+3692;OCC;BS 2
+3692;Kellner;Kellner BS A
+3692;Ziegaus;Ziegaus BS A/B 4
+3692;Ziegaus;Ziegaus BS A/B 9
+3693;OCC;BS 2
+3693;Kellner;Kellner BS A
+3693;Ziegaus;Ziegaus BS A/B 4
+3693;Ziegaus;Ziegaus BS A/B 9
+3694;OCC;BS 2
+3694;Kellner;Kellner BS A
+3694;Ziegaus;Ziegaus BS A/B 4
+3694;Ziegaus;Ziegaus BS A/B 9
+3695;OCC;BS 2
+3695;Kellner;Kellner BS A
+3695;Ziegaus;Ziegaus BS A/B 4
+3695;Ziegaus;Ziegaus BS A/B 9
+3696;OCC;BS 2
+3696;Kellner;Kellner BS A
+3696;Ziegaus;Ziegaus BS A/B 4
+3696;Ziegaus;Ziegaus BS A/B 9
+3697;OCC;BS 2
+3697;Kellner;Kellner BS A
+3697;Ziegaus;Ziegaus BS A/B 4
+3697;Ziegaus;Ziegaus BS A/B 9
+3698;OCC;BS 2
+3698;Kellner;Kellner BS A
+3698;Ziegaus;Ziegaus BS A/B 4
+3699;OCC;BS 2
+3699;Kellner;Kellner BS A
+3699;Ziegaus;Ziegaus BS A/B 4
+3699;Ziegaus;Ziegaus BS A/B 9
+3700;OCC;BS 2
+3700;Kellner;Kellner BS A
+3700;Ziegaus;Ziegaus BS A/B 4
+3700;Ziegaus;Ziegaus BS A/B 9
+3701;OCC;BS 2
+3701;Kellner;Kellner BS A
+3701;Ziegaus;Ziegaus BS A/B 4
+3701;Ziegaus;Ziegaus BS A/B 9
+3702;OCC;BS 2
+3702;Kellner;Kellner BS A
+3702;Ziegaus;Ziegaus BS A/B 4
+3702;Ziegaus;Ziegaus BS A/B 9
+3703;OCC;BS 2
+3703;Kellner;Kellner BS A
+3703;Ziegaus;Ziegaus BS A/B 4
+3704;OCC;BS 2
+3704;Kellner;Kellner BS A
+3704;Ziegaus;Ziegaus BS A/B 4
+3704;Ziegaus;Ziegaus BS A/B 9
+3705;OCC;BS 2
+3705;Kellner;Kellner BS A
+3705;Ziegaus;Ziegaus BS A/B 4
+3705;Ziegaus;Ziegaus BS A/B 9
+3706;OCC;BS 2
+3706;Kellner;Kellner BS A
+3706;Ziegaus;Ziegaus BS A/B 4
+3707;OCC;BS 2
+3707;Kellner;Kellner BS A
+3707;Ziegaus;Ziegaus BS A/B 4
+3707;Ziegaus;Ziegaus BS A/B 9
+3708;OCC;BS 2
+3708;Kellner;Kellner BS A
+3708;Ziegaus;Ziegaus BS A/B 4
+3709;OCC;BS 2
+3709;Kellner;Kellner BS A
+3709;Ziegaus;Ziegaus BS A/B 4
+3710;OCC;BS 2
+3710;Kellner;Kellner BS A
+3710;Ziegaus;Ziegaus BS A/B 4
+3711;OCC;BS 2
+3711;Kellner;Kellner BS A
+3711;Ziegaus;Ziegaus BS A/B 4
+3712;OCC;BS 2
+3712;Kellner;Kellner BS A
+3712;Ziegaus;Ziegaus BS A/B 4
+3712;Ziegaus;Ziegaus BS A/B 9
+3713;OCC;BS 2
+3713;Kellner;Kellner BS A
+3714;OCC;BS 2
+3714;Kellner;Kellner BS A
+3715;OCC;BS 2
+3715;Kellner;Kellner BS A
+3716;OCC;BS 2
+3716;Kellner;Kellner BS A
+3716;Ziegaus;Ziegaus BS A/B 4
+3717;OCC;BS 2
+3717;Kellner;Kellner BS A
+3717;Ziegaus;Ziegaus BS A/B 4
+3718;OCC;BS 2
+3718;Kellner;Kellner BS A
+3719;OCC;BS 2
+3719;Kellner;Kellner BS A
+3720;OCC;BS 2
+3720;Kellner;Kellner BS A
+3720;Ziegaus;Ziegaus BS A/B 4
+3721;OCC;BS 2
+3721;Kellner;Kellner BS A
+3721;Ziegaus;Ziegaus BS A/B 4
+3722;OCC;BS 2
+3722;Kellner;Kellner BS A
+3722;Ziegaus;Ziegaus BS A/B 4
+3722;Ziegaus;Ziegaus BS A/B 9
+3723;OCC;BS 2
+3723;Kellner;Kellner BS A
+3723;Ziegaus;Ziegaus BS A/B 4
+3724;OCC;BS 2
+3724;Kellner;Kellner BS A
+3724;Ziegaus;Ziegaus BS A/B 9
+3725;OCC;BS 2
+3725;Kellner;Kellner BS A
+3725;Ziegaus;Ziegaus BS A/B 4
+3725;Ziegaus;Ziegaus BS A/B 9
+3726;OCC;BS 2
+3726;Kellner;Kellner BS A
+3726;Ziegaus;Ziegaus BS A/B 4
+3726;Ziegaus;Ziegaus BS A/B 9
+3727;OCC;BS 2
+3727;Kellner;Kellner BS A
+3727;Ziegaus;Ziegaus BS A/B 4
+3727;Ziegaus;Ziegaus BS A/B 9
+3728;OCC;BS 2
+3728;Kellner;Kellner BS A
+3728;Ziegaus;Ziegaus BS A/B 4
+3728;Ziegaus;Ziegaus BS A/B 9
+3729;OCC;BS 2
+3729;Kellner;Kellner BS A
+3729;Ziegaus;Ziegaus BS A/B 4
+3729;Ziegaus;Ziegaus BS A/B 9
+3730;OCC;BS 2
+3730;Kellner;Kellner BS A
+3730;Ziegaus;Ziegaus BS A/B 4
+3730;Ziegaus;Ziegaus BS A/B 9
+3731;OCC;BS 2
+3731;Kellner;Kellner BS A
+3731;Ziegaus;Ziegaus BS A/B 4
+3731;Ziegaus;Ziegaus BS A/B 9
+3732;OCC;BS 2
+3732;Kellner;Kellner BS A
+3732;Ziegaus;Ziegaus BS A/B 4
+3732;Ziegaus;Ziegaus BS A/B 9
+3733;OCC;BS 2
+3733;Kellner;Kellner BS A
+3733;Ziegaus;Ziegaus BS A/B 4
+3733;Ziegaus;Ziegaus BS A/B 9
+3734;OCC;BS 2
+3734;Kellner;Kellner BS A
+3734;Ziegaus;Ziegaus BS A/B 4
+3734;Ziegaus;Ziegaus BS A/B 9
+3735;OCC;BS 2
+3735;Kellner;Kellner BS A
+3735;Ziegaus;Ziegaus BS A/B 4
+3735;Ziegaus;Ziegaus BS A/B 9
+3736;OCC;BS 2
+3736;Kellner;Kellner BS A
+3736;Ziegaus;Ziegaus BS A/B 4
+3736;Ziegaus;Ziegaus BS A/B 9
+3737;OCC;BS 2
+3737;Kellner;Kellner BS A
+3737;Ziegaus;Ziegaus BS A/B 4
+3737;Ziegaus;Ziegaus BS A/B 9
+3738;OCC;BS 2
+3738;Kellner;Kellner BS A
+3738;Ziegaus;Ziegaus BS A/B 4
+3738;Ziegaus;Ziegaus BS A/B 9
+3739;OCC;BS 2
+3739;Kellner;Kellner BS A
+3739;Ziegaus;Ziegaus BS A/B 4
+3739;Ziegaus;Ziegaus BS A/B 9
+3740;OCC;BS 2
+3740;Kellner;Kellner BS A
+3740;Ziegaus;Ziegaus BS A/B 4
+3740;Ziegaus;Ziegaus BS A/B 9
+3741;OCC;BS 2
+3741;Kellner;Kellner BS A
+3741;Ziegaus;Ziegaus BS A/B 4
+3741;Ziegaus;Ziegaus BS A/B 9
+3742;OCC;BS 2
+3742;Kellner;Kellner BS A
+3742;Ziegaus;Ziegaus BS A/B 4
+3742;Ziegaus;Ziegaus BS A/B 9
+3743;OCC;BS 2
+3743;Kellner;Kellner BS A
+3743;Ziegaus;Ziegaus BS A/B 10
+3744;OCC;BS 2
+3744;Kellner;Kellner BS A
+3744;Ziegaus;Ziegaus BS A/B 10
+3745;OCC;BS 2
+3745;Kellner;Kellner BS A
+3745;Ziegaus;Ziegaus BS A/B 4
+3745;Ziegaus;Ziegaus BS A/B 9
+3746;OCC;BS 2
+3746;Kellner;Kellner BS A
+3746;Ziegaus;Ziegaus BS A/B 10
+3747;OCC;BS 2
+3747;Kellner;Kellner BS A
+3747;Ziegaus;Ziegaus BS A/B 10
+3748;OCC;BS 2
+3748;Kellner;Kellner BS A
+3748;Ziegaus;Ziegaus BS A/B 10
+3749;OCC;BS 2
+3749;Kellner;Kellner BS A
+3749;Ziegaus;Ziegaus BS A/B 10
+3750;OCC;BS 2
+3750;Kellner;Kellner BS A
+3751;OCC;BS 2
+3751;Kellner;Kellner BS A
+3751;Ziegaus;Ziegaus BS A/B 10
+3752;OCC;BS 2
+3752;Kellner;Kellner BS A
+3752;Ziegaus;Ziegaus BS A/B 10
+3753;OCC;BS 2
+3753;Kellner;Kellner BS A
+3753;OCC;BS 3
+3753;Kellner;Kellner BS B
+3754;OCC;BS 2
+3754;OCC;BS 3
+3754;Kellner;Kellner BS B
+3754;Kellner;Kellner BS A
+3754;Ziegaus;Ziegaus BS A/B 10
+3755;OCC;BS 2
+3755;Kellner;Kellner BS A
+3755;Ziegaus;Ziegaus BS A/B 10
+3756;OCC;BS 2
+3756;Kellner;Kellner BS A
+3756;Ziegaus;Ziegaus BS A/B 10
+3757;OCC;BS 2
+3757;Kellner;Kellner BS A
+3757;Ziegaus;Ziegaus BS A/B 10
+3758;OCC;BS 2
+3758;Kellner;Kellner BS A
+3758;Ziegaus;Ziegaus BS A/B 10
+3759;OCC;BS 2
+3759;Kellner;Kellner BS A
+3759;Ziegaus;Ziegaus BS A/B 4
+3759;Ziegaus;Ziegaus BS A/B 9
+3760;OCC;BS 2
+3760;Kellner;Kellner BS A
+3760;Ziegaus;Ziegaus BS A/B 4
+3760;Ziegaus;Ziegaus BS A/B 9
+3761;OCC;BS 2
+3761;Kellner;Kellner BS A
+3761;Ziegaus;Ziegaus BS A/B 4
+3762;OCC;BS 2
+3762;Kellner;Kellner BS A
+3762;Ziegaus;Ziegaus BS A/B 4
+3763;OCC;BS 2
+3763;Kellner;Kellner BS A
+3763;Ziegaus;Ziegaus BS A/B 4
+3763;Ziegaus;Ziegaus BS A/B 9
+3764;OCC;BS 2
+3764;Kellner;Kellner BS A
+3764;Ziegaus;Ziegaus BS A/B 10
+3765;OCC;BS 3
+3765;Kellner;Kellner BS B
+3765;Ziegaus;Ziegaus BS A/B 10
+3766;OCC;BS 2
+3766;Kellner;Kellner BS A
+3766;Ziegaus;Ziegaus BS A/B 10
+3767;OCC;BS 3
+3767;Kellner;Kellner BS B
+3767;Ziegaus;Ziegaus BS A/B 10
+3768;OCC;BS 3
+3768;Kellner;Kellner BS B
+3768;Ziegaus;Ziegaus BS A/B 10
+3769;OCC;BS 2
+3769;Kellner;Kellner BS A
+3769;Ziegaus;Ziegaus BS A/B 10
+3770;OCC;BS 2
+3770;Kellner;Kellner BS A
+3770;Ziegaus;Ziegaus BS A/B 10
+3771;OCC;BS 2
+3771;Kellner;Kellner BS A
+3771;Ziegaus;Ziegaus BS A/B 10
+3772;OCC;BS 2
+3772;Kellner;Kellner BS A
+3772;Ziegaus;Ziegaus BS A/B 10
+3773;OCC;BS 2
+3773;Kellner;Kellner BS A
+3774;OCC;BS 2
+3774;Kellner;Kellner BS A
+3774;Ziegaus;Ziegaus BS A/B 4
+3774;Ziegaus;Ziegaus BS A/B 9
+3775;OCC;BS 2
+3775;Kellner;Kellner BS A
+3775;Ziegaus;Ziegaus BS A/B 10
+3776;OCC;BS 2
+3776;Kellner;Kellner BS A
+3776;Ziegaus;Ziegaus BS A/B 10
+3777;OCC;BS 2
+3777;Kellner;Kellner BS A
+3778;OCC;BS 2
+3778;Kellner;Kellner BS A
+3778;Ziegaus;Ziegaus BS A/B 10
+3779;OCC;BS 2
+3779;Kellner;Kellner BS A
+3780;OCC;BS 2
+3780;Kellner;Kellner BS A
+3780;Ziegaus;Ziegaus BS A/B 10
+3781;OCC;BS 2
+3781;Kellner;Kellner BS A
+3781;Ziegaus;Ziegaus BS A/B 10
+3782;OCC;BS 2
+3782;Kellner;Kellner BS A
+3782;Ziegaus;Ziegaus BS A/B 10
+3783;OCC;BS 2
+3783;Kellner;Kellner BS A
+3783;Ziegaus;Ziegaus BS A/B 10
+3784;OCC;BS 2
+3784;Kellner;Kellner BS A
+3784;Ziegaus;Ziegaus BS A/B 10
+3785;OCC;BS 2
+3785;Kellner;Kellner BS A
+3785;Ziegaus;Ziegaus BS A/B 10
+3786;OCC;BS 2
+3786;Kellner;Kellner BS A
+3786;Ziegaus;Ziegaus BS A/B 10
+3787;OCC;BS 2
+3787;Kellner;Kellner BS A
+3787;Ziegaus;Ziegaus BS A/B 10
+3788;OCC;BS 2
+3788;Kellner;Kellner BS A
+3788;Ziegaus;Ziegaus BS A/B 10
+3789;OCC;BS 2
+3789;Kellner;Kellner BS A
+3789;Ziegaus;Ziegaus BS A/B 10
+3790;OCC;BS 2
+3790;Kellner;Kellner BS A
+3790;Ziegaus;Ziegaus BS A/B 10
+3791;OCC;BS 2
+3791;Kellner;Kellner BS A
+3791;Ziegaus;Ziegaus BS A/B 10
+3792;OCC;BS 2
+3792;Kellner;Kellner BS A
+3792;Ziegaus;Ziegaus BS A/B 10
+3793;OCC;BS 2
+3793;Kellner;Kellner BS A
+3793;Ziegaus;Ziegaus BS A/B 10
+3794;OCC;BS 2
+3794;OCC;BS 3
+3794;Kellner;Kellner BS A
+3794;Kellner;Kellner BS B
+3794;Ziegaus;Ziegaus BS A/B 10
+3795;OCC;BS 2
+3795;Kellner;Kellner BS A
+3795;Ziegaus;Ziegaus BS A/B 13
+3796;OCC;BS 2
+3796;Kellner;Kellner BS A
+3796;Ziegaus;Ziegaus BS A/B 10
+3797;OCC;BS 2
+3797;Kellner;Kellner BS A
+3797;Ziegaus;Ziegaus BS A/B 10
+3798;OCC;BS 2
+3798;Kellner;Kellner BS A
+3798;Ziegaus;Ziegaus BS A/B 10
+3799;OCC;BS 2
+3799;Kellner;Kellner BS A
+3799;Ziegaus;Ziegaus BS A/B 10
+3800;OCC;BS 2
+3800;Kellner;Kellner BS A
+3800;Ziegaus;Ziegaus BS A/B 10
+3801;OCC;BS 2
+3801;Kellner;Kellner BS A
+3801;Ziegaus;Ziegaus BS A/B 10
+3802;OCC;BS 2
+3802;Kellner;Kellner BS A
+3802;Ziegaus;Ziegaus BS A/B 10
+3803;OCC;BS 2
+3803;Kellner;Kellner BS A
+3804;OCC;BS 2
+3804;Kellner;Kellner BS A
+3804;Ziegaus;Ziegaus BS A/B 10
+3805;OCC;BS 2
+3805;Kellner;Kellner BS A
+3805;Ziegaus;Ziegaus BS A/B 10
+3806;OCC;BS 2
+3806;Kellner;Kellner BS A
+3806;Ziegaus;Ziegaus BS A/B 10
+3807;OCC;BS 2
+3807;Kellner;Kellner BS A
+3808;OCC;BS 2
+3808;Kellner;Kellner BS A
+3808;Ziegaus;Ziegaus BS A/B 10
+3809;OCC;BS 2
+3809;Kellner;Kellner BS A
+3809;Ziegaus;Ziegaus BS A/B 10
+3810;OCC;BS 2
+3810;Kellner;Kellner BS A
+3810;Ziegaus;Ziegaus BS A/B 10
+3811;OCC;BS 2
+3811;Kellner;Kellner BS A
+3811;Ziegaus;Ziegaus BS A/B 10
+3812;OCC;BS 2
+3812;Kellner;Kellner BS A
+3812;Ziegaus;Ziegaus BS A/B 9
+3812;Ziegaus;Ziegaus BS A/B 10
+3813;OCC;BS 2
+3813;Kellner;Kellner BS A
+3813;Ziegaus;Ziegaus BS A/B 10
+3814;OCC;BS 2
+3814;Kellner;Kellner BS A
+3814;Ziegaus;Ziegaus BS A/B 10
+3815;OCC;BS 2
+3815;Kellner;Kellner BS A
+3815;Ziegaus;Ziegaus BS A/B 10
+3816;OCC;BS 2
+3816;Kellner;Kellner BS A
+3816;Ziegaus;Ziegaus BS A/B 10
+3817;OCC;BS 2
+3817;OCC;BS 3
+3817;Kellner;Kellner BS A
+3817;Kellner;Kellner BS B
+3818;OCC;BS 2
+3818;Kellner;Kellner BS A
+3818;Ziegaus;Ziegaus BS A/B 10
+3819;OCC;BS 2
+3819;Kellner;Kellner BS A
+3819;Ziegaus;Ziegaus BS A/B 10
+3820;OCC;BS 2
+3820;Kellner;Kellner BS A
+3820;Ziegaus;Ziegaus BS A/B 10
+3821;OCC;BS 2
+3821;Kellner;Kellner BS A
+3821;Ziegaus;Ziegaus BS A/B 10
+3822;OCC;BS 2
+3822;Kellner;Kellner BS A
+3822;Ziegaus;Ziegaus BS A/B 10
+3823;OCC;BS 2
+3823;Kellner;Kellner BS A
+3823;Ziegaus;Ziegaus BS A/B 10
+3824;OCC;BS 2
+3824;Kellner;Kellner BS A
+3824;Ziegaus;Ziegaus BS A/B 10
+3825;OCC;BS 2
+3825;Kellner;Kellner BS A
+3825;Ziegaus;Ziegaus BS A/B 10
+3826;OCC;BS 2
+3826;Kellner;Kellner BS A
+3826;Ziegaus;Ziegaus BS A/B 10
+3827;OCC;BS 2
+3827;Kellner;Kellner BS A
+3827;Ziegaus;Ziegaus BS A/B 10
+3828;OCC;BS 2
+3828;Kellner;Kellner BS A
+3829;OCC;BS 2
+3829;Kellner;Kellner BS A
+3829;Ziegaus;Ziegaus BS A/B 10
+3830;OCC;BS 2
+3830;Kellner;Kellner BS A
+3830;Ziegaus;Ziegaus BS A/B 10
+3831;OCC;BS 2
+3831;OCC;BS 3
+3831;Kellner;Kellner BS A
+3831;Kellner;Kellner BS B
+3831;Ziegaus;Ziegaus BS A/B 7
+3831;Ziegaus;Ziegaus BS A/B 8
+3832;OCC;BS 2
+3832;Kellner;Kellner BS A
+3832;Ziegaus;Ziegaus BS A/B 8
+3833;OCC;BS 2
+3833;Kellner;Kellner BS A
+3833;Ziegaus;Ziegaus BS A/B 8
+3834;OCC;BS 2
+3834;Kellner;Kellner BS A
+3834;Ziegaus;Ziegaus BS A/B 8
+3835;OCC;BS 2
+3835;Kellner;Kellner BS A
+3835;Ziegaus;Ziegaus BS A/B 5
+3836;OCC;BS 2
+3836;Kellner;Kellner BS A
+3836;Ziegaus;Ziegaus BS A/B 5
+3837;OCC;BS 2
+3837;Kellner;Kellner BS A
+3837;Ziegaus;Ziegaus BS A/B 5
+3838;OCC;BS 2
+3838;Kellner;Kellner BS A
+3838;Ziegaus;Ziegaus BS A/B 5
+3839;OCC;BS 2
+3839;Kellner;Kellner BS A
+3839;Ziegaus;Ziegaus BS A/B 5
+3839;Ziegaus;Ziegaus BS A/B 13
+3840;OCC;BS 2
+3840;Kellner;Kellner BS A
+3840;Ziegaus;Ziegaus BS A/B 5
+3841;OCC;BS 2
+3841;Kellner;Kellner BS A
+3841;Ziegaus;Ziegaus BS A/B 5
+3841;Ziegaus;Ziegaus BS A/B 13
+3842;OCC;BS 2
+3842;Kellner;Kellner BS A
+3842;Ziegaus;Ziegaus BS A/B 5
+3842;Ziegaus;Ziegaus BS A/B 13
+3843;OCC;BS 2
+3843;Kellner;Kellner BS A
+3843;Ziegaus;Ziegaus BS A/B 5
+3843;Ziegaus;Ziegaus BS A/B 13
+3844;OCC;BS 2
+3844;Kellner;Kellner BS A
+3844;Ziegaus;Ziegaus BS A/B 5
+3844;Ziegaus;Ziegaus BS A/B 13
+3845;OCC;BS 2
+3845;Kellner;Kellner BS A
+3845;Ziegaus;Ziegaus BS A/B 5
+3846;OCC;BS 2
+3846;Kellner;Kellner BS A
+3846;Ziegaus;Ziegaus BS A/B 4
+3846;Ziegaus;Ziegaus BS A/B 5
+3847;OCC;BS 2
+3847;Kellner;Kellner BS A
+3847;Ziegaus;Ziegaus BS A/B 5
+3847;Ziegaus;Ziegaus BS A/B 13
+3848;OCC;BS 2
+3848;Kellner;Kellner BS A
+3848;Ziegaus;Ziegaus BS A/B 5
+3848;Ziegaus;Ziegaus BS A/B 13
+3849;OCC;BS 2
+3849;Kellner;Kellner BS A
+3849;Ziegaus;Ziegaus BS A/B 5
+3850;OCC;BS 2
+3850;Kellner;Kellner BS A
+3850;Ziegaus;Ziegaus BS A/B 5
+3850;Ziegaus;Ziegaus BS A/B 13
+3851;OCC;BS 2
+3851;Kellner;Kellner BS A
+3851;Ziegaus;Ziegaus BS A/B 5
+3851;Ziegaus;Ziegaus BS A/B 13
+3852;OCC;BS 2
+3852;Kellner;Kellner BS A
+3852;Ziegaus;Ziegaus BS A/B 5
+3852;Ziegaus;Ziegaus BS A/B 13
+3853;OCC;BS 2
+3853;Kellner;Kellner BS A
+3853;Ziegaus;Ziegaus BS A/B 7
+3854;OCC;BS 2
+3854;Kellner;Kellner BS A
+3854;Ziegaus;Ziegaus BS A/B 7
+3855;OCC;BS 2
+3855;Kellner;Kellner BS A
+3855;Ziegaus;Ziegaus BS A/B 7
+3856;OCC;BS 2
+3856;Kellner;Kellner BS A
+3856;Ziegaus;Ziegaus BS A/B 7
+3857;OCC;BS 2
+3857;Kellner;Kellner BS A
+3857;Ziegaus;Ziegaus BS A/B 7
+3858;OCC;BS 2
+3858;Kellner;Kellner BS A
+3858;Ziegaus;Ziegaus BS A/B 7
+3859;OCC;BS 2
+3859;Kellner;Kellner BS A
+3859;Ziegaus;Ziegaus BS A/B 7
+3860;OCC;BS 2
+3860;Kellner;Kellner BS A
+3860;Ziegaus;Ziegaus BS A/B 7
+3861;OCC;BS 2
+3861;Kellner;Kellner BS A
+3861;Ziegaus;Ziegaus BS A/B 7
+3862;OCC;BS 2
+3862;Kellner;Kellner BS A
+3862;Ziegaus;Ziegaus BS A/B 7
+3863;OCC;BS 2
+3863;Kellner;Kellner BS A
+3863;Ziegaus;Ziegaus BS A/B 7
+3864;OCC;BS 2
+3864;Kellner;Kellner BS A
+3864;Ziegaus;Ziegaus BS A/B 7
+3865;OCC;BS 2
+3865;Kellner;Kellner BS A
+3865;Ziegaus;Ziegaus BS A/B 7
+3866;OCC;BS 2
+3866;Kellner;Kellner BS A
+3866;Ziegaus;Ziegaus BS A/B 11
+3866;Ziegaus;Ziegaus BS A/B 10
+3867;OCC;BS 2
+3867;Kellner;Kellner BS A
+3867;Ziegaus;Ziegaus BS A/B 11
+3868;OCC;BS 2
+3868;Kellner;Kellner BS A
+3868;Ziegaus;Ziegaus BS A/B 11
+3869;OCC;BS 2
+3869;Kellner;Kellner BS A
+3869;Ziegaus;Ziegaus BS A/B 11
+3870;OCC;BS 2
+3870;Kellner;Kellner BS A
+3871;OCC;BS 2
+3871;Kellner;Kellner BS A
+3872;OCC;BS 2
+3872;Kellner;Kellner BS A
+3873;OCC;BS 2
+3873;Kellner;Kellner BS A
+3874;OCC;BS 2
+3874;Kellner;Kellner BS A
+3875;OCC;BS 2
+3875;Kellner;Kellner BS A
+3875;Ziegaus;Ziegaus BS A/B 6
+3876;OCC;BS 2
+3876;Kellner;Kellner BS A
+3876;Ziegaus;Ziegaus BS A/B 4
+3877;OCC;BS 2
+3877;Kellner;Kellner BS A
+3877;Ziegaus;Ziegaus BS A/B 9
+3877;Ziegaus;Ziegaus BS A/B 4
+3878;OCC;BS 3
+3878;Kellner;Kellner BS B
+3879;OCC;BS 2
+3879;Kellner;Kellner BS A
+3879;OCC;BS 3
+3879;Kellner;Kellner BS B
+3880;OCC;BS 4
+3880;Kellner;Kellner BS C
+3880;Ziegaus;Ziegaus BS C 23
+3881;OCC;BS 4
+3881;Kellner;Kellner BS C
+3881;Ziegaus;Ziegaus BS C 23
+3882;OCC;BS 4
+3882;Kellner;Kellner BS C
+3882;Ziegaus;Ziegaus BS C 23
+3883;OCC;BS 4
+3883;Kellner;Kellner BS C
+3884;OCC;BS 4
+3884;Kellner;Kellner BS C
+3885;OCC;BS 4
+3885;Kellner;Kellner BS C
+3886;OCC;BS 4
+3886;Kellner;Kellner BS C
+3886;Ziegaus;Ziegaus BS C 23
+3887;OCC;BS 4
+3887;Kellner;Kellner BS C
+3888;OCC;BS 4
+3888;Kellner;Kellner BS C
+3889;OCC;BS 4
+3889;Kellner;Kellner BS C
+3889;Ziegaus;Ziegaus BS C 23
+3890;OCC;BS 4
+3890;Kellner;Kellner BS C
+3890;Ziegaus;Ziegaus BS C 23
+3891;OCC;BS 4
+3891;Kellner;Kellner BS C
+3891;Ziegaus;Ziegaus BS C 23
+3892;OCC;BS 4
+3892;Kellner;Kellner BS C
+3892;Ziegaus;Ziegaus BS C 23
+3893;OCC;BS 4
+3893;Kellner;Kellner BS C
+3893;Ziegaus;Ziegaus BS C 23
+3894;OCC;BS 4
+3894;Kellner;Kellner BS C
+3894;Ziegaus;Ziegaus BS C 23
+3895;OCC;BS 4
+3895;Kellner;Kellner BS C
+3895;Ziegaus;Ziegaus BS C 23
+3896;OCC;BS 4
+3896;Kellner;Kellner BS C
+3897;OCC;BS 4
+3897;Kellner;Kellner BS C
+3897;Ziegaus;Ziegaus BS C 23
+3898;OCC;BS 4
+3898;Kellner;Kellner BS C
+3898;Ziegaus;Ziegaus BS C 23
+3899;OCC;BS 4
+3899;Kellner;Kellner BS C
+3899;Ziegaus;Ziegaus BS C 23
+3900;OCC;BS 4
+3900;Kellner;Kellner BS C
+3900;Ziegaus;Ziegaus BS C 23
+3901;OCC;BS 4
+3901;Kellner;Kellner BS C
+3901;Ziegaus;Ziegaus BS C 23
+3902;OCC;BS 4
+3902;Kellner;Kellner BS C
+3902;Ziegaus;Ziegaus BS C 23
+3903;OCC;BS 4
+3903;Kellner;Kellner BS C
+3903;Ziegaus;Ziegaus BS C 23
+3904;OCC;BS 4
+3904;Kellner;Kellner BS C
+3904;Ziegaus;Ziegaus BS C 23
+3905;OCC;BS 4
+3905;Kellner;Kellner BS C
+3905;Ziegaus;Ziegaus BS C 23
+3906;OCC;BS 4
+3906;Kellner;Kellner BS C
+3906;Ziegaus;Ziegaus BS C 23
+3907;OCC;BS 4
+3907;Kellner;Kellner BS C
+3907;Ziegaus;Ziegaus BS C 23
+3908;OCC;BS 4
+3908;Kellner;Kellner BS C
+3908;Ziegaus;Ziegaus BS C 23
+3909;OCC;BS 4
+3909;Kellner;Kellner BS C
+3910;OCC;BS 4
+3910;Kellner;Kellner BS C
+3910;Ziegaus;Ziegaus BS C 23
+3911;OCC;BS 4
+3911;Kellner;Kellner BS C
+3912;OCC;BS 4
+3912;Kellner;Kellner BS C
+3912;Ziegaus;Ziegaus BS C 25
+3913;OCC;BS 4
+3913;Kellner;Kellner BS C
+3913;Ziegaus;Ziegaus BS C 25
+3914;OCC;BS 4
+3914;Kellner;Kellner BS C
+3914;Ziegaus;Ziegaus BS C 23
+3915;OCC;BS 4
+3915;Kellner;Kellner BS C
+3915;Ziegaus;Ziegaus BS C 23
+3916;OCC;BS 4
+3916;Kellner;Kellner BS C
+3916;Ziegaus;Ziegaus BS C 23
+3917;OCC;BS 4
+3917;Kellner;Kellner BS C
+3918;OCC;BS 4
+3918;Kellner;Kellner BS C
+3919;OCC;BS 4
+3919;Kellner;Kellner BS C
+3920;OCC;BS 4
+3920;Kellner;Kellner BS C
+3921;OCC;BS 4
+3921;Kellner;Kellner BS C
+3921;Ziegaus;Ziegaus BS C 23
+3922;OCC;BS 4
+3922;Kellner;Kellner BS C
+3923;OCC;BS 4
+3923;Kellner;Kellner BS C
+3923;Ziegaus;Ziegaus BS C 23
+3924;OCC;BS 4
+3924;Kellner;Kellner BS C
+3925;OCC;BS 4
+3925;Kellner;Kellner BS C
+3925;Ziegaus;Ziegaus BS C 23
+3926;OCC;BS 4
+3926;Kellner;Kellner BS C
+3926;Ziegaus;Ziegaus BS C 23
+3927;OCC;BS 4
+3927;Kellner;Kellner BS C
+3928;OCC;BS 4
+3928;Kellner;Kellner BS C
+3929;OCC;BS 7
+3929;Nick;Nick BS F 1a
+3929;Nick;Nick BS F 1b
+3930;OCC;BS 9
+3930;Nick;Nick BS H 1
+3930;Nick;Nick BS H 5
+3931;OCC;BS 4
+3931;Kellner;Kellner BS C
+3931;Nick;Nick BS C 9
+3931;Ziegaus;Ziegaus BS C 22
+3932;OCC;BS 7
+3932;Nick;Nick BS F 1b
+3933;OCC;BS 4
+3933;Kellner;Kellner BS C
+3933;Nick;Nick BS C 1
+3933;Ziegaus;Ziegaus BS C 19
+3933;Ziegaus;Ziegaus BS C 20
+3934;OCC;BS 4
+3934;Kellner;Kellner BS C
+3935;OCC;BS 5
+3935;OCC;BS 8
+3935;OCC;BS 9
+3936;OCC;BS 7
+3936;Nick;Nick BS F 2b
+3937;OCC;BS 7
+3937;Nick;Nick BS F 2a
+3937;Nick;Nick BS F 2b
+3938;OCC;BS 7
+3938;Nick;Nick BS F 1b
+3939;OCC;BS 4
+3939;Kellner;Kellner BS C
+3939;Ziegaus;Ziegaus BS C 17
+3939;Nick;Nick BS C 4
+3940;OCC;BS 7
+3940;Nick;Nick BS F 2a
+3941;OCC;BS 7
+3941;Nick;Nick BS F 1a
+3941;Nick;Nick BS F 1b
+3942;OCC;BS 4
+3942;Nick;Nick BS C 1
+3942;Kellner;Kellner BS C
+3942;Ziegaus;Ziegaus BS C 19
+3942;Ziegaus;Ziegaus BS C 20
+3943;OCC;BS 7
+3943;Nick;Nick BS F 1b
+3944;OCC;BS 9
+3944;Nick;Nick BS H 3
+3945;OCC;BS 5
+3945;OCC;BS 8
+3945;OCC;BS 9
+3946;OCC;BS 4
+3946;Kellner;Kellner BS C
+3947;OCC;BS 7
+3947;Nick;Nick BS F 1a
+3947;Nick;Nick BS F 1b
+3948;OCC;BS 4
+3948;Kellner;Kellner BS C
+3949;OCC;BS 4
+3949;Kellner;Kellner BS C
+3949;Nick;Nick BS C 4
+3949;Ziegaus;Ziegaus BS C 17
+3950;OCC;BS 5
+3950;Nick;Nick BS D 3
+3951;OCC;BS 4
+3951;Kellner;Kellner BS C
+3952;OCC;BS 4
+3952;Kellner;Kellner BS C
+3952;Nick;Nick BS C 4
+3952;Ziegaus;Ziegaus BS C 17
+3953;OCC;BS 4
+3953;Kellner;Kellner BS C
+3954;OCC;BS 7
+3954;Nick;Nick BS F 1b
+3955;OCC;BS 9
+3955;Nick;Nick BS H 3
+3956;OCC;BS 4
+3956;Kellner;Kellner BS C
+3957;OCC;BS 9
+3957;Nick;Nick BS H 3
+3958;OCC;BS 4
+3958;Kellner;Kellner BS C
+3958;Nick;Nick BS C 1
+3958;Ziegaus;Ziegaus BS C 19
+3958;Ziegaus;Ziegaus BS C 20
+3959;OCC;BS 9
+3959;Nick;Nick BS H 5
+3960;OCC;BS 9
+3960;Nick;Nick BS H 5
+3961;OCC;BS 4
+3961;Kellner;Kellner BS C
+3961;Ziegaus;Ziegaus BS C 17
+3961;Nick;Nick BS C 4
+3962;OCC;BS 8
+3963;OCC;BS 4
+3963;Kellner;Kellner BS C
+3964;OCC;BS 9
+3964;Nick;Nick BS H 5
+3965;OCC;BS 7
+3965;Nick;Nick BS F 2a
+3966;OCC;BS 4
+3966;Kellner;Kellner BS C
+3966;Ziegaus;Ziegaus BS C 17
+3966;Nick;Nick BS C 4
+3967;OCC;BS 4
+3967;Kellner;Kellner BS C
+3968;Allen;Uncertain type
+3969;Allen;Uncertain type
+3970;OCC;BS 4
+3970;Kellner;Kellner BS C
+3971;OCC;BS 7
+3971;Nick;Nick BS F 2a
+3972;OCC;BS 7
+3972;Nick;Nick BS F 1a
+3973;OCC;BS 7
+3973;Nick;Nick BS F 1a
+3974;OCC;BS 7
+3974;Nick;Nick BS F 2a
+3975;OCC;BS 4
+3975;Kellner;Kellner BS C
+3976;OCC;BS 9
+3976;Nick;Nick BS H 3
+3977;OCC;BS 4
+3977;Kellner;Kellner BS C
+3978;OCC;BS 9
+3978;Nick;Nick BS H 3
+3979;OCC;BS 9
+3979;Nick;Nick BS H 3
+3980;OCC;BS 9
+3980;Nick;Nick BS H 3
+3981;Nick;Nick BS C/F
+3981;Nick;Nick BS H 5
+3982;OCC;BS 7
+3982;Nick;Nick BS F 1a
+3983;OCC;BS 9
+3983;Nick;Nick BS H 3
+3984;OCC;BS 5
+3984;Nick;Nick BS D 3
+3985;OCC;BS 4
+3985;Kellner;Kellner BS C
+3986;OCC;BS 9
+3986;Nick;Nick BS H 3
+3987;OCC;BS 7
+3987;Nick;Nick BS F 1b
+3988;OCC;BS 5
+3989;OCC;BS 9
+3989;Nick;Nick BS H 1
+3989;Nick;Nick BS H 5
+3990;OCC;BS 9
+3990;Nick;Nick BS H 3
+3991;Nick;Nick BS C/F
+3992;OCC;BS 7
+3993;OCC;BS 4
+3993;Kellner;Kellner BS C
+3993;Ziegaus;Ziegaus BS C 17
+3993;Nick;Nick BS C 4
+3994;OCC;BS 5
+3994;Nick;Nick BS D 6
+3995;OCC;BS 7
+3995;Nick;Nick BS F 1a
+3996;OCC;BS 4
+3996;Kellner;Kellner BS C
+3996;Ziegaus;Ziegaus BS C 17
+3996;Nick;Nick BS C 4
+3997;OCC;BS 4
+3997;Kellner;Kellner BS C
+3998;OCC;BS 7
+3998;Nick;Nick BS F 1b
+3999;OCC;BS 4
+3999;Kellner;Kellner BS C
+3999;Nick;Nick BS C 4
+3999;Ziegaus;Ziegaus BS C 17
+4001;Allen;Uncertain type
+4002;OCC;BS 9
+4002;Nick;Nick BS H 3
+4003;OCC;BS 9
+4003;Nick;Nick BS H 3
+4004;OCC;BS 7
+4004;Nick;Nick BS F 1b
+4005;OCC;BS 9
+4005;Nick;Nick BS H 3
+4006;OCC;BS 4
+4006;Kellner;Kellner BS C
+4006;Nick;Nick BS C 4
+4006;Ziegaus;Ziegaus BS C 17
+4007;OCC;BS 9
+4007;Nick;Nick BS H 3
+4008;OCC;BS 7
+4008;Nick;Nick BS F 2a
+4008;Nick;Nick BS F 2b
+4009;OCC;BS 5
+4009;Nick;Nick BS D 3
+4010;Allen;Uncertain type
+4011;OCC;BS 4
+4012;Allen;Uncertain type
+4013;OCC;BS 9
+4013;Nick;Nick BS H 3
+4014;OCC;BS 5
+4014;Nick;Nick BS D 5
+4015;OCC;BS 4
+4015;Kellner;Kellner BS C
+4016;OCC;BS 5
+4016;Nick;Nick BS D 5
+4017;OCC;BS 4
+4017;Kellner;Kellner BS C
+4017;Nick;Nick BS C 4
+4017;Ziegaus;Ziegaus BS C 17
+4018;OCC;BS 9
+4018;Nick;Nick BS H 3
+4019;OCC;BS 5
+4019;Nick;Nick BS D 5
+4020;OCC;BS 4
+4020;Kellner;Kellner BS C
+4020;Nick;Nick BS C 1
+4020;Ziegaus;Ziegaus BS C 19
+4020;Ziegaus;Ziegaus BS C 20
+4021;OCC;BS 4
+4021;Kellner;Kellner BS C
+4021;Nick;Nick BS C 9
+4021;Ziegaus;Ziegaus BS C 22
+4022;OCC;BS 4
+4022;Kellner;Kellner BS C
+4022;Ziegaus;Ziegaus BS C 17
+4022;Nick;Nick BS C 4
+4023;OCC;BS 4
+4023;Kellner;Kellner BS C
+4024;Allen;Uncertain type
+4024;Nick;Nick BS C/F
+4024;OCC;BS 9
+4025;OCC;BS 9
+4025;Nick;Nick BS H 3
+4026;OCC;BS 9
+4026;Nick;Nick BS H 5
+4026;Nick;Nick BS H 1
+4027;OCC;BS 5
+4027;Nick;Nick BS D 6
+4028;OCC;BS 5
+4028;Nick;Nick BS D 3
+4029;OCC;BS 9
+4029;Nick;Nick BS H 3
+4030;OCC;BS 7
+4030;Nick;Nick BS F 2a
+4030;Nick;Nick BS F 2b
+4031;OCC;BS 9
+4031;Nick;Nick BS H 1
+4032;OCC;BS 4
+4032;Kellner;Kellner BS C
+4032;Nick;Nick BS C 4
+4032;Ziegaus;Ziegaus BS C 17
+4033;OCC;BS 8
+4033;OCC;BS 9
+4033;Allen;Uncertain type
+4034;Allen;Uncertain type
+4035;OCC;BS 4
+4035;Kellner;Kellner BS C
+4035;Nick;Nick BS C 4
+4035;Ziegaus;Ziegaus BS C 17
+4036;OCC;BS 9
+4036;Nick;Nick BS H 3
+4037;OCC;BS 7
+4037;Allen;Uncertain type
+4038;OCC;BS 4
+4038;Allen;Uncertain type
+4039;Allen;Uncertain type
+4040;Allen;Uncertain type
+4041;Allen;Uncertain type
+4042;OCC;BS 7
+4042;Nick;Nick BS F 1b
+4043;OCC;BS 4
+4044;OCC;BS 7
+4044;Nick;Nick BS F 1b
+4045;OCC;BS 6
+4045;OCC;BS E 1
+4046;OCC;BS 5
+4047;OCC;BS 2
+4047;Kellner;Kellner BS A
+4047;Ziegaus;Ziegaus BS A/B 10
+4048;OCC;BS 7
+4048;Nick;Nick BS F 1b
+4049;OCC;BS 9
+4049;Nick;Nick BS H 3
+4050;OCC;BS 9
+4050;Nick;Nick BS H 3
+4051;OCC;BS 7
+4051;Nick;Nick BS F 1b
+4052;OCC;BS 5
+4052;Nick;Nick BS D 1
+4053;Allen;Uncertain type
+4054;OCC;BS 3
+4054;Kellner;Kellner BS B
+4054;Ziegaus;Ziegaus BS A/B 13
+4054;Ziegaus;Ziegaus BS A/B 5
+4055;OCC;BS 3
+4055;Ziegaus;Ziegaus BS A/B 5
+4055;Kellner;Kellner BS B
+4056;OCC;BS 3
+4056;Kellner;Kellner BS B
+4056;Ziegaus;Ziegaus BS A/B 3
+4057;OCC;BS 2
+4057;Kellner;Kellner BS A
+4057;OCC;BS 1
+4057;Kellner;Kellner BS Prototype
+4058;OCC;BS 2
+4058;Kellner;Kellner BS A
+4058;Ziegaus;Ziegaus BS A/B 5
+4059;OCC;BS 2
+4059;Kellner;Kellner BS A
+4059;Ziegaus;Ziegaus BS A/B 6
+4060;Allen;Uncertain type
+4061;OCC;BS 1
+4061;Kellner;Kellner BS Prototype
+4061;Ziegaus;Ziegaus BS Prototype 1
+4062;OCC;BS 3
+4062;Kellner;Kellner BS B
+4063;OCC;BS 3
+4063;Kellner;Kellner BS B
+4063;Ziegaus;Ziegaus BS A/B 4
+4064;OCC;BS 3
+4064;Kellner;Kellner BS B
+4064;Ziegaus;Ziegaus BS A/B 4
+4064;Ziegaus;Ziegaus BS A/B 9
+4065;OCC;BS 4
+4065;Allen;Uncertain type
+4066;OCC;BS 4
+4066;Nick;Nick BS C 9
+4066;Allen;Uncertain type
+4067;OCC;BS 4
+4067;Kellner;Kellner BS C
+4067;Nick;Nick BS C 1
+4067;Ziegaus;Ziegaus BS C 19
+4067;Ziegaus;Ziegaus BS C 20
+4068;OCC;BS 4
+4068;Kellner;Kellner BS C
+4068;Ziegaus;Ziegaus BS C 24
+4069;OCC;BS 5
+4069;Nick;Nick BS D 4
+4070;OCC;BS 5
+4070;Nick;Nick BS D 4
+4071;OCC;BS 4
+4071;Kellner;Kellner BS C
+4071;Nick;Nick BS C 1
+4071;Ziegaus;Ziegaus BS C 19
+4071;Ziegaus;Ziegaus BS C 20
+4072;OCC;BS 4
+4072;Kellner;Kellner BS C
+4073;OCC;BS 4
+4073;Kellner;Kellner BS C
+4073;Nick;Nick BS C 9
+4073;Ziegaus;Ziegaus BS C 22
+4074;OCC;BS 5
+4074;Nick;Nick BS D 4
+4075;OCC;BS 4
+4075;Kellner;Kellner BS C
+4076;OCC;BS 4
+4076;Kellner;Kellner BS C
+4077;OCC;BS 4
+4077;Kellner;Kellner BS C
+4077;Ziegaus;Ziegaus BS C 24
+4078;OCC;BS 4
+4078;Kellner;Kellner BS C
+4078;Nick;Nick BS C 1
+4078;Ziegaus;Ziegaus BS C 19
+4078;Ziegaus;Ziegaus BS C 20
+4079;OCC;BS 4
+4079;Kellner;Kellner BS C
+4079;Ziegaus;Ziegaus BS C 22
+4079;Nick;Nick BS C 9
+4080;OCC;BS 5
+4080;Nick;Nick BS D 4
+4081;OCC;BS 4
+4081;Kellner;Kellner BS C
+4081;Nick;Nick BS C 9
+4081;Ziegaus;Ziegaus BS C 22
+4082;OCC;BS 5
+4082;Nick;Nick BS D 4
+4083;OCC;BS 5
+4083;Nick;Nick BS D 4
+4084;OCC;BS 4
+4084;OCC;BS 5
+4085;OCC;BS 5
+4086;OCC;BS 5
+4087;OCC;BS 4
+4087;OCC;BS 5
+4088;OCC;BS 4
+4088;Kellner;Kellner BS C
+4088;Nick;Nick BS C 9
+4088;Ziegaus;Ziegaus BS C 22
+4089;OCC;BS 4
+4089;Kellner;Kellner BS C
+4090;OCC;BS 5
+4090;Nick;Nick BS D 4
+4091;OCC;BS 5
+4091;Nick;Nick BS D 4
+4092;OCC;BS 5
+4092;Nick;Nick BS D 4
+4093;OCC;BS 4
+4093;Kellner;Kellner BS C
+4093;Nick;Nick BS C 4
+4093;Ziegaus;Ziegaus BS C 17
+4094;OCC;BS 4
+4094;Kellner;Kellner BS C
+4094;Ziegaus;Ziegaus BS C 22
+4094;Nick;Nick BS C 9
+4095;OCC;BS 4
+4095;Kellner;Kellner BS C
+4095;Ziegaus;Ziegaus BS C 18
+4096;OCC;BS 5
+4096;Nick;Nick BS D 4
+4097;OCC;BS 4
+4097;Kellner;Kellner BS C
+4097;Nick;Nick BS C 1
+4097;Ziegaus;Ziegaus BS C 19
+4097;Ziegaus;Ziegaus BS C 20
+4098;OCC;BS 5
+4099;OCC;BS 5
+4099;Nick;Nick BS D 4
+4100;OCC;BS 5
+4100;Nick;Nick BS D 4
+4101;OCC;BS 4
+4101;Kellner;Kellner BS C
+4101;Nick;Nick BS C 4
+4101;Ziegaus;Ziegaus BS C 19
+4101;Ziegaus;Ziegaus BS C 20
+4102;OCC;BS 4
+4102;Kellner;Kellner BS C
+4102;Ziegaus;Ziegaus BS C 24
+5188;Allen;Allen BS A
+5188;Ziegaus;Ziegaus BS A/B 5
+6060;OCC;BS 6
+6060;Kellner;Kellner BS E

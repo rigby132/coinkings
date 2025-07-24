@@ -1,0 +1,39 @@
+präsi
+
+0. Recap
+1. Neo4j
+2. Frontend
+3. Ergebnisse
+4. Ausblick
+(5. Bonus)
+
+Recap:
+- Was machen wir?
+
+Neo4j:
+- Daten -Abbildung-> Graph (python, einlesen, metriken)
+- GDS + server api
+- Clustering algos: hdbscan, modularity
+- Queries überall zeigen
+
+Frontend:
+- Erster Versuch mit NVL -> warum wir es nicht mehr benutzen -> nur leaflet
+- UI breakdown (screenshots)
+- live demo
+
+Ergebnisse:
+- bs1-bs5 vs bs6-bs9: Alte Münzen in West&Ost, aber neue Münzen nicht verteilt. (live/screenshot)
+- visuelle ähnilchkeit: 2 atypische Fundorte:  Altenburg-Rheinau(hat impact) + Stradonice(insig.)
+- Typengleichheit -> sehr unterschiedliche Clusterings (zu wenige Münzen?)
+- Internet: vermutlich unsicher(DDOS) -> rate limiting?
+
+Ausblick:
+- Effizienter
+- Bessere UI
+- 2 Wege:
+  -> Analyse ausbauen: Mehr Algos, engere Bindung an DB
+  -> Päsentation ausbauen: Mehr Darstellungmöglichkeiten, Trennung von DB?
+
+Bonus:
+- Extra cypher queries (interaktiv)
+- Svelte
